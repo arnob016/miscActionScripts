@@ -68,6 +68,7 @@ def job(l):
   except:
     if login():
       allpageLink = s.get(l, headers=headers).text
+      tree = html.fromstring(allpageLink)
   
   clickLink.append(l)
   clickLink += tree.xpath("//div[@class='activityinstance']/a[@class='aalink']/@href")
