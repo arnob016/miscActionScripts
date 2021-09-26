@@ -8,6 +8,18 @@ jobs:
       fail-fast: false
     runs-on: ubuntu-latest
     steps:
+    - name: Run check
+      run: |
+        pip install requests
+        python - <<END
+        import requests, sys
+        for workflow in requests.get("https://api.github.com/repos/biplobsd/miscActionScripts/actions/workflows/13538553/runs").json()['workflow_runs'][1:]:
+          if workflow['status'] == 'in_progress':
+            print("Already runing in another workflow job")
+            sys.exit(1)
+          else:
+            print("No active job running")
+        END
     - uses: actions/checkout@v2
     - name: Set up Python 3.9
       uses: actions/setup-python@v2
