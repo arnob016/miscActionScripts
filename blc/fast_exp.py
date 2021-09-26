@@ -29,7 +29,8 @@ def login(user=args.u, passw=args.p):
   
   if not (user or passw): return False
 
-  loginLink = "https://elearn.daffodilvarsity.edu.bd/login/index.php" 
+  loginLink = "https://elearn.daffodilvarsity.edu.bd/login/index.php"
+  s.cookies.clear()
   loginPage = s.get(loginLink, headers=headers).text
   tree = html.fromstring(loginPage)
   logintoken = tree.xpath("//form[@id='login']/input[@name='logintoken']")[0].value
