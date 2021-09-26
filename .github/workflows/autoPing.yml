@@ -19,5 +19,5 @@ jobs:
           pip install --upgrade setuptools wheel
           pip install requests lxml
     - name: Run script
-      run: python3 ./blc/fast_exp.py -m ${{ secrets.MoodleSession }} -n -c ${{ secrets.courseLink }}
+      run: python3 ./blc/fast_exp.py -m ${{ secrets.MoodleSession }} -u ${{ secrets.username }} -p ${{ secrets.password }} -n -c ${{ secrets.courseLink }}
     
