@@ -1,5 +1,7 @@
 name: Run anytime
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: "*/60 * * * *"
 
 jobs:
   blc:
@@ -18,7 +20,7 @@ jobs:
             print("Already runing in another workflow job")
             sys.exit(1)
           else:
-            print("No active job running")
+            print(f"{workflow['run_number']} is not running job")
         END
     - uses: actions/checkout@v2
     - name: Set up Python 3.9
