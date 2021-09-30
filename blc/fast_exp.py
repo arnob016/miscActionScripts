@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 import time
 import os
@@ -5,32 +7,6 @@ import argparse
 import re
 from lxml import html
 from threading import Thread
-
-
-parser = argparse.ArgumentParser(
-    description='Auto geting blc exp. Just for fun!')
-parser.add_argument('-m', type=str, help='Your MoodleSession cookies!')
-parser.add_argument(
-    '-c', nargs='*', help='Your target courses links!')
-parser.add_argument(
-    '-n', action=argparse.BooleanOptionalAction, help='Hide your name!')
-parser.add_argument('-u', type=str, help='Username')
-parser.add_argument('-p', type=str, help='Password')
-parser.add_argument(
-    '-t', action=argparse.BooleanOptionalAction, help='Run in Thread')
-parser.add_argument('--mark', action=argparse.BooleanOptionalAction,
-                    help='Click all mark as completed')
-args = parser.parse_args()
-
-headers = {
-    "user-agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.46 Safari/537.36',
-}
-
-baseUrl = "https://elearn.daffodilvarsity.edu.bd"
-session = requests.Session()
-
-jar = requests.cookies.RequestsCookieJar()
-jar.set('MoodleSession', args.m)
 
 
 def login(user=args.u, passw=args.p):
@@ -184,26 +160,52 @@ def job(l):
         sleep(5)
 
 
-s = requests.Session()
-s.cookies = jar
+if __name__=="__main__":
+    parser = argparse.ArgumentParser(
+        description='Auto geting blc exp. Just for fun!')
+    parser.add_argument('-m', type=str, help='Your MoodleSession cookies!')
+    parser.add_argument(
+        '-c', nargs='*', help='Your target courses links!')
+    parser.add_argument(
+        '-n', action=argparse.BooleanOptionalAction, help='Hide your name!')
+    parser.add_argument('-u', type=str, help='Username')
+    parser.add_argument('-p', type=str, help='Password')
+    parser.add_argument(
+        '-t', action=argparse.BooleanOptionalAction, help='Run in Thread')
+    parser.add_argument('--mark', action=argparse.BooleanOptionalAction,
+                        help='Click all mark as completed')
+    args = parser.parse_args()
+
+    headers = {
+        "user-agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.46 Safari/537.36',
+    }
+
+    baseUrl = "https://elearn.daffodilvarsity.edu.bd"
+    session = requests.Session()
+
+    jar = requests.cookies.RequestsCookieJar()
+    jar.set('MoodleSession', args.m)
+
+    s = requests.Session()
+    s.cookies = jar
 
 
-if loginCheck():
-    if not args.c:
-        courseLink = getAllEnrollCourse("links")
-        print("courses>>", courseLink)
-    else:
-        courseLink = args.c
+    if loginCheck():
+        if not args.c:
+            courseLink = getAllEnrollCourse("links")
+            print("courses>>", courseLink)
+        else:
+            courseLink = args.c
 
-    if args.t:
-        threadList = []
-        for t in courseLink:
-            threadList.append(Thread(target=job, args=(t,)))
-        for _ in threadList:
-            _.start()
-        for _ in threadList:
-            _.join()
-    else:
-        while True:
-            for course in courseLink:
-                job(course)
+        if args.t:
+            threadList = []
+            for t in courseLink:
+                threadList.append(Thread(target=job, args=(t,)))
+            for _ in threadList:
+                _.start()
+            for _ in threadList:
+                _.join()
+        else:
+            while True:
+                for course in courseLink:
+                    job(course)
