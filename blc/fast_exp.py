@@ -9,7 +9,7 @@ from lxml import html
 from threading import Thread
 
 
-def login(user=args.u, passw=args.p):
+def login(user, passw):
     global s
 
     if not (user or passw):
@@ -102,7 +102,7 @@ def loginCheck():
             faildCheck = True
 
     if faildCheck or (not args.m):
-        if login():
+        if login(args.u, args.p):
             return True
         else:
             return False
@@ -193,7 +193,7 @@ if __name__=="__main__":
     if loginCheck():
         if not args.c:
             courseLink = getAllEnrollCourse("links")
-            print("courses>>", courseLink)
+            # print("courses>>", courseLink)
         else:
             courseLink = args.c
 
