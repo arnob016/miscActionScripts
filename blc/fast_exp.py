@@ -7,6 +7,8 @@ import argparse
 import re
 from lxml import html
 from threading import Thread
+import re
+from datetime import datetime
 
 
 def login(user, passw):
@@ -48,7 +50,7 @@ def sesskeyGet(allpageLink):
     return re.search(r"sesskey\"\:\"([^\"]+)", allpageLink, re.M).group(1)
 
 
-def getAllEnrollCourse(mode="all"):
+def getAllEnrollCourse():
     allpageLink = s.get(f"{baseUrl}/my/", headers=headers).text
     sesskey = sesskeyGet(allpageLink)
     postUrl = fr"{baseUrl}/lib/ajax/service.php"
@@ -59,13 +61,79 @@ def getAllEnrollCourse(mode="all"):
         json=[{"methodname": "core_course_get_enrolled_courses_by_timeline_classification",
                "args": {"classification": "all"}}], headers=headers).json()
 
-    if mode == "all":
-        return data
-    elif mode == "links":
-        courseLink = []
-        for link in data[0]["data"]["courses"]:
-            courseLink.append(link["viewurl"])
-        return courseLink
+    return data[0]["data"]["courses"]
+
+
+def getLinks(courses):
+    courseLink = []
+    for link in courses:
+        courseLink.append(link["viewurl"])
+    return courseLink
+
+
+def getSemister(semi=""):
+    coursesGroup = courseGroup(getAllEnrollCourse())
+    coursesGroupMarge = coursesGroup[0]
+    coursesGroupMarge["unknown"] = coursesGroup[1]
+    if not semi:
+        coursesGrp = coursesGroup[0]
+        coursesLevel = {
+            "Summer": '1',
+            "Spring": '0',
+            "Fall": '2'
+        }
+        coursesLevelIndex = {
+            '1': "Summer",
+            '0': "Spring",
+            '2': "Fall"
+        }
+        courseIndex = []
+        for session, century in coursesGrp.items():
+            for year in century.keys():
+                courseIndex.append(int(f"{year}{coursesLevel[session]}"))
+
+        courseLatest = str(sorted(courseIndex, reverse=True)[0])
+        semi = f"{coursesLevelIndex[courseLatest[-1]]}{courseLatest[:2]}"
+    print(semi)
+    return coursesGroupMarge[semi[:-2]][semi[-2:]]
+
+
+def courseGroup(courses):
+    coursesGroup = {
+        "Summer": {},
+        "Spring": {},
+        "Fall": {}
+    }
+
+    coursesUnknown = {}
+
+    for course in courses:
+        brkFlag = False
+        for session in coursesGroup:
+            for section in ["coursecategory", "fullname", "fullnamedisplay"]:
+                search = re.search(
+                    session+".(\d{2,4})", course[section], re.IGNORECASE)
+                if search:
+                    try:
+                        coursesGroup[session][
+                            search.group(1)[-2:]].append(course)
+                    except KeyError:
+                        coursesGroup[session][
+                            search.group(1)[-2:]] = [course]
+                    brkFlag = True
+                    break
+                elif session == "unknown" and search == None:
+                    century = datetime.utcfromtimestamp(
+                        course['startdate']).strftime('%C')
+                    try:
+                        coursesUnknown[century].append(course)
+                    except KeyError:
+                        coursesUnknown[century] = [course]
+                    break
+            if brkFlag:
+                break
+
+    return (coursesGroup, coursesUnknown)
 
 
 def marksAsDone(allpageLink):
@@ -160,7 +228,7 @@ def job(l):
         sleep(5)
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Auto geting blc exp. Just for fun!')
     parser.add_argument('-m', type=str, help='Your MoodleSession cookies!')
@@ -174,6 +242,10 @@ if __name__=="__main__":
         '-t', action=argparse.BooleanOptionalAction, help='Run in Thread')
     parser.add_argument('--mark', action=argparse.BooleanOptionalAction,
                         help='Click all mark as completed')
+    parser.add_argument('--all', action=argparse.BooleanOptionalAction,
+                        help='Work with all courses, without this flag auto get latest semister')
+    parser.add_argument('--semi', type=str,
+                        help='Define which semister with working ex: --semi Fall21')
     args = parser.parse_args()
 
     headers = {
@@ -189,11 +261,17 @@ if __name__=="__main__":
     s = requests.Session()
     s.cookies = jar
 
-
     if loginCheck():
         if not args.c:
-            courseLink = getAllEnrollCourse("links")
-            # print("courses>>", courseLink)
+            if args.all:
+                courseLink = getLinks(getAllEnrollCourse())
+            elif args.semi:
+                courseLink = getLinks(getSemister(args.semi))
+            else:
+                courseLink = getLinks(getSemister())
+
+            # print("courses>>", len(courseLink))
+            # exit()
         else:
             courseLink = args.c
 
@@ -209,3 +287,5 @@ if __name__=="__main__":
             while True:
                 for course in courseLink:
                     job(course)
+    else:
+        raise Exception("Login unsccessful!")
