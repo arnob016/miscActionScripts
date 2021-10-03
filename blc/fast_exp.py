@@ -193,7 +193,11 @@ def job(l):
         "//div[@class='activityinstance']/a[@class='aalink']/@href")
     for ids, link in enumerate(clickLink):
         loop = ids
-        trying = s.get(link, headers=headers, timeout=30)
+        try:
+            trying = s.get(link, headers=headers, timeout=30)
+        except requests.exceptions.ReadTimeout:
+            print(f"Timeout : {link}")
+            continue
         trylogin = trying.text
         if not trying.status_code == 200:
             if eT < 3:
