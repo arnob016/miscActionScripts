@@ -39,11 +39,11 @@ def clear_output():
 
 
 def sleep(s):
-    print("")
+    # print("")
     for i in range(s, 0, -1):
-        print('-', end='')
+        print('-', end='', flush=True)
         time.sleep(1)
-    print("")
+    # print("")
 
 
 def sesskeyGet(allpageLink):
@@ -94,7 +94,7 @@ def getSemister(semi=""):
 
         courseLatest = str(sorted(courseIndex, reverse=True)[0])
         semi = f"{coursesLevelIndex[courseLatest[-1]]}{courseLatest[:2]}"
-    print(semi)
+    print(semi, flush=True)
     return coursesGroupMarge[semi[:-2]][semi[-2:]]
 
 
@@ -152,9 +152,9 @@ def marksAsDone(allpageLink):
                   "args":
                       {"cmid": int(cmid),
                        "completed": True}
-                       }], headers=headers).json()[0]['data']["status"])
+                       }], headers=headers).json()[0]['data']["status"], flush=True)
     else:
-        print("All Marks already Done")
+        print("All Marks already Done", flush=True)
 
 
 def loginCheck():
@@ -185,7 +185,7 @@ def job(l):
     allpageLink = s.get(l, headers=headers).text
     tree = html.fromstring(allpageLink)
 
-    print(tree.xpath("//h3[@class='page-title mb-0']")[0].text)
+    print("\n"+tree.xpath("//h3[@class='page-title mb-0']")[0].text, flush=True)
     if args.mark:
         marksAsDone(allpageLink)
     clickLink.append(l)
@@ -194,14 +194,16 @@ def job(l):
     for ids, link in enumerate(clickLink):
         loop = ids
         try:
-            trying = s.get(link, headers=headers, timeout=30)
-        except requests.exceptions.ReadTimeout:
-            print(f"Timeout : {link}")
+            trying = s.get(link, headers=headers, timeout=30, stream=True)
+        except requests.exceptions.ReadTimeout as e:
+            print(f"Timeout : {link}\nerror:{e}", flush=True)
             continue
-        trylogin = trying.text
+        except requests.exceptions.ConnectionError as e:
+            print(f"Timeout : {link}\nerror:{e}", flush=True)
+            continue
         if not trying.status_code == 200:
             if eT < 3:
-                print(f"Retrying... {eT}")
+                print(f"Retrying... {eT}", flush=True)
                 eT += 1
                 continue
             else:
@@ -209,7 +211,7 @@ def job(l):
                 raise Exception(
                     f"Status code: {trying.status_code}\n count: {loop}\nLink: {link}")
         if ids == 0:
-            tree = html.fromstring(trylogin)
+            tree = html.fromstring(trying.text)
             if not args.n:
                 name = tree.xpath('//span[@class="username pr-1"]/text()')
             else:
@@ -221,14 +223,14 @@ def job(l):
             except:
                 nowEx = 0
             print(
-                f"{name} xp:{nowEx-old if loop != 0 else 0}+ T:{nowEx}xp Loop:{loop} \n[0]", end='')
+                f"{name} xp:{nowEx-old if loop != 0 else 0}+ T:{nowEx}xp Loop:{loop} \n[0]", end='', flush=True)
             if loop != 0 and (nowEx-old) == 0:
                 sleep(5)
 
             old = nowEx
 
         else:
-            print(f"[{ids}]", end='')
+            print(f"[{ids}]", end='', flush=True)
         sleep(5)
 
 
