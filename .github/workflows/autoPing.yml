@@ -1,7 +1,5 @@
 name: Run anytime
-on:
-  schedule:
-    - cron: "*/60 * * * *"
+on: workflow_dispatch
 
 jobs:
   blc:
