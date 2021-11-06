@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     p = newTrcBuil(source_account_getted, args.m)
     for no, acc in enumerate(account_list):
-        p.append_payment_op(acc, Asset.native(), "1")
+        p.append_payment_op(acc, Asset.native(), args.a)
         if (no+1) % 100 == 0:
             transaction = (
                 p
