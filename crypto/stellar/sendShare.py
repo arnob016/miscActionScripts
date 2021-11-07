@@ -34,7 +34,7 @@ def newTrcBuil(source_account_getted, memo):
     base_fee = 100
     return TransactionBuilder(
         source_account=source_account_getted,
-        network_passphrase=Network.TESTNET_NETWORK_PASSPHRASE,
+        network_passphrase=Network.PUBLIC_NETWORK_PASSPHRASE,
         base_fee=base_fee,
     ).add_text_memo(memo)
 
@@ -48,9 +48,12 @@ if __name__ == "__main__":
         '-rlist', type=str, help='Destination public key, file path.', required=True)
     parser.add_argument('-a', type=str, help='Amount to send', required=True)
     parser.add_argument('-m', type=str, help='Memo massage', required=True)
+    asset = [
+	    Asset("BULL", "GC7OPUQ7ZUGE6IUP66HVXCNYWIYJ7M522Z5X7KG23BRI7YZN2RCJKWXF"),
+	]
     args = parser.parse_args()
 
-    server = Server(horizon_url="https://horizon-testnet.stellar.org")
+    server = Server(horizon_url="https://horizon.stellar.org")
     sa = source_account(args.ssk)
     source_account_getted, source_keypair = sa
     account_list = load_accounts(args.rlist)
@@ -61,13 +64,13 @@ if __name__ == "__main__":
     for no, acc in enumerate(account_list):
         list_claimants.append(Claimant(
             destination=acc,
-            predicate=ClaimPredicate.predicate_unconditional()
+            predicate=ClaimPredicate.predicate_not(ClaimPredicate.predicate_before_relative_time(1209600))
         ))
-        if (no+1) % 5 == 0:
-            p.append_create_claimable_balance_op(Asset.native(), args.a, list_claimants, source=source_keypair.public_key)
+        if (no+1) % 1 == 0:
+            p.append_create_claimable_balance_op(asset[0], args.a, list_claimants, source=source_keypair.public_key)
             list_claimants = []
             count += 1
-        if count==100:
+        if count==2:
             transaction = (
                 p
                 .set_timeout(30)
@@ -85,3 +88,4 @@ if __name__ == "__main__":
                 w.write(print_log)
             list_claimants = []
             count = 0
+            break
