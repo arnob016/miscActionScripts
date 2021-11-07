@@ -2,7 +2,7 @@
 import argparse
 import datetime
 import requests
-from stellar_sdk import Asset, Keypair, Network, Server, TransactionBuilder
+from stellar_sdk import Asset,Claimant, ClaimPredicate, Keypair, Network, Server, TransactionBuilder
 
 
 def get_time():
@@ -56,9 +56,18 @@ if __name__ == "__main__":
     account_list = load_accounts(args.rlist)
 
     p = newTrcBuil(source_account_getted, args.m)
+    list_claimants = []
+    count = 0
     for no, acc in enumerate(account_list):
-        p.append_payment_op(acc, Asset.native(), args.a)
-        if (no+1) % 100 == 0:
+        list_claimants.append(Claimant(
+            destination=acc,
+            predicate=ClaimPredicate.predicate_unconditional()
+        ))
+        if (no+1) % 5 == 0:
+            p.append_create_claimable_balance_op(Asset.native(), args.a, list_claimants, source=source_keypair.public_key)
+            list_claimants = []
+            count += 1
+        if count==100:
             transaction = (
                 p
                 .set_timeout(30)
@@ -67,13 +76,12 @@ if __name__ == "__main__":
             send_return = send_token(transaction, source_keypair)
             p = newTrcBuil(source_account_getted, args.m)
             trxLink = send_return["_links"]['self']['href']
-            print_log = f'{get_time()} {no+1:5d} {"Successful" if send_return["successful"] else "Unsuccessful"} {trxLink} {send_return["source_account"]}'
+            print_log = f'{get_time()} {no+1:5d} {"Successful" if send_return["successful"] else "Unsuccessful"} {trxLink} {send_return["source_account"]} '
             print(print_log)
-            print_log += " -> "
             destitaion_account = requests.get(
                 send_return['_links']['operations']['href'][:-21], params={"limit": 200}).json()['_embedded']['records']
-            for desC in destitaion_account:
-                print_log += desC['to']+","
             print_log = print_log[:-1]+"\n"
             with open("history.txt", "a+") as w:
                 w.write(print_log)
+            list_claimants = []
+            count = 0
