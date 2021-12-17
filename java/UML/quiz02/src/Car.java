@@ -10,7 +10,7 @@ interface Drive{
     public void stop();
 }
 
-class Vehicle {
+abstract class Vehicle {
     
     
     public String model;
@@ -19,16 +19,14 @@ class Vehicle {
         this.model = model;
     }
     
-    public void display(){
-        System.out.println("Mode: "+ model);
-    }
+    public abstract void display();
     
     
 }
 
 class Car extends Vehicle implements Drive{
     
-    private double price;
+    private final double price;
     
     public Car(String model, double price){
         super(model);
@@ -37,8 +35,8 @@ class Car extends Vehicle implements Drive{
     
     @Override
     public void display(){
-         super.display();
-         System.out.println("Price: "+price);
+         System.out.println("Mode: "+ model);
+         System.out.println("Price: "+ price);
      }
     
     @Override
@@ -55,6 +53,7 @@ class Car extends Vehicle implements Drive{
         Car car = new Car("S3", 20000.32);
         
         car.display();
+        System.out.println();
         car.start();
         car.stop();
     }
