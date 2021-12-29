@@ -14,22 +14,22 @@
         "cgpa": 3.96,
         "name": "Mahadi Hasan Munna",
         "cTitleNgLetter": [
-            "Engineering Mathematics            \t A+ \n",
-            "Object Oriented Programming        \t A+ \n",
-            "Basic Electronics                  \t A+ \n",
-            "Object Oriented Programming Lab    \t A+ \n",
             "Financial and Managerial Accounting\t A \n",
-            "Basic Electronics Lab              \t A+ \n"
+            "Engineering Mathematics            \t A+ \n",
+            "Basic Electronics                  \t A+ \n",
+            "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming        \t A+ \n",
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3927": {
         "cgpa": 3.89,
         "name": "Md.Zonaid",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t A+ \n",
             "Financial and Managerial Accounting\t A- \n",
             "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t A+ \n",
+            "Basic Electronics                  \t A+ \n",
             "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
@@ -39,21 +39,21 @@
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t A \n",
             "Basic Electronics                  \t A+ \n",
-            "Object Oriented Programming Lab    \t A \n",
             "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming        \t A+ \n"
+            "Object Oriented Programming        \t A+ \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "203-15-3862": {
         "cgpa": 3.85,
         "name": "Sakir Hossain Faruque",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Object Oriented Programming        \t A+ \n",
-            "Basic Electronics                  \t A \n",
+            "Financial and Managerial Accounting\t B+ \n",
             "Engineering Mathematics            \t A+ \n",
+            "Basic Electronics                  \t A \n",
             "Basic Electronics Lab              \t A+ \n",
-            "Financial and Managerial Accounting\t B+ \n"
+            "Object Oriented Programming        \t A+ \n",
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3885": {
@@ -73,22 +73,22 @@
         "name": "Jahidul Islam",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B+ \n",
+            "Engineering Mathematics            \t A \n",
+            "Basic Electronics                  \t A+ \n",
             "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t A+ \n",
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Engineering Mathematics            \t A \n",
-            "Basic Electronics                  \t A+ \n"
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "201-15-3442": {
         "cgpa": 3.78,
         "name": "Md.Foysal Sheikh",
         "cTitleNgLetter": [
+            "Financial and Managerial Accounting\t B \n",
             "Basic Electronics                  \t A+ \n",
             "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t A+ \n",
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Financial and Managerial Accounting\t B \n"
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3916": {
@@ -96,33 +96,33 @@
         "name": "MD. LIKHON MIA",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t A- \n",
-            "Object Oriented Programming        \t A- \n",
             "Basic Electronics                  \t A \n",
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Basic Electronics Lab              \t A+ \n"
+            "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming        \t A- \n",
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3923": {
         "cgpa": 3.72,
         "name": "Biplob Sutradhar",
         "cTitleNgLetter": [
-            "Financial and Managerial Accounting\t B+ \n",
-            "Object Oriented Programming        \t A \n",
             "Basic Electronics                  \t A- \n",
-            "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming Lab    \t A+ \n"
+            "Object Oriented Programming        \t A \n",
+            "Financial and Managerial Accounting\t B+ \n",
+            "Object Oriented Programming Lab    \t A+ \n",
+            "Basic Electronics Lab              \t A+ \n"
         ]
     },
     "203-15-3887": {
         "cgpa": 3.69,
         "name": "Jahid Imran",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A- \n",
-            "Engineering Mathematics            \t A \n",
             "Financial and Managerial Accounting\t A \n",
+            "Engineering Mathematics            \t A \n",
+            "Basic Electronics                  \t B \n",
+            "Basic Electronics Lab              \t A- \n",
             "Object Oriented Programming        \t A+ \n",
-            "Object Oriented Programming Lab    \t A \n",
-            "Basic Electronics                  \t B \n"
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "201-15-3402": {
@@ -151,11 +151,11 @@
         "cgpa": 3.67,
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
-            "Financial and Managerial Accounting\t B+ \n",
+            "Object Oriented Programming Lab    \t A+ \n",
             "Basic Electronics                  \t A- \n",
             "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t A- \n",
-            "Object Oriented Programming Lab    \t A+ \n"
+            "Financial and Managerial Accounting\t B+ \n"
         ]
     },
     "203-15-3867": {
@@ -163,11 +163,11 @@
         "name": "Md Akil Hasan",
         "cTitleNgLetter": [
             "Basic Electronics                  \t A+ \n",
+            "Object Oriented Programming Lab    \t B+ \n",
             "Financial and Managerial Accounting\t A- \n",
-            "Engineering Mathematics            \t A+ \n",
-            "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t B+ \n",
-            "Object Oriented Programming Lab    \t B+ \n"
+            "Engineering Mathematics            \t A+ \n",
+            "Basic Electronics Lab              \t A+ \n"
         ]
     },
     "201-15-3063": {
@@ -186,42 +186,42 @@
         "cgpa": 3.64,
         "name": "Mehedi Hasan",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A- \n",
-            "Financial and Managerial Accounting\t A- \n",
-            "Object Oriented Programming        \t A- \n",
             "Basic Electronics Lab              \t A+ \n",
-            "Basic Electronics                  \t A \n"
+            "Basic Electronics                  \t A \n",
+            "Object Oriented Programming        \t A- \n",
+            "Object Oriented Programming Lab    \t A- \n",
+            "Financial and Managerial Accounting\t A- \n"
         ]
     },
     "203-15-3874": {
         "cgpa": 3.63,
         "name": "Md. Robiul Islam",
         "cTitleNgLetter": [
-            "Software Project I                 \t A+ \n",
-            "Data Structure                     \t A \n",
             "Discrete Mathematics               \t A- \n",
-            "Data Structure Lab                 \t A- \n"
+            "Data Structure                     \t A \n",
+            "Data Structure Lab                 \t A- \n",
+            "Software Project I                 \t A+ \n"
         ]
     },
     "201-15-3397": {
         "cgpa": 3.61,
         "name": "Amir Hamza Suvo",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t A \n",
             "Basic Electronics                  \t A- \n",
+            "Object Oriented Programming        \t A \n",
+            "Object Oriented Programming Lab    \t A- \n",
             "Financial and Managerial Accounting\t B+ \n",
-            "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming Lab    \t A- \n"
+            "Basic Electronics Lab              \t A+ \n"
         ]
     },
     "202-15-3824": {
         "cgpa": 3.5,
         "name": "SakibS Sarker",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t A- \n",
+            "Financial and Managerial Accounting\t B \n",
             "Basic Electronics                  \t A- \n",
             "Basic Electronics Lab              \t A \n",
-            "Financial and Managerial Accounting\t B \n",
+            "Object Oriented Programming        \t A- \n",
             "Object Oriented Programming Lab    \t A \n"
         ]
     },
@@ -240,22 +240,22 @@
         "cgpa": 3.42,
         "name": "Md.Robiul Awol",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A \n",
             "Financial and Managerial Accounting\t B+ \n",
+            "Basic Electronics                  \t B+ \n",
+            "Basic Electronics Lab              \t A \n",
             "Object Oriented Programming        \t B \n",
-            "Object Oriented Programming Lab    \t A \n",
-            "Basic Electronics                  \t B+ \n"
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "203-15-3898": {
         "cgpa": 3.39,
         "name": "Md. Mahian Islam Sadim ",
         "cTitleNgLetter": [
+            "Basic Electronics                  \t B \n",
             "Financial and Managerial Accounting\t B \n",
             "Object Oriented Programming        \t B \n",
-            "Basic Electronics                  \t B \n",
-            "Basic Electronics Lab              \t A \n",
-            "Object Oriented Programming Lab    \t A+ \n"
+            "Object Oriented Programming Lab    \t A+ \n",
+            "Basic Electronics Lab              \t A \n"
         ]
     },
     "203-15-3902": {
@@ -273,12 +273,12 @@
         "cgpa": 3.38,
         "name": "Israt Jahan",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t A- \n",
-            "Basic Electronics Lab              \t A+ \n",
-            "Engineering Mathematics            \t B \n",
-            "Object Oriented Programming Lab    \t B+ \n",
             "Financial and Managerial Accounting\t B+ \n",
-            "Basic Electronics                  \t A- \n"
+            "Engineering Mathematics            \t B \n",
+            "Basic Electronics                  \t A- \n",
+            "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming        \t A- \n",
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "201-15-3779": {
@@ -287,8 +287,8 @@
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B- \n",
             "Basic Electronics                  \t A \n",
-            "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming        \t B \n",
+            "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming Lab    \t A- \n"
         ]
     },
@@ -296,35 +296,35 @@
         "cgpa": 3.35,
         "name": "Sakibul  Islam Shakib",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A \n",
-            "Object Oriented Programming Lab    \t A+ \n",
             "Financial and Managerial Accounting\t B \n",
             "Engineering Mathematics            \t C+ \n",
             "Basic Electronics                  \t B+ \n",
-            "Object Oriented Programming        \t A+ \n"
+            "Basic Electronics Lab              \t A \n",
+            "Object Oriented Programming        \t A+ \n",
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3921": {
         "cgpa": 3.31,
         "name": "Ratul Karim",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t C+ \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t A \n",
-            "Object Oriented Programming        \t B+ \n"
+            "Object Oriented Programming        \t B+ \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "203-15-3886": {
         "cgpa": 3.31,
         "name": "Al-Sabbir-Bin-Saifullah Emon",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A- \n",
             "Financial and Managerial Accounting\t A- \n",
             "Engineering Mathematics            \t B \n",
-            "Object Oriented Programming Lab    \t A- \n",
+            "Basic Electronics                  \t B+ \n",
+            "Basic Electronics Lab              \t A- \n",
             "Object Oriented Programming        \t B+ \n",
-            "Basic Electronics                  \t B+ \n"
+            "Object Oriented Programming Lab    \t A- \n"
         ]
     },
     "203-15-3865": {
@@ -332,9 +332,9 @@
         "name": "Shekh Naziullah",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B+ \n",
+            "Engineering Mathematics            \t B \n",
             "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A \n",
-            "Engineering Mathematics            \t B \n",
             "Object Oriented Programming        \t A- \n",
             "Object Oriented Programming Lab    \t B+ \n"
         ]
@@ -343,23 +343,23 @@
         "cgpa": 3.29,
         "name": "Tuhanur Haque Talha ",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t A- \n",
+            "Object Oriented Programming        \t B+ \n",
+            "Basic Electronics Lab              \t A+ \n",
             "Engineering Mathematics            \t B \n",
             "Object Oriented Programming Lab    \t A- \n",
-            "Financial and Managerial Accounting\t B- \n",
-            "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming        \t B+ \n"
+            "Basic Electronics                  \t A- \n",
+            "Financial and Managerial Accounting\t B- \n"
         ]
     },
     "203-15-3877": {
         "cgpa": 3.29,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t A \n",
             "Financial and Managerial Accounting\t B+ \n",
             "Engineering Mathematics            \t C \n",
             "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A \n",
+            "Object Oriented Programming        \t A \n",
             "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
@@ -374,25 +374,15 @@
             "Object Oriented Programming        \t A- \n"
         ]
     },
-    "181-15-2017": {
-        "cgpa": 3.28,
-        "name": "Md.Sujon Ahmed",
-        "cTitleNgLetter": [
-            "Digital Electronics                \t A+ \n",
-            "Object Oriented Programming Lab    \t B \n",
-            "Digital Electronics Lab            \t C \n",
-            "Object Oriented Programming        \t B \n"
-        ]
-    },
     "203-15-3906": {
         "cgpa": 3.28,
         "name": "Arnob Dey",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A- \n",
-            "Object Oriented Programming Lab    \t A \n",
             "Basic Electronics                  \t B \n",
             "Financial and Managerial Accounting\t B \n",
-            "Object Oriented Programming        \t B \n"
+            "Basic Electronics Lab              \t A- \n",
+            "Object Oriented Programming        \t B \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "203-15-3918": {
@@ -418,16 +408,27 @@
             "Object Oriented Programming Lab    \t A- \n"
         ]
     },
+    "181-15-2017": {
+        "cgpa": 3.2,
+        "name": "Md.Sujon Ahmed",
+        "cTitleNgLetter": [
+            "Digital Electronics                \t A+ \n",
+            "Bangladesh Studies                 \t B \n",
+            "Digital Electronics Lab            \t C \n",
+            "Object Oriented Programming        \t B \n",
+            "Object Oriented Programming Lab    \t B \n"
+        ]
+    },
     "203-15-3876": {
         "cgpa": 3.17,
         "name": "Shekh Kaniz Fatema ",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t A- \n",
-            "Engineering Mathematics            \t D \n",
             "Financial and Managerial Accounting\t B+ \n",
+            "Engineering Mathematics            \t D \n",
+            "Basic Electronics                  \t A- \n",
             "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming Lab    \t A- \n",
-            "Object Oriented Programming        \t A- \n"
+            "Object Oriented Programming        \t A- \n",
+            "Object Oriented Programming Lab    \t A- \n"
         ]
     },
     "181-15-1852": {
@@ -458,65 +459,65 @@
         "name": "Md.Mahmudul hasan Rihan",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B- \n",
-            "Basic Electronics                  \t B+ \n",
-            "Basic Electronics Lab              \t A \n",
             "Object Oriented Programming        \t B \n",
-            "Object Oriented Programming Lab    \t B- \n"
+            "Basic Electronics Lab              \t A \n",
+            "Object Oriented Programming Lab    \t B- \n",
+            "Basic Electronics                  \t B+ \n"
         ]
     },
     "201-15-3208": {
         "cgpa": 3.08,
         "name": "Omor Faruk",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t B+ \n",
             "Financial and Managerial Accounting\t C \n",
+            "Basic Electronics                  \t B+ \n",
+            "Basic Electronics Lab              \t A \n",
             "Object Oriented Programming        \t B \n",
-            "Object Oriented Programming Lab    \t B+ \n",
-            "Basic Electronics Lab              \t A \n"
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "203-15-3896": {
         "cgpa": 3.06,
         "name": "MD. AL EMON ",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A- \n",
-            "Basic Electronics                  \t B- \n",
-            "Object Oriented Programming Lab    \t B+ \n",
-            "Object Oriented Programming        \t B+ \n",
             "Financial and Managerial Accounting\t B+ \n",
-            "Engineering Mathematics            \t C+ \n"
+            "Engineering Mathematics            \t C+ \n",
+            "Basic Electronics                  \t B- \n",
+            "Basic Electronics Lab              \t A- \n",
+            "Object Oriented Programming        \t B+ \n",
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "201-15-3283": {
         "cgpa": 3.06,
         "name": "Mazharul Islam",
         "cTitleNgLetter": [
-            "Financial and Managerial Accounting\t C+ \n",
-            "Basic Electronics Lab              \t B+ \n",
+            "Object Oriented Programming Lab    \t B+ \n",
             "Object Oriented Programming        \t B+ \n",
-            "Object Oriented Programming Lab    \t B+ \n"
+            "Financial and Managerial Accounting\t C+ \n",
+            "Basic Electronics Lab              \t B+ \n"
         ]
     },
     "203-15-3925": {
         "cgpa": 3.03,
         "name": "Md. Ashikur Rahman Shovo",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t B+ \n",
+            "Financial and Managerial Accounting\t B- \n",
             "Object Oriented Programming Lab    \t B+ \n",
+            "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A- \n",
-            "Object Oriented Programming        \t C+ \n",
-            "Financial and Managerial Accounting\t B- \n"
+            "Object Oriented Programming        \t C+ \n"
         ]
     },
     "191-15-2612": {
         "cgpa": 3.03,
         "name": "Md.Rabbi hasan",
         "cTitleNgLetter": [
+            "Software Engineering               \t C+ \n",
+            "Compiler Design                    \t B+ \n",
             "Compiler Design Lab                \t A- \n",
             "Pervasive Computing                \t B- \n",
-            "Software Engineering               \t C+ \n",
-            "Pervasive Computing and Mobile App Development Lab\t B+ \n",
-            "Compiler Design                    \t B+ \n"
+            "Pervasive Computing and Mobile App Development Lab\t B+ \n"
         ]
     },
     "203-15-3880": {
@@ -535,48 +536,48 @@
         "cgpa": 3.0,
         "name": "Mst. Rabeya Bosrin ",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t B- \n",
-            "Basic Electronics                  \t B \n",
-            "Financial and Managerial Accounting\t B- \n",
             "Engineering Mathematics            \t C+ \n",
+            "Financial and Managerial Accounting\t B- \n",
             "Object Oriented Programming Lab    \t A- \n",
-            "Basic Electronics Lab              \t A \n"
+            "Basic Electronics Lab              \t A \n",
+            "Object Oriented Programming        \t B- \n",
+            "Basic Electronics                  \t B \n"
         ]
     },
     "203-15-3889": {
         "cgpa": 2.94,
         "name": "MD TAHAMID RAYHAN",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t B \n",
             "Financial and Managerial Accounting\t B \n",
-            "Object Oriented Programming Lab    \t B+ \n",
             "Engineering Mathematics            \t C \n",
+            "Basic Electronics                  \t B \n",
             "Basic Electronics Lab              \t A- \n",
-            "Object Oriented Programming        \t B \n"
+            "Object Oriented Programming        \t B \n",
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "203-15-3894": {
         "cgpa": 2.94,
         "name": "Zahin faisal",
         "cTitleNgLetter": [
-            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t B \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t B+ \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n"
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
         "cgpa": 2.94,
         "name": "Abul Kalam Lotif ",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A \n",
-            "Engineering Mathematics            \t C \n",
-            "Object Oriented Programming        \t B- \n",
             "Financial and Managerial Accounting\t B- \n",
-            "Object Oriented Programming Lab    \t B+ \n",
-            "Basic Electronics                  \t A- \n"
+            "Engineering Mathematics            \t C \n",
+            "Basic Electronics                  \t A- \n",
+            "Basic Electronics Lab              \t A \n",
+            "Object Oriented Programming        \t B- \n",
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "203-15-3856": {
@@ -606,47 +607,47 @@
         "cgpa": 2.89,
         "name": "Md.Mahmudul Hasan",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t B- \n",
-            "Object Oriented Programming Lab    \t A- \n",
             "Financial and Managerial Accounting\t C+ \n",
+            "Basic Electronics                  \t C+ \n",
             "Basic Electronics Lab              \t B \n",
-            "Basic Electronics                  \t C+ \n"
+            "Object Oriented Programming        \t B- \n",
+            "Object Oriented Programming Lab    \t A- \n"
         ]
     },
     "203-15-3857": {
         "cgpa": 2.77,
         "name": "Ritwika Dey Risha ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t B \n",
-            "Engineering Mathematics            \t C+ \n",
-            "Object Oriented Programming        \t B- \n",
             "Financial and Managerial Accounting\t D \n",
+            "Engineering Mathematics            \t C+ \n",
+            "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A- \n",
-            "Basic Electronics                  \t B+ \n"
+            "Object Oriented Programming        \t B- \n",
+            "Object Oriented Programming Lab    \t B \n"
         ]
     },
     "203-15-3930": {
         "cgpa": 2.77,
         "name": "Farabi Ahnaf Akib",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t B \n",
-            "Object Oriented Programming Lab    \t B \n",
+            "Financial and Managerial Accounting\t C \n",
             "Engineering Mathematics            \t C \n",
             "Basic Electronics                  \t B \n",
             "Basic Electronics Lab              \t A- \n",
-            "Financial and Managerial Accounting\t C \n"
+            "Object Oriented Programming        \t B \n",
+            "Object Oriented Programming Lab    \t B \n"
         ]
     },
     "203-15-3884": {
         "cgpa": 2.71,
         "name": "M. Mukit Mosfiq",
         "cTitleNgLetter": [
-            "Basic Electronics                  \t B \n",
             "Financial and Managerial Accounting\t B+ \n",
             "Engineering Mathematics            \t D \n",
-            "Object Oriented Programming Lab    \t B- \n",
+            "Basic Electronics                  \t B \n",
+            "Basic Electronics Lab              \t A- \n",
             "Object Oriented Programming        \t C \n",
-            "Basic Electronics Lab              \t A- \n"
+            "Object Oriented Programming Lab    \t B- \n"
         ]
     },
     "203-15-3914": {
@@ -654,9 +655,9 @@
         "name": "B.M. Rahat Almas",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t F \n",
+            "Basic Electronics                  \t B \n",
             "Basic Electronics Lab              \t A- \n",
             "Object Oriented Programming        \t A- \n",
-            "Basic Electronics                  \t B \n",
             "Object Oriented Programming Lab    \t A- \n"
         ]
     },
@@ -665,10 +666,10 @@
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t F \n",
-            "Basic Electronics Lab              \t B+ \n",
-            "Basic Electronics                  \t C+ \n",
-            "Object Oriented Programming        \t C \n",
             "Engineering Mathematics            \t D \n",
+            "Basic Electronics                  \t C+ \n",
+            "Basic Electronics Lab              \t B+ \n",
+            "Object Oriented Programming        \t C \n",
             "Object Oriented Programming Lab    \t C+ \n"
         ]
     },
@@ -676,11 +677,11 @@
         "cgpa": 0.0,
         "name": "Mehedi hasan lipo",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n"
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "181-15-1096": {
@@ -698,10 +699,10 @@
         "name": "Farhan Adnan",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n"
         ]
     },
     "181-15-2070": {
@@ -711,20 +712,20 @@
             "Artificial Intelligence            \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
             "Simulation and Modeling            \t Teaching evaluation is pending \n",
-            "Web Engineering                    \t Teaching evaluation is pending \n",
-            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
+            "Web Engineering                    \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3193": {
         "cgpa": 0.0,
         "name": "Md.Redul Hussain",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n"
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3526": {
@@ -753,11 +754,11 @@
         "cgpa": 0.0,
         "name": "Tania Akter",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n"
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3878": {
@@ -781,12 +782,12 @@
         "cgpa": 0.0,
         "name": "Md. Anowar Hossain",
         "cTitleNgLetter": [
-            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n"
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "143-15-4546": {
@@ -798,12 +799,12 @@
         "cgpa": 0.0,
         "name": "Md.Tanvir Siddik",
         "cTitleNgLetter": [
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Engineering Mathematics            \t Teaching evaluation is pending \n"
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3861": {
@@ -846,24 +847,24 @@
         "cgpa": 0.0,
         "name": "Nafi Bin Monsoor Alvi",
         "cTitleNgLetter": [
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Engineering Mathematics            \t Teaching evaluation is pending \n"
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3863": {
         "cgpa": 0.0,
         "name": "Md Abid",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n"
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     }
 }
