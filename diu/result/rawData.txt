@@ -1,0 +1,76 @@
+
+Daffodil International University 
+CSE221_PC-B 
+Fall-2021 
+Presentation Group List:
+Group-1 (Sigma)
+Name Id Topic
+Md.Anower karim 201-15-3779 Java Class, Object, Method
+Md.Mahmudul hasan Reyad 203-15-3912 Java Inheritance
+Md.Mahmudul hasan Rihan 202-15-3852
+Md.Robiul Awol 203-15-3913
+Group-2 (Oopnewbie)
+Name Id Topic
+Adiba Zaman Chowdury 203-15-3924 Java Class, Object
+Md.Foysal Sheikh 201-15-3442 Java Abstract class, Interface
+Farhan Adnan 203-15-3919
+Farabi Ahnab Akib 203-15-3920
+Group-3 (Saga)
+Name Id Topic
+Eshita Akter 203-15-3922 Java Encapsulation, 
+Java UML diagram 
+Relationship
+Sfat Ullah 201-15-3402
+Md.Redul Hussain 201-15-3193
+Md.Likhon Mia 203-15-3916
+Group-4 (Omicron)
+Name Id Topic
+Hasibul Hasan 203-15-3904 Java Method, Constructors, 
+Md.Zonaid 203-15-3927 Java exception handling
+Md.Saied Hasan 203-15-3903
+Mehedi Hasan 203-15-3911
+Group-5 (Spark)
+Name Id Topic
+Rahat Almas 203-15-3914 Java Class, Object, Method,
+Java UML diagram 
+Relationship
+Ratul Karim 203-15-3921
+Amir Hamza Suvo 201-15-3397
+Omor Faruk 201-15-3208
+
+Group-6 (Asteroid)
+Name Id Topic
+Mehedi hasan lipo 203-15-3926 Java Class, Object, 
+Java Method overloading, 
+Method overriding
+Jannatul Ferdous 203-15-3902
+Tania Akter 203-15-3917
+Fatema Ha-mim 203-15-3918
+Group-7 (404)
+Name Id Topic
+Mahmudul Joy 201-15-3534 Java Class, Object
+Naiem Ahmed 201-15-3526 Java Abstract class, Interface
+Mazharul Islam 201-15-3283
+Alif Rahman 202-15-3841
+Group-8 (XL)
+Name Id Topic
+Mazharul Alamoo 181-15-2070 Java Super keyword,
+Rokeya Akter Taiyaba 181-15-968 Java Inheritance
+Sadekul Alam 181-15-1096
+Hridoy Ahmed 181-15-1852
+Group-9 (ALPHA)
+Name Id Topic
+Zannatul Fdouser 193-15-2972 Java Class, Object, 
+Java Method overloading, 
+Method overriding
+Kh Abraul Islam Tanjim 201-15-3063
+Md.Sabikur Rahman 201-15-3711
+Md.Ashikur Rahman 203-15-3925
+Md.Nahid Hasan 181-15-285
+Group-10 (Speedout)
+Name Id Topic
+Biplob Sutradhar 203-15-3923 Java Method, Constructors, 
+Mahian Islam Sadim 203-15-3898 Java exception handling
+SakibS Sarker 202-15-3824
+Arnob Dey 203-15-3906
+Md.Sujon Ahmed 181-15-2017
