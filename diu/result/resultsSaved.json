@@ -14,11 +14,22 @@
         "cgpa": 3.89,
         "name": "Md.Zonaid",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming        \t A+ \n",
             "Basic Electronics                  \t A+ \n",
+            "Financial and Managerial Accounting\t A- \n",
             "Object Oriented Programming Lab    \t A+ \n",
-            "Financial and Managerial Accounting\t A- \n"
+            "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming        \t A+ \n"
+        ]
+    },
+    "203-15-3903": {
+        "cgpa": 3.89,
+        "name": "Md.Saied Hasan",
+        "cTitleNgLetter": [
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t A+ \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "201-15-3442": {
@@ -43,14 +54,25 @@
             "Basic Electronics                  \t A \n"
         ]
     },
+    "203-15-3923": {
+        "cgpa": 3.72,
+        "name": "Biplob Sutradhar",
+        "cTitleNgLetter": [
+            "Basic Electronics                  \t A- \n",
+            "Financial and Managerial Accounting\t B+ \n",
+            "Object Oriented Programming        \t A \n",
+            "Object Oriented Programming Lab    \t A+ \n",
+            "Basic Electronics Lab              \t A+ \n"
+        ]
+    },
     "203-15-3911": {
         "cgpa": 3.64,
         "name": "Mehedi Hasan",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
             "Basic Electronics                  \t A \n",
             "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
@@ -91,11 +113,22 @@
         "cgpa": 3.36,
         "name": "Md.Anower karim",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming Lab    \t A- \n",
             "Object Oriented Programming        \t B \n",
             "Financial and Managerial Accounting\t B- \n",
-            "Basic Electronics                  \t A \n"
+            "Basic Electronics                  \t A \n",
+            "Basic Electronics Lab              \t A+ \n"
+        ]
+    },
+    "193-15-2972": {
+        "cgpa": 3.28,
+        "name": "Zannatul Fdouser",
+        "cTitleNgLetter": [
+            "Basic Electronics Lab              \t A \n",
+            "Basic Electronics                  \t B \n",
+            "Object Oriented Programming        \t A- \n",
+            "Financial and Managerial Accounting\t B- \n",
+            "Object Oriented Programming Lab    \t B+ \n"
         ]
     },
     "203-15-3918": {
@@ -147,10 +180,10 @@
         "name": "Alif Rahman",
         "cTitleNgLetter": [
             "Object Oriented Programming        \t C+ \n",
-            "Object Oriented Programming Lab    \t B+ \n",
             "Financial and Managerial Accounting\t C+ \n",
-            "Basic Electronics                  \t B- \n",
-            "Basic Electronics Lab              \t A- \n"
+            "Object Oriented Programming Lab    \t B+ \n",
+            "Basic Electronics Lab              \t A- \n",
+            "Basic Electronics                  \t B- \n"
         ]
     },
     "203-15-3912": {
@@ -158,9 +191,9 @@
         "name": "Md.Mahmudul hasan Reyad",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t B- \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
@@ -179,9 +212,9 @@
         "cgpa": 0.0,
         "name": "Mehedi hasan lipo",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n"
         ]
@@ -200,10 +233,10 @@
         "cgpa": 0.0,
         "name": "Md.Sujon Ahmed",
         "cTitleNgLetter": [
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3919": {
@@ -212,9 +245,9 @@
         "cTitleNgLetter": [
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n"
         ]
     },
     "181-15-2070": {
@@ -224,9 +257,31 @@
             "Simulation and Modeling            \t Teaching evaluation is pending \n",
             "Web Engineering                    \t Teaching evaluation is pending \n",
             "Artificial Intelligence            \t Teaching evaluation is pending \n",
+            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
             "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3193": {
+        "cgpa": 0.0,
+        "name": "Md.Redul Hussain",
+        "cTitleNgLetter": [
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3526": {
+        "cgpa": 0.0,
+        "name": "Naiem Ahmed",
+        "cTitleNgLetter": [
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     }
 }
