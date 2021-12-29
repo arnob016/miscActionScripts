@@ -1,7 +1,8 @@
 name: DIU final result fetch
 on: 
   schedule: # Run workflow automatically
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   diu_result_fetch:
