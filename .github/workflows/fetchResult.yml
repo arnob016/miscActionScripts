@@ -1,8 +1,8 @@
 name: DIU final result fetch
 on: 
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '1 * * *'
+  schedule: # Run workflow automatically
+    - cron: '* * * * *' 
+  workflow_dispatch:
 
 jobs:
   diu_result_fetch:
