@@ -5,17 +5,24 @@ def rawDataFIds():
         getIdList = re.findall(r"(\w.+)\s(\d{3}\-\d{2}\-\d{4})", r.read(), re.M)
     return getIdList
 
+def sortData(data):
+    return dict(sorted(data.items(), key=lambda item: data[item[0]]['cgpa'], reverse=True))
+
+def cgpakeys(dic):
+    for _,v in dic.items():
+        return v['cgpa']
+
 def readResult():
     if os.path.exists("resultsSaved.json"):
         with open("resultsSaved.json", "r") as r:
             data = json.load(r)
         return data
     else:
-        return []
+        return {}
 
 def saveResult(data):
     with open("resultsSaved.json", "w") as w:
-        json.dump(data, w, indent=4)
+        json.dump(sortData(data), w, indent=4)
 
 def clearLine(l=50):
     print("\r"+l*2*" ", flush=True, end="")
@@ -55,7 +62,7 @@ if __name__ == "__main__":
                     "name": p[0],
                     "cTitleNgLetter": cTitleNgLetter
                 }
-                realData.append({p[1]:dataJson})
+                realData[p[1]] = dataJson
                 saveResult(realData)
                 getIdList.pop(i)
                 tailString = f"\n{p[0]} | cgpa: {cgpa} \n"
