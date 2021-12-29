@@ -1,0 +1,46 @@
+name: DIU final result fetch
+on: workflow_dispatch
+
+jobs:
+  diu_result_fetch:
+    name: Auto fetch
+    strategy:
+      fail-fast: false
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run check
+      run: |
+        pip install requests
+        python - <<END
+        import requests, sys
+        for workflow in requests.get("https://api.github.com/repos/biplobsd/miscActionScripts/actions/workflows/13538553/runs").json()['workflow_runs'][1:]:
+          if workflow['status'] == 'in_progress':
+            print("Already runing in another workflow job")
+            sys.exit(1)
+          else:
+            print(f"{workflow['run_number']} is not running job")
+        END
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install requirements
+      run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade setuptools wheel
+          pip install -r requirements.txt
+    - name: Run script
+      run: cd diu/result/;python3 getResultList.py
+    
+    - name: Commit files 
+      run: |
+        git config --local user.name  ${{ github.actor }}
+        git add .
+        git commit -m "Update results"
+    - name: Push changes 
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}    
+    
+    
