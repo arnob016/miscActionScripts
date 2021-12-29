@@ -25,7 +25,7 @@ if __name__ == "__main__":
     url = "http://software.diu.edu.bd:8189/result"
     getIdList = rawDataFIds()
     realData = readResult()
-    for _ in range(10):
+    for _ in range(2):
         print(len(getIdList), end="-")
         
         for i,p in enumerate(getIdList):
