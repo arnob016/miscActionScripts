@@ -42,11 +42,11 @@ if __name__ == "__main__":
             try:
                 found = ""
                 getReq = fetchData(url, p[1])
-                #print(getReq.headers)
+                
                 stdInfo = fetchData(urlInfo, p[1])
                 jsonData = getReq.json()
                 stdName = stdInfo.json()['studentName']
-                p[0] = stdName
+                
                 #print(jsonData)
                 cgpa = 0.0
                 cTitleNgLetter = []
@@ -70,8 +70,8 @@ if __name__ == "__main__":
                 realData[p[1]] = dataJson
                 saveResult(realData)
                 getIdList.pop(i)
-                tailString = f"\n{p[0]} | cgpa: {cgpa} \n"
-                clearLine(len(p[0]))
+                tailString = f"\n{stdName} | cgpa: {cgpa} \n"
+                clearLine(len(stdName))
                 print(tailString+found)
                 
             except simplejson.errors.JSONDecodeError: #Hard coded #json.decoder.JSONDecodeError #simplejson.errors.JSONDecodeError:
