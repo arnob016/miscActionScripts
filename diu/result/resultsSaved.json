@@ -230,11 +230,11 @@
         "cgpa": 3.52,
         "name": "Farhan Adnan ",
         "cTitleNgLetter": [
-            "Basic Electronics Lab              \t A+ \n",
-            "Object Oriented Programming        \t B+ \n",
-            "Basic Electronics                  \t A \n",
             "Object Oriented Programming Lab    \t A+ \n",
             "Financial and Managerial Accounting\t A- \n",
+            "Basic Electronics Lab              \t A+ \n",
+            "Basic Electronics                  \t A \n",
+            "Object Oriented Programming        \t B+ \n",
             "Engineering Mathematics            \t B \n"
         ]
     },
