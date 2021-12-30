@@ -27,9 +27,12 @@ def saveResult(data):
 def clearLine(l=50):
     print("\r"+l*2*" ", flush=True, end="")
 
+def fetchData(url, id):
+    return requests.get(url, params={"semesterId": 213, "studentId":id, "grecaptcha": None}, verify=False)
 
 if __name__ == "__main__":
     url = "http://software.diu.edu.bd:8189/result"
+    urlInfo = f'{url}/studentInfo'
     getIdList = rawDataFIds()
     realData = readResult()
     for _ in range(10):
@@ -38,10 +41,12 @@ if __name__ == "__main__":
         for i,p in enumerate(getIdList):
             try:
                 found = ""
-                getReq = requests.get(url, params={"semesterId": 213, "studentId":p[1], "grecaptcha": None}, verify=False)
+                getReq = fetchData(url, p[1])
                 #print(getReq.headers)
-                
+                stdInfo = fetchData(urlInfo, p[1])
                 jsonData = getReq.json()
+                stdName = stdInfo.json()['studentName']
+                p[0] = stdName
                 #print(jsonData)
                 cgpa = 0.0
                 cTitleNgLetter = []
@@ -59,7 +64,7 @@ if __name__ == "__main__":
                 found+= "\n"
                 dataJson = {
                     "cgpa": cgpa,
-                    "name": p[0],
+                    "name": stdName,
                     "cTitleNgLetter": cTitleNgLetter
                 }
                 realData[p[1]] = dataJson
