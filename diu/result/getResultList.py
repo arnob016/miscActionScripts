@@ -46,7 +46,8 @@ if __name__ == "__main__":
                 stdInfo = fetchData(urlInfo, p[1])
                 jsonData = getReq.json()
                 stdName = stdInfo.json()['studentName']
-                
+                if stdName is None:
+                    stdName = p[0]
                 #print(jsonData)
                 cgpa = 0.0
                 cTitleNgLetter = []
