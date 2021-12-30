@@ -458,10 +458,10 @@
         "name": "Arnob Dey ",
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B \n",
-            "Software Project II                \t A+ \n",
-            "Object Oriented Programming Lab    \t A \n",
             "Object Oriented Programming        \t B \n",
             "Engineering Mathematics            \t B \n",
+            "Software Project II                \t A+ \n",
+            "Object Oriented Programming Lab    \t A \n",
             "Basic Electronics                  \t B \n",
             "Basic Electronics Lab              \t A- \n"
         ]
@@ -741,10 +741,10 @@
         "cgpa": 2.85,
         "name": "Md. Ashikur Rahman Shovo ",
         "cTitleNgLetter": [
-            "Software Project II                \t B \n",
             "Engineering Mathematics            \t C \n",
-            "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A- \n",
+            "Basic Electronics                  \t B+ \n",
+            "Software Project II                \t B \n",
             "Financial and Managerial Accounting\t B- \n",
             "Object Oriented Programming        \t C+ \n",
             "Object Oriented Programming Lab    \t B+ \n"
@@ -767,10 +767,10 @@
         "cgpa": 2.83,
         "name": "Md.Osman Goni ",
         "cTitleNgLetter": [
+            "Software Project II                \t A- \n",
             "Basic Electronics Lab              \t A- \n",
             "Engineering Mathematics            \t C \n",
             "Object Oriented Programming Lab    \t B \n",
-            "Software Project II                \t A- \n",
             "Basic Electronics                  \t B \n",
             "Object Oriented Programming        \t B \n",
             "Financial and Managerial Accounting\t C \n"
@@ -948,12 +948,12 @@
         "name": "Md. Anowar Hossain ",
         "cTitleNgLetter": [
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Software Project II                \t Teaching evaluation is pending \n",
-            "Engineering Mathematics            \t Teaching evaluation is pending \n"
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3873": {
