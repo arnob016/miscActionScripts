@@ -6,10 +6,10 @@
             "Basic Electronics                  \t A+ \n",
             "Basic Electronics Lab              \t A+ \n",
             "Financial and Managerial Accounting\t A+ \n",
+            "Object Oriented Programming        \t A+ \n",
             "Software Project II                \t A+ \n",
             "Engineering Mathematics            \t A+ \n",
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Object Oriented Programming        \t A+ \n"
+            "Object Oriented Programming Lab    \t A+ \n"
         ]
     },
     "203-15-3881": {
@@ -55,13 +55,13 @@
         "cgpa": 3.92,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A \n",
             "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming Lab    \t A \n",
             "Object Oriented Programming        \t A+ \n",
+            "Financial and Managerial Accounting\t A \n",
             "Basic Electronics                  \t A+ \n",
-            "Engineering Mathematics            \t A+ \n",
             "Software Project II                \t A+ \n",
-            "Financial and Managerial Accounting\t A \n"
+            "Engineering Mathematics            \t A+ \n"
         ]
     },
     "203-15-3862": {
@@ -200,8 +200,8 @@
         "cTitleNgLetter": [
             "Simulation and Modeling Lab        \t A+ \n",
             "Compiler Design                    \t A \n",
-            "Compiler Design Lab                \t A- \n",
             "Operating Systems Lab              \t A+ \n",
+            "Compiler Design Lab                \t A- \n",
             "Operating Systems                  \t A+ \n",
             "Simulation and Modeling            \t B \n"
         ]
@@ -537,12 +537,12 @@
         "cTitleNgLetter": [
             "Web Engineering                    \t B+ \n",
             "Web Engineering Lab                \t C+ \n",
-            "Object Oriented Programming        \t B+ \n",
             "Object Oriented Programming Lab    \t A- \n",
-            "Simulation and Modeling            \t B+ \n",
-            "Simulation and Modeling Lab        \t A- \n",
             "Artificial Intelligence            \t B- \n",
-            "Artificial Intelligence Lab        \t A- \n"
+            "Simulation and Modeling            \t B+ \n",
+            "Artificial Intelligence Lab        \t A- \n",
+            "Simulation and Modeling Lab        \t A- \n",
+            "Object Oriented Programming        \t B+ \n"
         ]
     },
     "203-15-3918": {
@@ -600,13 +600,13 @@
         "cgpa": 3.06,
         "name": "Md. Al Emon ",
         "cTitleNgLetter": [
-            "Software Project II                \t B \n",
+            "Basic Electronics                  \t B- \n",
             "Basic Electronics Lab              \t A- \n",
             "Engineering Mathematics            \t C+ \n",
+            "Software Project II                \t B \n",
             "Object Oriented Programming        \t B+ \n",
             "Object Oriented Programming Lab    \t B+ \n",
-            "Financial and Managerial Accounting\t B+ \n",
-            "Basic Electronics                  \t B- \n"
+            "Financial and Managerial Accounting\t B+ \n"
         ]
     },
     "203-15-3880": {
@@ -880,11 +880,11 @@
         "cgpa": 2.1,
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": [
+            "Object Oriented Programming        \t C \n",
             "Software Project II                \t B- \n",
             "Basic Electronics Lab              \t B+ \n",
-            "Engineering Mathematics            \t D \n",
             "Financial and Managerial Accounting\t F \n",
-            "Object Oriented Programming        \t C \n",
+            "Engineering Mathematics            \t D \n",
             "Basic Electronics                  \t C+ \n",
             "Object Oriented Programming Lab    \t C+ \n"
         ]
@@ -893,11 +893,11 @@
         "cgpa": 1.96,
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
+            "Basic Electronics                  \t B- \n",
             "Basic Electronics Lab              \t A \n",
+            "Financial and Managerial Accounting\t F \n",
             "Software Project II                \t B+ \n",
             "Object Oriented Programming Lab    \t A- \n",
-            "Basic Electronics                  \t B- \n",
-            "Financial and Managerial Accounting\t F \n",
             "Engineering Mathematics            \t F \n",
             "Object Oriented Programming        \t C+ \n"
         ]
