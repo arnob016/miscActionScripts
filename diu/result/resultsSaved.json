@@ -29,12 +29,12 @@
         "cgpa": 3.94,
         "name": "Farabi Ahnaf Akib ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A+ \n",
-            "Basic Electronics                  \t A+ \n",
-            "Basic Electronics Lab              \t A+ \n",
-            "Engineering Mathematics            \t A \n",
             "Financial and Managerial Accounting\t A+ \n",
+            "Basic Electronics Lab              \t A+ \n",
+            "Object Oriented Programming Lab    \t A+ \n",
+            "Engineering Mathematics            \t A \n",
             "Object Oriented Programming        \t A+ \n",
+            "Basic Electronics                  \t A+ \n",
             "Software Project II                \t A+ \n"
         ]
     },
@@ -833,12 +833,12 @@
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
             "Object Oriented Programming        \t C+ \n",
-            "Basic Electronics Lab              \t A- \n",
             "Basic Electronics                  \t B- \n",
             "Engineering Mathematics            \t D \n",
-            "Object Oriented Programming Lab    \t B+ \n",
             "Software Project II                \t D \n",
-            "Financial and Managerial Accounting\t C+ \n"
+            "Object Oriented Programming Lab    \t B+ \n",
+            "Financial and Managerial Accounting\t C+ \n",
+            "Basic Electronics Lab              \t A- \n"
         ]
     },
     "203-15-3914": {
