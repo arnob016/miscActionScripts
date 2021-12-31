@@ -43,12 +43,12 @@
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
             "Object Oriented Programming Lab    \t A+ \n",
+            "Engineering Mathematics            \t A+ \n",
             "Financial and Managerial Accounting\t A- \n",
-            "Software Project II                \t A+ \n",
-            "Object Oriented Programming        \t A+ \n",
-            "Basic Electronics                  \t A+ \n",
             "Basic Electronics Lab              \t A+ \n",
-            "Engineering Mathematics            \t A+ \n"
+            "Object Oriented Programming        \t A+ \n",
+            "Software Project II                \t A+ \n",
+            "Basic Electronics                  \t A+ \n"
         ]
     },
     "203-15-3903": {
@@ -187,9 +187,9 @@
         "cTitleNgLetter": [
             "Object Oriented Programming        \t B+ \n",
             "Basic Electronics                  \t A+ \n",
-            "Object Oriented Programming Lab    \t B+ \n",
-            "Financial and Managerial Accounting\t A- \n",
             "Software Project II                \t A- \n",
+            "Financial and Managerial Accounting\t A- \n",
+            "Object Oriented Programming Lab    \t B+ \n",
             "Engineering Mathematics            \t A+ \n",
             "Basic Electronics Lab              \t A+ \n"
         ]
@@ -431,13 +431,13 @@
         "cgpa": 3.29,
         "name": "Tuhanur Haque Talha",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t B+ \n",
-            "Engineering Mathematics            \t B \n",
             "Financial and Managerial Accounting\t B- \n",
+            "Object Oriented Programming        \t B+ \n",
+            "Basic Electronics Lab              \t A+ \n",
             "Object Oriented Programming Lab    \t A- \n",
+            "Engineering Mathematics            \t B \n",
             "Basic Electronics                  \t A- \n",
-            "Software Project II                \t B+ \n",
-            "Basic Electronics Lab              \t A+ \n"
+            "Software Project II                \t B+ \n"
         ]
     },
     "203-15-3877": {
@@ -471,9 +471,9 @@
         "name": "Tania Akter",
         "cTitleNgLetter": [
             "Basic Electronics                  \t B+ \n",
-            "Object Oriented Programming        \t B+ \n",
-            "Software Project II                \t A- \n",
             "Engineering Mathematics            \t B \n",
+            "Software Project II                \t A- \n",
+            "Object Oriented Programming        \t B+ \n",
             "Financial and Managerial Accounting\t B \n",
             "Basic Electronics Lab              \t A \n",
             "Object Oriented Programming Lab    \t B+ \n"
@@ -613,13 +613,13 @@
         "cgpa": 3.06,
         "name": "Abdul Fattah Mujtabir Samin",
         "cTitleNgLetter": [
-            "Engineering Mathematics            \t C+ \n",
-            "Basic Electronics                  \t B+ \n",
             "Basic Electronics Lab              \t A- \n",
-            "Software Project II                \t A- \n",
+            "Basic Electronics                  \t B+ \n",
+            "Engineering Mathematics            \t C+ \n",
+            "Object Oriented Programming        \t B+ \n",
             "Financial and Managerial Accounting\t C+ \n",
             "Object Oriented Programming Lab    \t A- \n",
-            "Object Oriented Programming        \t B+ \n"
+            "Software Project II                \t A- \n"
         ]
     },
     "203-15-3891": {
@@ -652,12 +652,12 @@
         "cgpa": 3.0,
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
-            "Bangladesh Studies                 \t B \n",
-            "Digital Electronics Lab            \t C \n",
             "Object Oriented Programming        \t B \n",
+            "Digital Electronics Lab            \t C \n",
+            "Bangladesh Studies                 \t B \n",
+            "Engineering Mathematics            \t C \n",
             "Digital Electronics                \t A+ \n",
-            "Object Oriented Programming Lab    \t B \n",
-            "Engineering Mathematics            \t C \n"
+            "Object Oriented Programming Lab    \t B \n"
         ]
     },
     "203-15-3894": {
@@ -881,8 +881,8 @@
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
             "Basic Electronics                  \t B- \n",
-            "Software Project II                \t B+ \n",
             "Object Oriented Programming Lab    \t A- \n",
+            "Software Project II                \t B+ \n",
             "Basic Electronics Lab              \t A \n",
             "Financial and Managerial Accounting\t F \n",
             "Engineering Mathematics            \t F \n",
