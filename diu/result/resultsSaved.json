@@ -561,14 +561,14 @@
         "cgpa": 3.16,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab        \t A- \n",
-            "Artificial Intelligence            \t B- \n",
-            "Web Engineering                    \t B+ \n",
-            "Web Engineering Lab                \t C+ \n",
             "Simulation and Modeling Lab        \t A- \n",
-            "Object Oriented Programming Lab    \t A- \n",
+            "Web Engineering Lab                \t C+ \n",
+            "Web Engineering                    \t B+ \n",
+            "Simulation and Modeling            \t B+ \n",
+            "Artificial Intelligence Lab        \t A- \n",
             "Object Oriented Programming        \t B+ \n",
-            "Simulation and Modeling            \t B+ \n"
+            "Object Oriented Programming Lab    \t A- \n",
+            "Artificial Intelligence            \t B- \n"
         ]
     },
     "203-15-3918": {
