@@ -1,8 +1,20 @@
 
+![Vpl File upload](assets/fast_exp_preview.gif)
+
 One day I just think why we click done button every day why I don't this auto click then I create this script for skip boring clicks.
 
+This script only work on python 3.9 up versions
 
+<br>
 
+## Installation
+Download python 3.9 upper version from https://www.python.org/downloads/ and install it. Then run below command in the terminal
+```
+python3 -m pip install -r requirements.txt
+```
+<br>
+
+## Usages
 #### Click all done button of your current semester enrollment courses
 ```
 python3 fast_exp.py -u <USERNAME_BLC> -p <PASSWORD_BLC> --mark
