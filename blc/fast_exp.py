@@ -12,18 +12,18 @@ from datetime import datetime
 
 
 def login(user, passw):
-    global s
+    global session
 
     if not (user or passw):
         return False
 
     loginLink = f"{baseUrl}/login/index.php"
-    s.cookies.clear()
-    loginPage = s.get(loginLink, headers=headers).text
+    session.cookies.clear()
+    loginPage = session.get(loginLink, headers=headers).text
     tree = html.fromstring(loginPage)
     logintoken = tree.xpath(
         "//form[@id='login']/input[@name='logintoken']")[0].value
-    loginTry = s.post(loginLink, data={
+    loginTry = session.post(loginLink, data={
         "username": user,
         "password": passw,
         "logintoken": logintoken}, headers=headers)
@@ -51,11 +51,11 @@ def sesskeyGet(allpageLink):
 
 
 def getAllEnrollCourse():
-    allpageLink = s.get(f"{baseUrl}/my/", headers=headers).text
+    allpageLink = session.get(f"{baseUrl}/my/", headers=headers).text
     sesskey = sesskeyGet(allpageLink)
     postUrl = fr"{baseUrl}/lib/ajax/service.php"
 
-    data = s.post(
+    data = session.post(
         postUrl,
         params={"sesskey": sesskey},
         json=[{"methodname": "core_course_get_enrolled_courses_by_timeline_classification",
@@ -88,9 +88,9 @@ def getSemister(semi=""):
             '2': "Fall"
         }
         courseIndex = []
-        for session, century in coursesGrp.items():
+        for perSession, century in coursesGrp.items():
             for year in century.keys():
-                courseIndex.append(int(f"{year}{coursesLevel[session]}"))
+                courseIndex.append(int(f"{year}{coursesLevel[perSession]}"))
 
         courseLatest = str(sorted(courseIndex, reverse=True)[0])
         semi = f"{coursesLevelIndex[courseLatest[-1]]}{courseLatest[:2]}"
@@ -109,20 +109,20 @@ def courseGroup(courses):
 
     for course in courses:
         brkFlag = False
-        for session in coursesGroup:
+        for perSession in coursesGroup:
             for section in ["coursecategory", "fullname", "fullnamedisplay"]:
                 search = re.search(
-                    session+".(\d{2,4})", course[section], re.IGNORECASE)
+                    perSession+".(\d{2,4})", course[section], re.IGNORECASE)
                 if search:
                     try:
-                        coursesGroup[session][
+                        coursesGroup[perSession][
                             search.group(1)[-2:]].append(course)
                     except KeyError:
-                        coursesGroup[session][
+                        coursesGroup[perSession][
                             search.group(1)[-2:]] = [course]
                     brkFlag = True
                     break
-                elif session == "unknown" and search == None:
+                elif perSession == "unknown" and search == None:
                     century = datetime.utcfromtimestamp(
                         course['startdate']).strftime('%C')
                     try:
@@ -145,7 +145,7 @@ def marksAsDone(allpageLink):
         "//button[@data-action='toggle-manual-completion' and @data-toggletype='manual:mark-done']/@data-cmid")
     if cmids:
         for cmid in cmids:
-            print(cmid, "->", s.post(
+            print(cmid, "->", session.post(
                 postUrl,
                 params={"sesskey": sesskey},
                 json=[{"methodname": "core_completion_update_activity_completion_status_manually",
@@ -161,7 +161,7 @@ def loginCheck():
     faildCheck = False
     if args.m:
         try:
-            allpageLink = s.get(baseUrl+"/my", headers=headers).text
+            allpageLink = session.get(baseUrl+"/my", headers=headers).text
             tree = html.fromstring(allpageLink)
             if not tree.xpath("//span[@class='username pr-1']"):
                 raise Exception("404")
@@ -182,7 +182,7 @@ def job(l):
 
     clickLink = []
 
-    allpageLink = s.get(l, headers=headers).text
+    allpageLink = session.get(l, headers=headers).text
     tree = html.fromstring(allpageLink)
 
     print("\n"+tree.xpath("//h3[@class='page-title mb-0']")[0].text, flush=True)
@@ -194,7 +194,7 @@ def job(l):
     for ids, link in enumerate(clickLink):
         loop = ids
         try:
-            trying = s.get(link, headers=headers, timeout=30, stream=True)
+            trying = session.get(link, headers=headers, timeout=30, stream=True)
         except requests.exceptions.ReadTimeout as e:
             print(f"Timeout : {link}\nerror:{e}", flush=True)
             continue
@@ -259,13 +259,12 @@ if __name__ == "__main__":
     }
 
     baseUrl = "https://elearn.daffodilvarsity.edu.bd"
-    session = requests.Session()
 
     jar = requests.cookies.RequestsCookieJar()
     jar.set('MoodleSession', args.m)
 
-    s = requests.Session()
-    s.cookies = jar
+    session = requests.Session()
+    session.cookies = jar
 
     if loginCheck():
         if not args.c:
