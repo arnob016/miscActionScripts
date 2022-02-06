@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import pathlib
+from pprint import pprint
 import requests
 import time
 import os
@@ -233,11 +235,43 @@ def job(l):
             print(f"[{ids}]", end='', flush=True)
         sleep(5)
 
+def loadFileContent(path):
+    with open(path) as r: return r.read()
+
+def uploadFileToVPLFromLocal():
+    urlPath = "/mod/vpl/forms/edit.json.php"
+    fileName = pathlib.Path(args.pf).name
+
+    postDatafromFile = loadFileContent(args.pf)
+
+    getInfo = session.post(baseUrl+urlPath,
+            params={"id": args.pfid, "action": "load"}, headers=headers).json()
+    
+    status = session.post(
+            baseUrl+urlPath,
+            params={"id": args.pfid, "action": "save"},
+            json={"files": [{"name": fileName, "contents": postDatafromFile, "encoding": 0}], "comments": "", "version": getInfo['response']['version'],}, headers=headers,).json()
+
+
+    if status['response']['saved']:
+        print(f"Upload Successful! version : {status['response']['version']} filename: {fileName}")
+    else:
+        print(f"Unsuccessful!")
+        print("Get from data")
+        pprint(getInfo)
+        print("Post data")
+        pprint(status)
+
+
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Auto geting blc exp. Just for fun!')
     parser.add_argument('-m', type=str, help='Your MoodleSession cookies!')
+    parser.add_argument('-pf', type=str, help='Which file you want to post')
+    parser.add_argument('-pfid', type=int, help='Here is your post id ex: edit.php?id=844835')
+    
     parser.add_argument(
         '-c', nargs='*', help='Your target courses links!')
     parser.add_argument(
@@ -267,30 +301,33 @@ if __name__ == "__main__":
     session.cookies = jar
 
     if loginCheck():
-        if not args.c:
-            if args.all:
-                courseLink = getLinks(getAllEnrollCourse())
-            elif args.semi:
-                courseLink = getLinks(getSemister(args.semi))
+        if args.pfid:
+            uploadFileToVPLFromLocal()
+        else:
+            if not args.c:
+                if args.all:
+                    courseLink = getLinks(getAllEnrollCourse())
+                elif args.semi:
+                    courseLink = getLinks(getSemister(args.semi))
+                else:
+                    courseLink = getLinks(getSemister())
+
+                # print("courses>>", len(courseLink))
+                # exit()
             else:
-                courseLink = getLinks(getSemister())
+                courseLink = args.c
 
-            # print("courses>>", len(courseLink))
-            # exit()
-        else:
-            courseLink = args.c
-
-        if args.t:
-            threadList = []
-            for t in courseLink:
-                threadList.append(Thread(target=job, args=(t,)))
-            for _ in threadList:
-                _.start()
-            for _ in threadList:
-                _.join()
-        else:
-            while True:
-                for course in courseLink:
-                    job(course)
+            if args.t:
+                threadList = []
+                for t in courseLink:
+                    threadList.append(Thread(target=job, args=(t,)))
+                for _ in threadList:
+                    _.start()
+                for _ in threadList:
+                    _.join()
+            else:
+                while True:
+                    for course in courseLink:
+                        job(course)
     else:
         raise Exception("Login unsccessful!")
