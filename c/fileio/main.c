@@ -17,10 +17,10 @@ int main()
         return -1;
     }
 
-    fp1 = fopen("temp.txt", "w");
+    fp1 = fopen("output.txt", "w");
     if (fp1 == NULL)
     {
-        printf("Error in creating temp file.\n");
+        printf("Error in creating output file.\n");
         return -1;
     }
 
@@ -33,7 +33,6 @@ int main()
             break;
         if(ch == '\n'){
             n--;
-            // printf("%d\n", n);
         }
         
         if (islower(ch))
@@ -44,10 +43,6 @@ int main()
     }
     fclose(fp);
     fclose(fp1);
-
-    rename("temp.txt", "output.txt");
-
-    remove("temp.txt");
 
     return 0;
 }
