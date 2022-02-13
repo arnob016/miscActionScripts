@@ -24,11 +24,18 @@ int main()
         return -1;
     }
 
-    int n = ch = fgetc(fp) - '0';
+    int n = fgetc(fp) - '0';
     ch = fgetc(fp);
 
     while ((ch = fgetc(fp)) != EOF)
     {
+        if(n<= 0)
+            break;
+        if(ch == '\n'){
+            n--;
+            // printf("%d\n", n);
+        }
+        
         if (islower(ch))
         {
             ch = ch - 32;
