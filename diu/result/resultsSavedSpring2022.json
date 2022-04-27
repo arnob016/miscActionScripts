@@ -136,11 +136,11 @@
         "cgpa": 2.93,
         "name": "Md. Omor Faruk ",
         "cTitleNgLetter": [
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3872": {
@@ -212,12 +212,12 @@
         "cgpa": 0.0,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "System Analysis and Design Lab     \t Teaching evaluation is pending \n",
-            "Industrial Management              \t Teaching evaluation is pending \n",
-            "E-Commerce and Web Applications    \t Teaching evaluation is pending \n",
             "System Analysis & Design           \t Teaching evaluation is pending \n",
-            "Computer Graphics                  \t Teaching evaluation is pending \n"
+            "Industrial Management              \t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
+            "Computer Graphics                  \t Teaching evaluation is pending \n",
+            "System Analysis and Design Lab     \t Teaching evaluation is pending \n",
+            "E-Commerce and Web Applications    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3925": {
@@ -298,11 +298,11 @@
         "cgpa": 0.0,
         "name": "Abul Kalam Lotif",
         "cTitleNgLetter": [
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "143-15-4546": {
@@ -369,11 +369,11 @@
         "cgpa": 0.0,
         "name": "Abdul Fattah Mujtabir Samin",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3913": {
@@ -721,8 +721,8 @@
         "name": "Md. Mahfuj Sarker ",
         "cTitleNgLetter": [
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
