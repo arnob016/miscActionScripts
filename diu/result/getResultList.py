@@ -12,7 +12,7 @@ def cgpakeys(dic):
     for _,v in dic.items():
         return v['cgpa']
 
-def readResult(saveFileName):
+def readResult():
     if os.path.exists(saveFileName):
         with open(saveFileName, "r") as r:
             data = json.load(r)
