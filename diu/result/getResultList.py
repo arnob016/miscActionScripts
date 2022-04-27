@@ -13,15 +13,15 @@ def cgpakeys(dic):
         return v['cgpa']
 
 def readResult():
-    if os.path.exists("resultsSaved.json"):
-        with open("resultsSaved.json", "r") as r:
+    if os.path.exists(saveFileName):
+        with open(saveFileName, "r") as r:
             data = json.load(r)
         return data
     else:
         return {}
 
 def saveResult(data):
-    with open("resultsSaved.json", "w") as w:
+    with open(saveFileName, "w") as w:
         json.dump(sortData(data), w, indent=4)
 
 def clearLine(l=50):
@@ -35,6 +35,7 @@ if __name__ == "__main__":
     urlInfo = f'{url}/studentInfo'
     getIdList = rawDataFIds()
     realData = readResult()
+    saveFileName = "resultsSavedSpring2022.json"
     for _ in range(10):
         print(len(getIdList), end="-")
         
