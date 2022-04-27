@@ -28,7 +28,7 @@ def clearLine(l=50):
     print("\r"+l*2*" ", flush=True, end="")
 
 def fetchData(url, id):
-    return requests.get(url, params={"semesterId": 213, "studentId":id, "grecaptcha": None}, verify=False)
+    return requests.get(url, params={"semesterId": 221, "studentId":id, "grecaptcha": None}, verify=False)
 
 if __name__ == "__main__":
     saveFileName = "resultsSavedSpring2022.json"
