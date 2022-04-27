@@ -12,7 +12,7 @@ def cgpakeys(dic):
     for _,v in dic.items():
         return v['cgpa']
 
-def readResult():
+def readResult(saveFileName):
     if os.path.exists(saveFileName):
         with open(saveFileName, "r") as r:
             data = json.load(r)
@@ -31,11 +31,12 @@ def fetchData(url, id):
     return requests.get(url, params={"semesterId": 213, "studentId":id, "grecaptcha": None}, verify=False)
 
 if __name__ == "__main__":
+    saveFileName = "resultsSavedSpring2022.json"
     url = "http://software.diu.edu.bd:8189/result"
     urlInfo = f'{url}/studentInfo'
     getIdList = rawDataFIds()
     realData = readResult()
-    saveFileName = "resultsSavedSpring2022.json"
+    
     for _ in range(10):
         print(len(getIdList), end="-")
         
