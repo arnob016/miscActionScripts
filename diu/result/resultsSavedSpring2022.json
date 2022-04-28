@@ -47,11 +47,11 @@
         "cgpa": 3.83,
         "name": "Jahid Imran",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Data Communication                 \t A+ \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Software Project III               \t A+ \n",
-            "Data Communication                 \t A+ \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3903": {
@@ -455,12 +455,12 @@
         "cgpa": 2.71,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t A- \n",
-            "Computer Graphics                  \t B \n",
-            "System Analysis & Design           \t B- \n",
             "System Analysis and Design Lab     \t B \n",
             "E-Commerce and Web Applications    \t B- \n",
-            "Industrial Management              \t D \n"
+            "Computer Graphics Lab              \t A- \n",
+            "System Analysis & Design           \t B- \n",
+            "Industrial Management              \t D \n",
+            "Computer Graphics                  \t B \n"
         ]
     },
     "203-15-3884": {
@@ -478,13 +478,13 @@
         "cgpa": 2.58,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
+            "Object Oriented Programming        \t B- \n",
+            "Engineering Mathematics            \t C \n",
+            "Object Oriented Programming Lab    \t C+ \n",
             "Basic Electronics                  \t C \n",
             "Software Project II                \t A- \n",
-            "Object Oriented Programming        \t B- \n",
             "Financial and Managerial Accounting\t B- \n",
-            "Basic Electronics Lab              \t C+ \n",
-            "Engineering Mathematics            \t C \n",
-            "Object Oriented Programming Lab    \t C+ \n"
+            "Basic Electronics Lab              \t C+ \n"
         ]
     },
     "193-15-2972": {
@@ -513,11 +513,11 @@
         "cgpa": 2.38,
         "name": "Abul Kalam Lotif",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B- \n",
             "Statistics and Probability         \t D \n",
-            "Software Project III               \t B \n",
             "Digital Electronics                \t C+ \n",
-            "Data Communication                 \t C \n"
+            "Data Communication                 \t C \n",
+            "Software Project III               \t B \n",
+            "Digital Electronics Lab            \t B- \n"
         ]
     },
     "203-15-3914": {
@@ -682,10 +682,10 @@
         "name": "Md. Mahmudul Hasan Raihan ",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3873": {
@@ -740,11 +740,11 @@
         "cgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": [
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
             "Software Project II                \t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
             "Engineering Mathematics            \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n"
         ]
