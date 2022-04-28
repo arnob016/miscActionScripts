@@ -14,9 +14,9 @@
         "cgpa": 3.9,
         "name": "MD. FOYSAL SHEIKH ",
         "cTitleNgLetter": [
+            "Statistics and Probability         \t A+ \n",
             "Digital Electronics Lab            \t A+ \n",
             "Digital Electronics                \t A \n",
-            "Statistics and Probability         \t A+ \n",
             "Data Communication                 \t A \n",
             "Software Project III               \t A+ \n"
         ]
@@ -58,9 +58,9 @@
         "cgpa": 3.73,
         "name": "Nusrat Faruqi",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t A+ \n",
             "Data Communication                 \t A+ \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Software Project III               \t A+ \n",
             "Statistics and Probability         \t B+ \n"
         ]
@@ -69,11 +69,11 @@
         "cgpa": 3.7,
         "name": "Mahadi Hasan Munna",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Digital Electronics                \t A+ \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3916": {
@@ -81,9 +81,9 @@
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
             "Digital Electronics                \t B \n",
+            "Software Project III               \t A \n",
             "Digital Electronics Lab            \t A+ \n",
             "Data Communication                 \t A- \n",
-            "Software Project III               \t A \n",
             "Statistics and Probability         \t A \n"
         ]
     },
@@ -103,20 +103,20 @@
         "name": "Shekh Kaniz Fatema",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t B+ \n",
             "Data Communication                 \t B+ \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t B+ \n"
         ]
     },
     "203-15-3870": {
         "cgpa": 3.45,
         "name": "Md. Anowar Hossain ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t A \n",
+            "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t B+ \n"
         ]
     },
@@ -135,10 +135,10 @@
         "cgpa": 3.4,
         "name": "Biplob Kumar Sutradhar",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t B \n",
-            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
+            "Statistics and Probability         \t B \n",
             "Digital Electronics Lab            \t A+ \n",
+            "Digital Electronics                \t A- \n",
             "Software Project III               \t A \n"
         ]
     },
@@ -146,22 +146,22 @@
         "cgpa": 3.4,
         "name": "MD. AMIR HAMZA SHUVO ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
             "Digital Electronics Lab            \t A \n",
+            "Statistics and Probability         \t B+ \n",
+            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Software Project III               \t A- \n",
-            "Statistics and Probability         \t B+ \n"
+            "Software Project III               \t A- \n"
         ]
     },
     "203-15-3858": {
         "cgpa": 3.38,
         "name": "Israt Jahan ",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t B+ \n",
+            "Software Project III               \t A \n",
+            "Digital Electronics                \t A- \n",
             "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Software Project III               \t A \n",
-            "Digital Electronics                \t A- \n"
+            "Statistics and Probability         \t B+ \n"
         ]
     },
     "203-15-3874": {
@@ -215,20 +215,20 @@
         "name": "Md. Mahian Islam Sadim",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n",
-            "Statistics and Probability         \t B \n",
+            "Software Project III               \t A+ \n",
             "Digital Electronics Lab            \t A \n",
-            "Software Project III               \t A+ \n"
+            "Statistics and Probability         \t B \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3906": {
         "cgpa": 3.3,
         "name": "Arnob Dey ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Software Project III               \t A+ \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t B \n"
         ]
     },
@@ -247,10 +247,10 @@
         "name": "Shekh Naziullah ",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t A \n",
-            "Data Communication                 \t A- \n",
             "Software Project III               \t A- \n",
-            "Statistics and Probability         \t C+ \n"
+            "Data Communication                 \t A- \n",
+            "Statistics and Probability         \t C+ \n",
+            "Digital Electronics Lab            \t A \n"
         ]
     },
     "203-15-3875": {
@@ -271,19 +271,19 @@
             "Digital Electronics                \t B \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t C+ \n"
+            "Statistics and Probability         \t C+ \n",
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3921": {
         "cgpa": 3.0,
         "name": "Md. Ratul Karim",
         "cTitleNgLetter": [
-            "Digital Electronics                \t C+ \n",
-            "Digital Electronics Lab            \t A+ \n",
+            "Statistics and Probability         \t C+ \n",
             "Data Communication                 \t B- \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Software Project III               \t A \n",
-            "Statistics and Probability         \t C+ \n"
+            "Digital Electronics                \t C+ \n"
         ]
     },
     "203-15-3919": {
@@ -303,9 +303,9 @@
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B- \n",
+            "Statistics and Probability         \t B- \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics                \t C \n",
-            "Statistics and Probability         \t B- \n"
+            "Digital Electronics                \t C \n"
         ]
     },
     "203-15-3856": {
@@ -324,32 +324,32 @@
         "name": "Md. Sakib Sarker ",
         "cTitleNgLetter": [
             "Digital Electronics                \t C+ \n",
-            "Digital Electronics Lab            \t A \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t A \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t A \n",
+            "Software Project III               \t A \n"
         ]
     },
     "201-15-3208": {
         "cgpa": 2.93,
         "name": "Md. Omor Faruk ",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B- \n"
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3872": {
         "cgpa": 2.9,
         "name": "Md. Zubair Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A \n",
-            "Software Project III               \t A \n",
             "Digital Electronics                \t A- \n",
             "Data Communication                 \t C+ \n",
-            "Statistics and Probability         \t C \n"
+            "Statistics and Probability         \t C \n",
+            "Digital Electronics Lab            \t A \n",
+            "Software Project III               \t A \n"
         ]
     },
     "203-15-3896": {
@@ -367,22 +367,22 @@
         "cgpa": 2.78,
         "name": "Md.Osman Goni ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t B \n"
         ]
     },
     "201-15-3779": {
         "cgpa": 2.78,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Statistics and Probability         \t D \n",
             "Data Communication                 \t B \n",
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Software Project III               \t A- \n",
-            "Statistics and Probability         \t D \n"
+            "Software Project III               \t A- \n"
         ]
     },
     "203-15-3889": {
@@ -412,11 +412,11 @@
         "cgpa": 2.63,
         "name": "M.Mukit Mosfiq",
         "cTitleNgLetter": [
-            "Digital Electronics                \t C \n",
+            "Software Project III               \t A- \n",
             "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t D \n",
-            "Software Project III               \t A- \n",
-            "Statistics and Probability         \t C+ \n"
+            "Statistics and Probability         \t C+ \n",
+            "Digital Electronics                \t C \n"
         ]
     },
     "203-15-3910": {
@@ -425,11 +425,11 @@
         "cTitleNgLetter": [
             "Financial and Managerial Accounting\t B- \n",
             "Basic Electronics Lab              \t C+ \n",
-            "Object Oriented Programming Lab    \t C+ \n",
             "Object Oriented Programming        \t B- \n",
-            "Software Project II                \t A- \n",
+            "Engineering Mathematics            \t C \n",
             "Basic Electronics                  \t C \n",
-            "Engineering Mathematics            \t C \n"
+            "Object Oriented Programming Lab    \t C+ \n",
+            "Software Project II                \t A- \n"
         ]
     },
     "193-15-2972": {
@@ -480,11 +480,11 @@
         "cgpa": 2.0,
         "name": "Ritwika Dey Risha",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Statistics and Probability         \t C \n",
             "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t F \n",
             "Software Project III               \t A- \n",
-            "Statistics and Probability         \t C \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "203-15-3891": {
@@ -502,11 +502,11 @@
         "cgpa": 1.18,
         "name": "Abdul Fattah Mujtabir Samin",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t B+ \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "202-15-3841": {
@@ -525,8 +525,8 @@
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
             "Electronics Devices and Circuits   \t F \n",
-            "Algorithms Lab                     \t D \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Algorithms Lab                     \t D \n",
             "Programming and Problem Solving    \t Teaching evaluation is pending \n"
         ]
     },
@@ -582,11 +582,11 @@
         "cgpa": 0.0,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3402": {
@@ -604,54 +604,54 @@
         "cgpa": 0.0,
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n"
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3882": {
         "cgpa": 0.0,
         "name": "Samsun Naher Asme ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n"
+            "Digital Electronics                \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3922": {
         "cgpa": 0.0,
         "name": "Eshita Akter ",
         "cTitleNgLetter": [
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
+            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "202-15-3852": {
         "cgpa": 0.0,
         "name": "Md. Mahmudul Hasan Raihan ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3873": {
         "cgpa": 0.0,
         "name": "Md.Tanvir Siddik",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
@@ -670,11 +670,11 @@
         "cgpa": 0.0,
         "name": "Nayeemul Hayder Nayeem ",
         "cTitleNgLetter": [
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3868": {
@@ -692,20 +692,20 @@
         "cgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
+            "Computer Graphics                  \t Teaching evaluation is pending \n",
             "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Introduction to Robotics           \t Teaching evaluation is pending \n",
             "Embedded Systems                   \t Teaching evaluation is pending \n",
-            "Computer Graphics                  \t Teaching evaluation is pending \n"
+            "Introduction to Robotics           \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3862": {
         "cgpa": 0.0,
         "name": "Sakir Hossain Faruque",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
@@ -718,13 +718,13 @@
         "cgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": [
-            "Software Project II                \t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
             "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Engineering Mathematics            \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n"
+            "Basic Electronics                  \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Software Project II                \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3711": {
@@ -745,32 +745,32 @@
         "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
             "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3883": {
         "cgpa": 0.0,
         "name": "Sakibul Islam Shakib ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3912": {
         "cgpa": 0.0,
         "name": "Md. Mahmudul Hasan ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
             "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3859": {
@@ -806,9 +806,9 @@
         "cTitleNgLetter": [
             "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3867": {
