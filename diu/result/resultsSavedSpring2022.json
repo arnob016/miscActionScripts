@@ -157,11 +157,11 @@
         "cgpa": 3.43,
         "name": "Redul Hossen",
         "cTitleNgLetter": [
-            "Software Project III               \t A \n",
-            "Digital Electronics Lab            \t A+ \n",
             "Statistics and Probability         \t B \n",
-            "Digital Electronics                \t B \n",
-            "Data Communication                 \t A- \n"
+            "Software Project III               \t A \n",
+            "Data Communication                 \t A- \n",
+            "Digital Electronics Lab            \t A+ \n",
+            "Digital Electronics                \t B \n"
         ]
     },
     "203-15-3923": {
@@ -433,11 +433,11 @@
         "cgpa": 2.78,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
-            "Digital Electronics                \t B- \n",
             "Statistics and Probability         \t D \n",
             "Software Project III               \t A- \n",
-            "Data Communication                 \t B \n"
+            "Data Communication                 \t B \n",
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3889": {
@@ -455,11 +455,11 @@
         "cgpa": 2.71,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "E-Commerce and Web Applications    \t B- \n",
-            "Computer Graphics                  \t B \n",
-            "System Analysis and Design Lab     \t B \n",
-            "System Analysis & Design           \t B- \n",
             "Computer Graphics Lab              \t A- \n",
+            "Computer Graphics                  \t B \n",
+            "System Analysis & Design           \t B- \n",
+            "System Analysis and Design Lab     \t B \n",
+            "E-Commerce and Web Applications    \t B- \n",
             "Industrial Management              \t D \n"
         ]
     },
