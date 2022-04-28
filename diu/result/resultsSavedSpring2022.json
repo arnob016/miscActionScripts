@@ -466,12 +466,12 @@
         "cgpa": 2.71,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "E-Commerce and Web Applications    \t B- \n",
-            "Computer Graphics                  \t B \n",
-            "Industrial Management              \t D \n",
             "Computer Graphics Lab              \t A- \n",
+            "Computer Graphics                  \t B \n",
             "System Analysis & Design           \t B- \n",
-            "System Analysis and Design Lab     \t B \n"
+            "System Analysis and Design Lab     \t B \n",
+            "Industrial Management              \t D \n",
+            "E-Commerce and Web Applications    \t B- \n"
         ]
     },
     "203-15-3884": {
