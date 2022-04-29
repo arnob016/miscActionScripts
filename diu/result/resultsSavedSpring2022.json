@@ -47,11 +47,11 @@
         "cgpa": 3.85,
         "name": "Jahidul Islam ",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t A- \n",
-            "Digital Electronics                \t A+ \n",
-            "Data Communication                 \t A+ \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Software Project III               \t A+ \n"
+            "Statistics and Probability         \t A- \n",
+            "Software Project III               \t A+ \n",
+            "Data Communication                 \t A+ \n",
+            "Digital Electronics                \t A+ \n"
         ]
     },
     "203-15-3887": {
@@ -258,11 +258,11 @@
         "cgpa": 3.33,
         "name": "Al- Sabbir - Bin - Saifullah Emon ",
         "cTitleNgLetter": [
+            "Statistics and Probability         \t B- \n",
+            "Digital Electronics                \t B+ \n",
             "Software Project III               \t A+ \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t A \n",
-            "Digital Electronics                \t B+ \n",
-            "Statistics and Probability         \t B- \n"
+            "Data Communication                 \t A \n"
         ]
     },
     "203-15-3898": {
@@ -412,10 +412,10 @@
         "name": "FUAD AHMED ANANTA",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t B+ \n",
+            "Statistics and Probability         \t B \n",
             "Software Project III               \t B \n",
             "Data Communication                 \t C+ \n",
-            "Digital Electronics                \t A \n",
-            "Statistics and Probability         \t B \n"
+            "Digital Electronics                \t A \n"
         ]
     },
     "202-15-3824": {
@@ -444,8 +444,8 @@
         "cgpa": 2.9,
         "name": "Md. Zubair Islam ",
         "cTitleNgLetter": [
-            "Software Project III               \t A \n",
             "Digital Electronics                \t A- \n",
+            "Software Project III               \t A \n",
             "Digital Electronics Lab            \t A \n",
             "Data Communication                 \t C+ \n",
             "Statistics and Probability         \t C \n"
@@ -559,9 +559,9 @@
         "cTitleNgLetter": [
             "Digital Electronics                \t B \n",
             "Statistics and Probability         \t D \n",
-            "Software Project III               \t A \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Software Project III               \t A \n"
         ]
     },
     "201-15-3534": {
@@ -601,9 +601,9 @@
         "cgpa": 2.0,
         "name": "Ritwika Dey Risha",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t C \n",
-            "Software Project III               \t A- \n",
             "Digital Electronics                \t B- \n",
+            "Software Project III               \t A- \n",
+            "Statistics and Probability         \t C \n",
             "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t F \n"
         ]
@@ -634,11 +634,11 @@
         "cgpa": 1.18,
         "name": "Abdul Fattah Mujtabir Samin",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t F \n",
             "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t D \n",
+            "Software Project III               \t B+ \n",
             "Data Communication                 \t F \n",
-            "Software Project III               \t B+ \n"
+            "Statistics and Probability         \t F \n"
         ]
     },
     "202-15-3841": {
@@ -826,11 +826,11 @@
         "cgpa": 0.0,
         "name": "Md. Rakibul Islam Shanto ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "181-15-2070": {
