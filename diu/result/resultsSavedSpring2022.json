@@ -301,10 +301,10 @@
         "cgpa": 3.22,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Web Engineering                    \t C+ \n",
             "Computer Architecture and Organization\t C+ \n",
-            "Big Data and IoT Lab               \t A \n",
             "Big Data and IoT                   \t A- \n",
+            "Web Engineering                    \t C+ \n",
+            "Big Data and IoT Lab               \t A \n",
             "Web Engineering Lab                \t A+ \n"
         ]
     },
@@ -364,13 +364,13 @@
         "cgpa": 3.04,
         "name": "Farhan Adnan ",
         "cTitleNgLetter": [
-            "Software Project III               \t A+ \n",
             "Data Communication                 \t B- \n",
+            "Algorithm Lab                      \t B \n",
             "Algorithm                          \t B+ \n",
             "Statistics and Probability         \t B- \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Algorithm Lab                      \t B \n",
-            "Digital Electronics                \t B \n"
+            "Digital Electronics                \t B \n",
+            "Software Project III               \t A+ \n"
         ]
     },
     "203-15-3911": {
