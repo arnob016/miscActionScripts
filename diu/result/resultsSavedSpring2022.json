@@ -135,11 +135,11 @@
         "cgpa": 3.6,
         "name": "Eshita Akter ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A+ \n",
             "Software Project III               \t A+ \n",
-            "Statistics and Probability         \t B+ \n",
             "Data Communication                 \t A- \n",
-            "Digital Electronics                \t A \n"
+            "Digital Electronics                \t A \n",
+            "Statistics and Probability         \t B+ \n",
+            "Digital Electronics Lab            \t A+ \n"
         ]
     },
     "203-15-3920": {
@@ -786,13 +786,13 @@
         "cgpa": 0.0,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Software Project II                \t Teaching evaluation is pending \n",
+            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Basic Electronics                  \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Software Project II                \t Teaching evaluation is pending \n",
-            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Engineering Mathematics            \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n"
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3892": {
