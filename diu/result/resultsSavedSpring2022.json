@@ -158,9 +158,9 @@
         "cgpa": 3.52,
         "name": "Farabi Ahnaf Akib ",
         "cTitleNgLetter": [
-            "Algorithm                          \t A- \n",
-            "Statistics and Probability         \t A \n",
             "Digital Electronics Lab            \t B+ \n",
+            "Statistics and Probability         \t A \n",
+            "Algorithm                          \t A- \n",
             "Digital Electronics                \t B \n",
             "Data Communication                 \t A- \n",
             "Algorithm Lab                      \t A- \n",
@@ -184,13 +184,13 @@
         "cgpa": 3.5,
         "name": "Md. Anowar Hossain ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A+ \n",
-            "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
             "Algorithm                          \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t B+ \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Digital Electronics                \t B+ \n",
-            "Software Project III               \t A \n"
+            "Software Project III               \t A \n",
+            "Algorithm Lab                      \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3923": {
@@ -262,13 +262,13 @@
         "cgpa": 3.34,
         "name": "Al- Sabbir - Bin - Saifullah Emon ",
         "cTitleNgLetter": [
-            "Algorithm                          \t B+ \n",
-            "Data Communication                 \t A \n",
-            "Software Project III               \t A+ \n",
-            "Statistics and Probability         \t B- \n",
             "Digital Electronics                \t B+ \n",
             "Algorithm Lab                      \t A- \n",
-            "Digital Electronics Lab            \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n",
+            "Statistics and Probability         \t B- \n",
+            "Data Communication                 \t A \n",
+            "Software Project III               \t A+ \n",
+            "Algorithm                          \t B+ \n"
         ]
     },
     "203-15-3867": {
@@ -365,12 +365,12 @@
         "name": "Fatema Ha-mim",
         "cTitleNgLetter": [
             "Algorithm                          \t B- \n",
+            "Digital Electronics                \t B \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t A- \n",
-            "Algorithm Lab                      \t C \n",
             "Software Project III               \t A+ \n",
             "Statistics and Probability         \t B \n",
-            "Digital Electronics                \t B \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Algorithm Lab                      \t C \n"
         ]
     },
     "203-15-3919": {
@@ -660,12 +660,12 @@
         "name": "Md. Tahamid Rayhan ",
         "cTitleNgLetter": [
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t B- \n",
             "Data Communication                 \t C+ \n",
+            "Digital Electronics Lab            \t B- \n",
             "Algorithm                          \t D \n",
-            "Statistics and Probability         \t C+ \n",
             "Digital Electronics                \t B- \n",
-            "Algorithm Lab                      \t C+ \n"
+            "Algorithm Lab                      \t C+ \n",
+            "Statistics and Probability         \t C+ \n"
         ]
     },
     "203-15-3910": {
@@ -763,12 +763,12 @@
         "cgpa": 2.02,
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
+            "Algorithm                          \t F \n",
             "Statistics and Probability         \t D \n",
             "Digital Electronics                \t C+ \n",
             "Software Project III               \t B+ \n",
             "Algorithm Lab                      \t D \n",
             "Digital Electronics Lab            \t C+ \n",
-            "Algorithm                          \t F \n",
             "Data Communication                 \t C+ \n"
         ]
     },
@@ -955,12 +955,12 @@
         "cgpa": 0.0,
         "name": "Md. Rakibul Islam Shanto ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
             "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
             "Algorithm                          \t Teaching evaluation is pending \n"
         ]
     },
