@@ -404,10 +404,10 @@
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
             "Data Communication                 \t B- \n",
-            "Algorithm                          \t B- \n",
-            "Algorithm Lab                      \t C+ \n",
             "Digital Electronics Lab            \t A \n",
             "Statistics and Probability         \t B \n",
+            "Algorithm                          \t B- \n",
+            "Algorithm Lab                      \t C+ \n",
             "Digital Electronics                \t B \n",
             "Software Project III               \t A \n"
         ]
@@ -802,12 +802,12 @@
         "cgpa": 0.86,
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": [
-            "Data Communication                 \t F \n",
             "Algorithm                          \t F \n",
-            "Digital Electronics Lab            \t B+ \n",
             "Algorithm Lab                      \t F \n",
-            "Digital Electronics                \t D \n",
+            "Digital Electronics Lab            \t B+ \n",
             "Software Project III               \t A- \n",
+            "Digital Electronics                \t D \n",
+            "Data Communication                 \t F \n",
             "Statistics and Probability         \t F \n"
         ]
     },
