@@ -429,13 +429,13 @@
         "cgpa": 2.98,
         "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
+            "Digital Electronics                \t C \n",
+            "Algorithm Lab                      \t B- \n",
             "Data Communication                 \t B+ \n",
-            "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Algorithm                          \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Software Project III               \t A \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t C+ \n"
+            "Statistics and Probability         \t C+ \n",
+            "Algorithm                          \t C+ \n",
+            "Software Project III               \t A \n"
         ]
     },
     "203-15-3921": {
@@ -955,13 +955,13 @@
         "cgpa": 0.0,
         "name": "Md. Rakibul Islam Shanto ",
         "cTitleNgLetter": [
-            "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Algorithm                          \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
+            "Algorithm Lab                      \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Algorithm                          \t Teaching evaluation is pending \n"
         ]
     },
     "181-15-2070": {
