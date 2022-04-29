@@ -91,11 +91,11 @@
         "cgpa": 3.68,
         "name": "MD. SIFAT ULLAH ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t A- \n",
+            "Data Communication                 \t A \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
+            "Digital Electronics Lab            \t A \n",
+            "Statistics and Probability         \t A- \n",
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -270,10 +270,10 @@
         "name": "Arnob Dey ",
         "cTitleNgLetter": [
             "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t A- \n",
             "Statistics and Probability         \t B \n",
-            "Software Project III               \t A+ \n"
+            "Software Project III               \t A+ \n",
+            "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "191-15-2612": {
