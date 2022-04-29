@@ -133,12 +133,12 @@
         "cgpa": 3.65,
         "name": "Sakibul Islam Shakib ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A+ \n",
-            "Digital Electronics                \t B- \n",
-            "Software Project III               \t A \n",
             "Algorithm                          \t A \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Statistics and Probability         \t A- \n",
-            "Data Communication                 \t A \n"
+            "Data Communication                 \t A \n",
+            "Digital Electronics                \t B- \n",
+            "Software Project III               \t A \n"
         ]
     },
     "201-15-3402": {
@@ -146,12 +146,12 @@
         "name": "MD. SIFAT ULLAH ",
         "cTitleNgLetter": [
             "Software Project III               \t A+ \n",
+            "Algorithm                          \t Teaching evaluation is pending \n",
             "Algorithm Lab                      \t B \n",
             "Digital Electronics Lab            \t A \n",
             "Statistics and Probability         \t A- \n",
-            "Digital Electronics                \t A- \n",
-            "Algorithm                          \t Teaching evaluation is pending \n",
-            "Data Communication                 \t A \n"
+            "Data Communication                 \t A \n",
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3920": {
@@ -159,12 +159,12 @@
         "name": "Farabi Ahnaf Akib ",
         "cTitleNgLetter": [
             "Data Communication                 \t A- \n",
-            "Statistics and Probability         \t A \n",
             "Digital Electronics Lab            \t B+ \n",
+            "Statistics and Probability         \t A \n",
             "Digital Electronics                \t B \n",
-            "Algorithm                          \t A- \n",
             "Algorithm Lab                      \t A- \n",
-            "Software Project III               \t A+ \n"
+            "Software Project III               \t A+ \n",
+            "Algorithm                          \t A- \n"
         ]
     },
     "203-15-3922": {
@@ -302,10 +302,10 @@
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
             "Web Engineering                    \t C+ \n",
-            "Web Engineering Lab                \t A+ \n",
             "Computer Architecture and Organization\t C+ \n",
+            "Big Data and IoT Lab               \t A \n",
             "Big Data and IoT                   \t A- \n",
-            "Big Data and IoT Lab               \t A \n"
+            "Web Engineering Lab                \t A+ \n"
         ]
     },
     "201-15-3397": {
@@ -416,13 +416,13 @@
         "cgpa": 2.98,
         "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
-            "Algorithm                          \t Teaching evaluation is pending \n",
-            "Software Project III               \t A \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
             "Algorithm Lab                      \t Teaching evaluation is pending \n",
             "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t C+ \n"
+            "Statistics and Probability         \t C+ \n",
+            "Algorithm                          \t Teaching evaluation is pending \n",
+            "Software Project III               \t A \n"
         ]
     },
     "203-15-3921": {
