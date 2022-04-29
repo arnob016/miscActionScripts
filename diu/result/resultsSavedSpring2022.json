@@ -14,11 +14,11 @@
         "cgpa": 3.9,
         "name": "MD. FOYSAL SHEIKH ",
         "cTitleNgLetter": [
-            "Software Project III               \t A+ \n",
-            "Statistics and Probability         \t A+ \n",
-            "Data Communication                 \t A \n",
+            "Digital Electronics                \t A \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Digital Electronics                \t A \n"
+            "Data Communication                 \t A \n",
+            "Software Project III               \t A+ \n",
+            "Statistics and Probability         \t A+ \n"
         ]
     },
     "203-15-3862": {
@@ -69,11 +69,11 @@
         "cgpa": 3.73,
         "name": "Nusrat Faruqi",
         "cTitleNgLetter": [
-            "Data Communication                 \t A+ \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t B+ \n",
+            "Digital Electronics Lab            \t A+ \n",
+            "Data Communication                 \t A+ \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t A+ \n"
+            "Statistics and Probability         \t B+ \n"
         ]
     },
     "203-15-3881": {
@@ -422,11 +422,11 @@
         "cgpa": 2.78,
         "name": "Md. Al Emon ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t C+ \n",
             "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B- \n",
+            "Statistics and Probability         \t C \n",
             "Software Project III               \t A \n",
-            "Statistics and Probability         \t C \n"
+            "Digital Electronics                \t C+ \n"
         ]
     },
     "203-15-3930": {
@@ -466,12 +466,12 @@
         "cgpa": 2.71,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "E-Commerce and Web Applications    \t B- \n",
+            "Computer Graphics                  \t B \n",
             "System Analysis & Design           \t B- \n",
             "System Analysis and Design Lab     \t B \n",
+            "Industrial Management              \t D \n",
             "Computer Graphics Lab              \t A- \n",
-            "Computer Graphics                  \t B \n",
-            "Industrial Management              \t D \n"
+            "E-Commerce and Web Applications    \t B- \n"
         ]
     },
     "203-15-3884": {
