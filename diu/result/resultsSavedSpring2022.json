@@ -351,12 +351,12 @@
         "cgpa": 3.16,
         "name": "Shekh Naziullah ",
         "cTitleNgLetter": [
-            "Algorithm                          \t B \n",
-            "Digital Electronics Lab            \t A \n",
             "Digital Electronics                \t B- \n",
+            "Algorithm                          \t B \n",
             "Algorithm Lab                      \t B+ \n",
             "Software Project III               \t A- \n",
             "Statistics and Probability         \t C+ \n",
+            "Digital Electronics Lab            \t A \n",
             "Data Communication                 \t A- \n"
         ]
     },
@@ -403,13 +403,13 @@
         "cgpa": 3.0,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
+            "Data Communication                 \t B- \n",
             "Algorithm                          \t B- \n",
             "Algorithm Lab                      \t C+ \n",
-            "Software Project III               \t A \n",
-            "Data Communication                 \t B- \n",
             "Digital Electronics Lab            \t A \n",
             "Statistics and Probability         \t B \n",
-            "Digital Electronics                \t B \n"
+            "Digital Electronics                \t B \n",
+            "Software Project III               \t A \n"
         ]
     },
     "203-15-3917": {
@@ -530,13 +530,13 @@
         "cgpa": 2.8,
         "name": "FUAD AHMED ANANTA",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A \n",
-            "Algorithm                          \t C \n",
             "Algorithm Lab                      \t C+ \n",
             "Data Communication                 \t C+ \n",
             "Digital Electronics Lab            \t B+ \n",
+            "Digital Electronics                \t A \n",
             "Statistics and Probability         \t B \n",
-            "Software Project III               \t B \n"
+            "Software Project III               \t B \n",
+            "Algorithm                          \t C \n"
         ]
     },
     "201-15-3208": {
@@ -750,13 +750,13 @@
         "cgpa": 2.04,
         "name": "Mazharul Islam",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
-            "Data Communication                 \t C \n",
-            "Algorithm                          \t D \n",
-            "Software Project III               \t A \n",
             "Statistics and Probability         \t D \n",
+            "Software Project III               \t A \n",
+            "Digital Electronics                \t B \n",
+            "Data Communication                 \t C \n",
             "Algorithm Lab                      \t F \n",
-            "Digital Electronics                \t B \n"
+            "Digital Electronics Lab            \t C+ \n",
+            "Algorithm                          \t D \n"
         ]
     },
     "201-15-3534": {
@@ -776,13 +776,13 @@
         "cgpa": 2.0,
         "name": "Mst. Rabeya Bosrin",
         "cTitleNgLetter": [
-            "Software Project III               \t A \n",
-            "Algorithm Lab                      \t C \n",
-            "Data Communication                 \t F \n",
             "Digital Electronics Lab            \t B- \n",
             "Statistics and Probability         \t D \n",
+            "Algorithm Lab                      \t C \n",
+            "Digital Electronics                \t B+ \n",
             "Algorithm                          \t C+ \n",
-            "Digital Electronics                \t B+ \n"
+            "Data Communication                 \t F \n",
+            "Software Project III               \t A \n"
         ]
     },
     "203-15-3880": {
@@ -802,13 +802,13 @@
         "cgpa": 0.86,
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": [
-            "Algorithm                          \t F \n",
-            "Statistics and Probability         \t F \n",
-            "Software Project III               \t A- \n",
-            "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t F \n",
+            "Algorithm                          \t F \n",
+            "Digital Electronics Lab            \t B+ \n",
+            "Algorithm Lab                      \t F \n",
             "Digital Electronics                \t D \n",
-            "Algorithm Lab                      \t F \n"
+            "Software Project III               \t A- \n",
+            "Statistics and Probability         \t F \n"
         ]
     },
     "202-15-3841": {
