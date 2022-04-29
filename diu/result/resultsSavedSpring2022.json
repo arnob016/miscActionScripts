@@ -25,11 +25,11 @@
         "cgpa": 3.9,
         "name": "MD. FOYSAL SHEIKH ",
         "cTitleNgLetter": [
-            "Data Communication                 \t A \n",
-            "Statistics and Probability         \t A+ \n",
-            "Software Project III               \t A+ \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Digital Electronics                \t A \n"
+            "Digital Electronics                \t A \n",
+            "Software Project III               \t A+ \n",
+            "Statistics and Probability         \t A+ \n",
+            "Data Communication                 \t A \n"
         ]
     },
     "203-15-3862": {
@@ -546,10 +546,10 @@
         "cgpa": 2.45,
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
-            "Software Project III               \t A- \n",
+            "Data Communication                 \t D \n",
             "Digital Electronics                \t C+ \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t D \n",
+            "Software Project III               \t A- \n",
             "Statistics and Probability         \t D \n"
         ]
     },
@@ -568,11 +568,11 @@
         "cgpa": 2.43,
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
             "Digital Electronics                \t C+ \n",
             "Statistics and Probability         \t D \n",
             "Digital Electronics Lab            \t C+ \n",
-            "Software Project III               \t B+ \n"
+            "Software Project III               \t B+ \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "203-15-3897": {
