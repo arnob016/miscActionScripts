@@ -3,12 +3,12 @@
         "cgpa": 3.93,
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
+            "Software Project III               \t A+ \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Algorithm                          \t A \n",
             "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
-            "Software Project III               \t A+ \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n"
         ]
     },
@@ -81,12 +81,12 @@
         "cgpa": 3.7,
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
-            "Data Communication                 \t A+ \n",
-            "Statistics and Probability         \t A+ \n",
-            "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Algorithm Lab                      \t B \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t A+ \n",
+            "Digital Electronics                \t B+ \n",
+            "Data Communication                 \t A+ \n",
+            "Statistics and Probability         \t A+ \n",
             "Algorithm                          \t B+ \n"
         ]
     },
@@ -197,13 +197,13 @@
         "cgpa": 3.46,
         "name": "Biplob Kumar Sutradhar",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t B \n",
-            "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t A- \n",
-            "Software Project III               \t A \n",
             "Digital Electronics Lab            \t A+ \n",
             "Algorithm                          \t B+ \n",
-            "Algorithm Lab                      \t A+ \n"
+            "Algorithm Lab                      \t A+ \n",
+            "Digital Electronics                \t A- \n",
+            "Software Project III               \t A \n",
+            "Statistics and Probability         \t B \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3876": {
@@ -672,13 +672,13 @@
         "cgpa": 2.58,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
+            "Basic Electronics                  \t C \n",
             "Object Oriented Programming        \t B- \n",
-            "Engineering Mathematics            \t C \n",
-            "Object Oriented Programming Lab    \t C+ \n",
+            "Software Project II                \t A- \n",
             "Financial and Managerial Accounting\t B- \n",
             "Basic Electronics Lab              \t C+ \n",
-            "Software Project II                \t A- \n",
-            "Basic Electronics                  \t C \n"
+            "Engineering Mathematics            \t C \n",
+            "Object Oriented Programming Lab    \t C+ \n"
         ]
     },
     "203-15-3897": {
@@ -862,13 +862,13 @@
         "cgpa": 0.0,
         "name": "Tuhanur Haque Talha",
         "cTitleNgLetter": [
-            "Algorithm                          \t Teaching evaluation is pending \n",
-            "Algorithm Lab                      \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n",
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n",
+            "Algorithm Lab                      \t Teaching evaluation is pending \n",
+            "Algorithm                          \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
     "143-15-4546": {
