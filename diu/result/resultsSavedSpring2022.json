@@ -201,8 +201,8 @@
         "cgpa": 3.4,
         "name": "MD. AMIR HAMZA SHUVO ",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t B+ \n",
             "Digital Electronics Lab            \t A \n",
+            "Statistics and Probability         \t B+ \n",
             "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
             "Software Project III               \t A- \n"
@@ -237,10 +237,10 @@
         "name": "Fatema Ha-mim",
         "cTitleNgLetter": [
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t B \n",
             "Data Communication                 \t A- \n",
-            "Statistics and Probability         \t B \n"
+            "Statistics and Probability         \t B \n",
+            "Digital Electronics                \t B \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3913": {
@@ -356,9 +356,9 @@
         "cgpa": 3.03,
         "name": "Zahin Faisal",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B \n",
             "Statistics and Probability         \t C+ \n",
             "Data Communication                 \t B- \n",
-            "Digital Electronics                \t B \n",
             "Digital Electronics Lab            \t A \n",
             "Software Project III               \t A+ \n"
         ]
@@ -389,11 +389,11 @@
         "cgpa": 2.98,
         "name": "Jannatul Ferdous",
         "cTitleNgLetter": [
-            "Digital Electronics                \t C \n",
             "Statistics and Probability         \t B- \n",
-            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t C \n",
             "Data Communication                 \t B- \n",
-            "Software Project III               \t A+ \n"
+            "Software Project III               \t A+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3856": {
@@ -762,13 +762,13 @@
         "cgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": [
+            "Software Project II                \t Teaching evaluation is pending \n",
+            "Object Oriented Programming        \t Teaching evaluation is pending \n",
+            "Engineering Mathematics            \t Teaching evaluation is pending \n",
+            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
             "Basic Electronics Lab              \t Teaching evaluation is pending \n",
             "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Object Oriented Programming        \t Teaching evaluation is pending \n",
-            "Basic Electronics                  \t Teaching evaluation is pending \n",
-            "Financial and Managerial Accounting\t Teaching evaluation is pending \n",
-            "Engineering Mathematics            \t Teaching evaluation is pending \n",
-            "Software Project II                \t Teaching evaluation is pending \n"
+            "Basic Electronics                  \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3711": {
@@ -837,10 +837,10 @@
         "cgpa": 0.0,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Embedded Systems                   \t Teaching evaluation is pending \n",
+            "Computer Graphics                  \t Teaching evaluation is pending \n",
             "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Introduction to Robotics           \t Teaching evaluation is pending \n",
-            "Computer Graphics                  \t Teaching evaluation is pending \n"
+            "Embedded Systems                   \t Teaching evaluation is pending \n",
+            "Introduction to Robotics           \t Teaching evaluation is pending \n"
         ]
     }
 }
