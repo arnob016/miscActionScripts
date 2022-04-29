@@ -29,13 +29,13 @@
         "cgpa": 3.88,
         "name": "Jahid Imran",
         "cTitleNgLetter": [
-            "Data Communication                 \t A+ \n",
-            "Algorithm                          \t A+ \n",
-            "Algorithm Lab                      \t A+ \n",
-            "Software Project III               \t A+ \n",
-            "Statistics and Probability         \t A \n",
+            "Digital Electronics Lab            \t A \n",
             "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A \n"
+            "Algorithm                          \t A+ \n",
+            "Data Communication                 \t A+ \n",
+            "Statistics and Probability         \t A \n",
+            "Algorithm Lab                      \t A+ \n",
+            "Software Project III               \t A+ \n"
         ]
     },
     "203-15-3862": {
@@ -46,9 +46,9 @@
             "Software Project III               \t A+ \n",
             "Digital Electronics                \t A- \n",
             "Data Communication                 \t A \n",
-            "Statistics and Probability         \t A+ \n",
             "Algorithm                          \t A- \n",
-            "Algorithm Lab                      \t A \n"
+            "Algorithm Lab                      \t A \n",
+            "Statistics and Probability         \t A+ \n"
         ]
     },
     "203-15-3879": {
@@ -107,12 +107,12 @@
         "cgpa": 3.68,
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
-            "Algorithm Lab                      \t A+ \n",
+            "Statistics and Probability         \t A \n",
             "Software Project III               \t A \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Digital Electronics                \t B \n",
             "Data Communication                 \t A- \n",
-            "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t A \n",
+            "Algorithm Lab                      \t A+ \n",
             "Algorithm                          \t A- \n"
         ]
     },
@@ -171,13 +171,13 @@
         "cgpa": 3.5,
         "name": "Eshita Akter ",
         "cTitleNgLetter": [
-            "Data Communication                 \t A- \n",
             "Statistics and Probability         \t B+ \n",
-            "Algorithm Lab                      \t A \n",
             "Algorithm                          \t B- \n",
             "Digital Electronics                \t A \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t A+ \n"
+            "Digital Electronics Lab            \t A+ \n",
+            "Data Communication                 \t A- \n",
+            "Algorithm Lab                      \t A \n"
         ]
     },
     "203-15-3870": {
@@ -210,13 +210,13 @@
         "cgpa": 3.45,
         "name": "Shekh Kaniz Fatema",
         "cTitleNgLetter": [
-            "Algorithm                          \t B- \n",
+            "Algorithm Lab                      \t A+ \n",
+            "Digital Electronics Lab            \t A+ \n",
+            "Digital Electronics                \t B+ \n",
             "Data Communication                 \t B+ \n",
             "Software Project III               \t A+ \n",
-            "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t B+ \n",
-            "Algorithm Lab                      \t A+ \n",
-            "Digital Electronics                \t B+ \n"
+            "Algorithm                          \t B- \n",
+            "Statistics and Probability         \t B+ \n"
         ]
     },
     "201-15-3193": {
@@ -236,26 +236,26 @@
         "cgpa": 3.36,
         "name": "Arnob Dey ",
         "cTitleNgLetter": [
+            "Data Communication                 \t B+ \n",
+            "Statistics and Probability         \t B \n",
+            "Algorithm Lab                      \t A \n",
             "Digital Electronics                \t B+ \n",
             "Digital Electronics Lab            \t A- \n",
             "Software Project III               \t A+ \n",
-            "Algorithm                          \t B+ \n",
-            "Data Communication                 \t B+ \n",
-            "Statistics and Probability         \t B \n",
-            "Algorithm Lab                      \t A \n"
+            "Algorithm                          \t B+ \n"
         ]
     },
     "203-15-3874": {
         "cgpa": 3.35,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Object Oriented Programming        \t A \n",
-            "Basic Electronics Lab              \t B+ \n",
             "Financial and Managerial Accounting\t B \n",
-            "Engineering Mathematics            \t B+ \n",
-            "Software Project II                \t A \n",
+            "Basic Electronics Lab              \t B+ \n",
+            "Basic Electronics                  \t C+ \n",
             "Object Oriented Programming Lab    \t A \n",
-            "Basic Electronics                  \t C+ \n"
+            "Object Oriented Programming        \t A \n",
+            "Engineering Mathematics            \t B+ \n",
+            "Software Project II                \t A \n"
         ]
     },
     "203-15-3886": {
@@ -340,11 +340,11 @@
         "cTitleNgLetter": [
             "Algorithm Lab                      \t B \n",
             "Statistics and Probability         \t B+ \n",
-            "Data Communication                 \t B \n",
+            "Digital Electronics Lab            \t A \n",
             "Digital Electronics                \t B+ \n",
             "Algorithm                          \t C+ \n",
             "Software Project III               \t A \n",
-            "Digital Electronics Lab            \t A \n"
+            "Data Communication                 \t B \n"
         ]
     },
     "203-15-3865": {
@@ -379,11 +379,11 @@
         "cTitleNgLetter": [
             "Digital Electronics                \t B \n",
             "Data Communication                 \t B- \n",
-            "Algorithm Lab                      \t B \n",
+            "Software Project III               \t A+ \n",
             "Digital Electronics Lab            \t B+ \n",
             "Algorithm                          \t B+ \n",
             "Statistics and Probability         \t B- \n",
-            "Software Project III               \t A+ \n"
+            "Algorithm Lab                      \t B \n"
         ]
     },
     "203-15-3911": {
@@ -442,12 +442,12 @@
         "cgpa": 2.96,
         "name": "Md. Ratul Karim",
         "cTitleNgLetter": [
+            "Statistics and Probability         \t C+ \n",
+            "Digital Electronics                \t C+ \n",
+            "Algorithm                          \t C+ \n",
             "Algorithm Lab                      \t B+ \n",
             "Data Communication                 \t B- \n",
-            "Algorithm                          \t C+ \n",
-            "Digital Electronics                \t C+ \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Statistics and Probability         \t C+ \n",
             "Software Project III               \t A \n"
         ]
     },
@@ -455,13 +455,13 @@
         "cgpa": 2.89,
         "name": "Md. Mostafizur Rahman ",
         "cTitleNgLetter": [
+            "Data Communication                 \t B \n",
             "Statistics and Probability         \t B \n",
-            "Digital Electronics                \t C+ \n",
             "Algorithm Lab                      \t B- \n",
             "Software Project III               \t A- \n",
-            "Data Communication                 \t B \n",
             "Algorithm                          \t C \n",
-            "Digital Electronics Lab            \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n",
+            "Digital Electronics                \t C+ \n"
         ]
     },
     "202-15-3824": {
@@ -504,12 +504,12 @@
         "cgpa": 2.84,
         "name": "Jannatul Ferdous",
         "cTitleNgLetter": [
-            "Software Project III               \t A+ \n",
             "Data Communication                 \t B- \n",
-            "Digital Electronics                \t C \n",
+            "Software Project III               \t A+ \n",
+            "Algorithm Lab                      \t C+ \n",
             "Digital Electronics Lab            \t A- \n",
             "Statistics and Probability         \t B- \n",
-            "Algorithm Lab                      \t C+ \n",
+            "Digital Electronics                \t C \n",
             "Algorithm                          \t C+ \n"
         ]
     },
@@ -517,13 +517,13 @@
         "cgpa": 2.82,
         "name": "Md. Zubair Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
-            "Algorithm Lab                      \t C \n",
-            "Data Communication                 \t C+ \n",
             "Algorithm                          \t B \n",
             "Digital Electronics Lab            \t A \n",
+            "Digital Electronics                \t A- \n",
             "Software Project III               \t A \n",
-            "Statistics and Probability         \t C \n"
+            "Statistics and Probability         \t C \n",
+            "Algorithm Lab                      \t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "203-15-3856": {
@@ -633,23 +633,23 @@
         "cgpa": 2.63,
         "name": "Nafi Bin Monsoor Alvi",
         "cTitleNgLetter": [
-            "Algorithm Lab                      \t C+ \n",
-            "Software Project III               \t A \n",
-            "Algorithm                          \t C+ \n",
+            "Digital Electronics Lab            \t B+ \n",
+            "Statistics and Probability         \t C \n",
             "Digital Electronics                \t B \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Statistics and Probability         \t C \n"
+            "Algorithm Lab                      \t C+ \n",
+            "Software Project III               \t A \n",
+            "Algorithm                          \t C+ \n"
         ]
     },
     "203-15-3873": {
         "cgpa": 2.61,
         "name": "Md.Tanvir Siddik",
         "cTitleNgLetter": [
-            "Algorithm                          \t C \n",
-            "Digital Electronics Lab            \t A+ \n",
             "Data Communication                 \t D \n",
             "Statistics and Probability         \t D \n",
+            "Algorithm                          \t C \n",
+            "Digital Electronics Lab            \t A+ \n",
             "Algorithm Lab                      \t B- \n",
             "Software Project III               \t A- \n",
             "Digital Electronics                \t B \n"
@@ -685,13 +685,13 @@
         "cgpa": 2.52,
         "name": "Abul Kalam Lotif",
         "cTitleNgLetter": [
-            "Software Project III               \t B \n",
+            "Algorithm Lab                      \t A \n",
             "Digital Electronics                \t C+ \n",
             "Data Communication                 \t C \n",
-            "Algorithm Lab                      \t A \n",
-            "Statistics and Probability         \t D \n",
+            "Software Project III               \t B \n",
             "Algorithm                          \t D \n",
-            "Digital Electronics Lab            \t B- \n"
+            "Digital Electronics Lab            \t B- \n",
+            "Statistics and Probability         \t D \n"
         ]
     },
     "203-15-3930": {
@@ -815,12 +815,12 @@
         "cgpa": 0.64,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Algorithm                          \t F \n",
             "Digital Electronics Lab            \t I \n",
-            "Software Project III               \t B \n",
+            "Statistics and Probability         \t D \n",
+            "Algorithm                          \t F \n",
             "Data Communication                 \t F \n",
             "Digital Electronics                \t F \n",
-            "Statistics and Probability         \t D \n",
+            "Software Project III               \t B \n",
             "Algorithm Lab                      \t F \n"
         ]
     },
@@ -829,10 +829,10 @@
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
             "Programming and Problem Solving    \t Teaching evaluation is pending \n",
-            "Algorithms                         \t Teaching evaluation is pending \n",
-            "Algorithms Lab                     \t D \n",
             "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Electronics Devices and Circuits   \t F \n"
+            "Electronics Devices and Circuits   \t F \n",
+            "Algorithms Lab                     \t D \n",
+            "Algorithms                         \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3526": {
