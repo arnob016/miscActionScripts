@@ -38,9 +38,9 @@
         "cTitleNgLetter": [
             "Digital Electronics                \t A- \n",
             "Statistics and Probability         \t A+ \n",
-            "Data Communication                 \t A \n",
             "Digital Electronics Lab            \t A+ \n",
-            "Software Project III               \t A+ \n"
+            "Software Project III               \t A+ \n",
+            "Data Communication                 \t A \n"
         ]
     },
     "203-15-3879": {
@@ -181,8 +181,8 @@
         "cTitleNgLetter": [
             "Software Project III               \t A \n",
             "Data Communication                 \t A- \n",
-            "Statistics and Probability         \t B \n",
             "Digital Electronics                \t B \n",
+            "Statistics and Probability         \t B \n",
             "Digital Electronics Lab            \t A+ \n"
         ]
     },
@@ -202,10 +202,10 @@
         "name": "MD. AMIR HAMZA SHUVO ",
         "cTitleNgLetter": [
             "Statistics and Probability         \t B+ \n",
+            "Digital Electronics Lab            \t A \n",
             "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Software Project III               \t A- \n",
-            "Digital Electronics Lab            \t A \n"
+            "Software Project III               \t A- \n"
         ]
     },
     "203-15-3858": {
@@ -293,8 +293,8 @@
         "cTitleNgLetter": [
             "Web Engineering                    \t C+ \n",
             "Computer Architecture and Organization\t C+ \n",
-            "Big Data and IoT Lab               \t A \n",
-            "Web Engineering Lab                \t A+ \n"
+            "Web Engineering Lab                \t A+ \n",
+            "Big Data and IoT Lab               \t A \n"
         ]
     },
     "203-15-3865": {
@@ -466,10 +466,10 @@
         "cgpa": 2.78,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B- \n",
             "Software Project III               \t A- \n",
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t B+ \n",
             "Statistics and Probability         \t D \n"
         ]
     },
