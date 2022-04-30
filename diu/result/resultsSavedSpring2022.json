@@ -42,13 +42,13 @@
         "cgpa": 3.8,
         "name": "Sakir Hossain Faruque",
         "cTitleNgLetter": [
-            "Software Project III               \t A+ \n",
             "Digital Electronics Lab            \t A+ \n",
+            "Software Project III               \t A+ \n",
             "Data Communication                 \t A \n",
-            "Statistics and Probability         \t A+ \n",
-            "Digital Electronics                \t A- \n",
             "Algorithm                          \t A- \n",
-            "Algorithm Lab                      \t A \n"
+            "Algorithm Lab                      \t A \n",
+            "Digital Electronics                \t A- \n",
+            "Statistics and Probability         \t A+ \n"
         ]
     },
     "203-15-3879": {
@@ -107,13 +107,13 @@
         "cgpa": 3.68,
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
+            "Digital Electronics Lab            \t A+ \n",
+            "Statistics and Probability         \t A \n",
             "Algorithm Lab                      \t A+ \n",
             "Digital Electronics                \t B \n",
             "Data Communication                 \t A- \n",
-            "Algorithm                          \t A- \n",
-            "Statistics and Probability         \t A \n",
-            "Digital Electronics Lab            \t A+ \n",
-            "Software Project III               \t A \n"
+            "Software Project III               \t A \n",
+            "Algorithm                          \t A- \n"
         ]
     },
     "203-15-3885": {
@@ -607,12 +607,12 @@
         "cgpa": 2.66,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
-            "Algorithm                          \t C+ \n",
-            "Algorithm Lab                      \t C \n",
             "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Statistics and Probability         \t D \n",
+            "Algorithm                          \t C+ \n",
+            "Algorithm Lab                      \t C \n",
             "Data Communication                 \t B \n",
+            "Statistics and Probability         \t D \n",
             "Software Project III               \t A- \n"
         ]
     },
@@ -893,13 +893,13 @@
         "cgpa": 0.0,
         "name": "Samsun Naher Asme ",
         "cTitleNgLetter": [
-            "Statistics and Probability         \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Algorithm                          \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Algorithm Lab                      \t Teaching evaluation is pending \n",
+            "Statistics and Probability         \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
-            "Software Project III               \t Teaching evaluation is pending \n",
-            "Data Communication                 \t Teaching evaluation is pending \n"
+            "Software Project III               \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3861": {
