@@ -56,8 +56,8 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -117,6 +117,13 @@
         "name": "Anowar Karim",
         "cTitleNgLetter": [
             "Math for Computer Science          \t C \n"
+        ]
+    },
+    "181-15-2017": {
+        "cgpa": 2.25,
+        "name": "Md. Sujan Ahmed ",
+        "cTitleNgLetter": [
+            "Data Communication                 \t C \n"
         ]
     },
     "203-15-3913": {
@@ -449,5 +456,17 @@
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
+    },
+    "203-15-3882": {
+        "cgpa": 0.0,
+        "name": "Samsun Naher Asme ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "181-15-1096": {
+        "cgpa": 0.0,
+        "name": "Sadekul Alam",
+        "cTitleNgLetter": []
     }
 }
