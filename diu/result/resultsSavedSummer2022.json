@@ -43,6 +43,15 @@
             "Communication Engineering          \t B- \n"
         ]
     },
+    "202-15-3841": {
+        "cgpa": 3.17,
+        "name": "Md. Alif Rahman Shefat",
+        "cTitleNgLetter": [
+            "Digital Electronics Lab            \t B+ \n",
+            "Digital Electronics                \t B- \n",
+            "Data Communication                 \t B+ \n"
+        ]
+    },
     "203-15-3857": {
         "cgpa": 3.0,
         "name": "Ritwika Dey Risha",
@@ -71,6 +80,20 @@
             "Math for Computer Science          \t B \n"
         ]
     },
+    "203-15-3891": {
+        "cgpa": 3.0,
+        "name": "Mst. Rabeya Bosrin",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B \n"
+        ]
+    },
+    "203-15-3902": {
+        "cgpa": 2.75,
+        "name": "Jannatul Ferdous",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B- \n"
+        ]
+    },
     "201-15-3711": {
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
@@ -78,6 +101,13 @@
             "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n"
+        ]
+    },
+    "201-15-3779": {
+        "cgpa": 2.25,
+        "name": "Anowar Karim",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t C \n"
         ]
     },
     "203-15-3913": {
@@ -103,7 +133,8 @@
         "cgpa": 0.0,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t Teaching evaluation is pending \n"
+            "Microprocessor and Assembly Language Lab\t Teaching evaluation is pending \n",
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3898": {
@@ -314,5 +345,67 @@
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
+    },
+    "203-15-3924": {
+        "cgpa": 0.0,
+        "name": "Adiba Zaman Chowdhury",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "181-15-1852": {
+        "cgpa": 0.0,
+        "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": [
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3884": {
+        "cgpa": 0.0,
+        "name": "M.Mukit Mosfiq",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3871": {
+        "cgpa": 0.0,
+        "name": "Md. Rakibul Islam Shanto ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3862": {
+        "cgpa": 0.0,
+        "name": "Sakir Hossain Faruque",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3442": {
+        "cgpa": 0.0,
+        "name": "MD. FOYSAL SHEIKH ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "202-15-3824": {
+        "cgpa": 0.0,
+        "name": "Md. Sakib Sarker ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3879": {
+        "cgpa": 0.0,
+        "name": "Jahidul Islam ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3863": {
+        "cgpa": 0.0,
+        "name": "Md. Mokaddus Hossain Abid ",
+        "cTitleNgLetter": []
     }
 }
