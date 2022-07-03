@@ -1,4 +1,11 @@
 {
+    "203-15-3876": {
+        "cgpa": 4.0,
+        "name": "Shekh Kaniz Fatema",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A+ \n"
+        ]
+    },
     "203-15-3885": {
         "cgpa": 3.75,
         "name": "Nusrat Faruqi",
@@ -129,9 +136,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Data Communication                 \t C \n",
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t C+ \n",
-            "Digital Electronics                \t B- \n"
+            "Data Communication                 \t C \n"
         ]
     },
     "201-15-3779": {
