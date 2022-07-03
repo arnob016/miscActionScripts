@@ -31,8 +31,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -135,9 +135,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "203-15-3857": {
@@ -200,9 +200,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Data Communication                 \t C \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-1723": {
@@ -259,8 +259,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
@@ -424,8 +424,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
@@ -474,8 +474,8 @@
         "cgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3884": {
