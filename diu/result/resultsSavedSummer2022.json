@@ -83,8 +83,8 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Software Engineering               \t B+ \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
+            "Software Engineering               \t B+ \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -139,6 +139,13 @@
             "Math for Computer Science          \t B- \n"
         ]
     },
+    "203-15-3913": {
+        "cgpa": 2.5,
+        "name": "Md. Robiul Awoal ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t C+ \n"
+        ]
+    },
     "201-15-3711": {
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
@@ -167,13 +174,6 @@
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t D \n"
-        ]
-    },
-    "203-15-3913": {
-        "cgpa": 0.0,
-        "name": "Md. Robiul Awoal ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3904": {
