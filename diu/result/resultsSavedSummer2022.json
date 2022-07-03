@@ -6,6 +6,13 @@
             "Math for Computer Science          \t A \n"
         ]
     },
+    "203-15-3877": {
+        "cgpa": 3.5,
+        "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A- \n"
+        ]
+    },
     "203-15-3916": {
         "cgpa": 3.25,
         "name": "Md.Likhon Mia",
@@ -16,6 +23,13 @@
     "202-15-3852": {
         "cgpa": 3.25,
         "name": "Md. Mahmudul Hasan Raihan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
+    "203-15-3873": {
+        "cgpa": 3.25,
+        "name": "Md.Tanvir Siddik",
         "cTitleNgLetter": [
             "Math for Computer Science          \t B+ \n"
         ]
@@ -191,6 +205,48 @@
         "name": "Md. Al Emon ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3918": {
+        "cgpa": 0.0,
+        "name": "Fatema Ha-mim",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3526": {
+        "cgpa": 0.0,
+        "name": "NAIEM MIA ",
+        "cTitleNgLetter": []
+    },
+    "203-15-3930": {
+        "cgpa": 0.0,
+        "name": "Md.Osman Goni ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3914": {
+        "cgpa": 0.0,
+        "name": "B.M. Rahat Almas",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3889": {
+        "cgpa": 0.0,
+        "name": "Md. Tahamid Rayhan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3910": {
+        "cgpa": 0.0,
+        "name": "Amena Khatun ",
+        "cTitleNgLetter": [
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     }
 }
