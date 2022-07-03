@@ -17,8 +17,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -92,9 +92,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t B- \n"
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -342,8 +342,8 @@
         "cgpa": 0.0,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
