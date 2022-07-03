@@ -34,6 +34,15 @@
             "Math for Computer Science          \t B+ \n"
         ]
     },
+    "201-15-3063": {
+        "cgpa": 3.17,
+        "name": "Jugol Kishor Das",
+        "cTitleNgLetter": [
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
+            "Software Engineering               \t B+ \n",
+            "Communication Engineering          \t B- \n"
+        ]
+    },
     "203-15-3857": {
         "cgpa": 3.0,
         "name": "Ritwika Dey Risha",
@@ -55,13 +64,20 @@
             "Math for Computer Science          \t B \n"
         ]
     },
+    "203-15-3923": {
+        "cgpa": 3.0,
+        "name": "Biplob Kumar Sutradhar",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B \n"
+        ]
+    },
     "201-15-3711": {
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t C+ \n",
-            "Data Communication                 \t C \n",
-            "Digital Electronics                \t B- \n"
+            "Data Communication                 \t C \n"
         ]
     },
     "203-15-3913": {
@@ -247,6 +263,56 @@
             "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3912": {
+        "cgpa": 0.0,
+        "name": "Md. Mahmudul Hasan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "191-15-2612": {
+        "cgpa": 0.0,
+        "name": "Md Rabbi Hasan",
+        "cTitleNgLetter": [
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3897": {
+        "cgpa": 0.0,
+        "name": "Abul Kalam Lotif",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3534": {
+        "cgpa": 0.0,
+        "name": "Mahamudul Hassan Joy",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3861": {
+        "cgpa": 0.0,
+        "name": "Nayeemul Hayder Nayeem ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3880": {
+        "cgpa": 0.0,
+        "name": "Abdul Fattah Mujtabir Samin",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "201-15-3208": {
+        "cgpa": 0.0,
+        "name": "Md. Omor Faruk ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     }
 }
