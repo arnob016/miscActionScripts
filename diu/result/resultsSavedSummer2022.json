@@ -28,6 +28,13 @@
             "Math for Computer Science          \t A- \n"
         ]
     },
+    "203-15-3865": {
+        "cgpa": 3.5,
+        "name": "Shekh Naziullah ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A- \n"
+        ]
+    },
     "203-15-3874": {
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
@@ -507,6 +514,13 @@
     "203-15-3894": {
         "cgpa": 0.0,
         "name": "Zahin Faisal",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3883": {
+        "cgpa": 0.0,
+        "name": "Sakibul Islam Shakib ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
