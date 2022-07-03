@@ -13,6 +13,13 @@
             "Math for Computer Science          \t A+ \n"
         ]
     },
+    "203-15-3862": {
+        "cgpa": 4.0,
+        "name": "Sakir Hossain Faruque",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A+ \n"
+        ]
+    },
     "203-15-3885": {
         "cgpa": 3.75,
         "name": "Nusrat Faruqi",
@@ -24,8 +31,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -53,8 +60,8 @@
         "cgpa": 3.56,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t B \n",
-            "Computer Graphics                  \t A \n"
+            "Computer Graphics                  \t A \n",
+            "Computer Graphics Lab              \t B \n"
         ]
     },
     "203-15-3877": {
@@ -82,8 +89,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
             "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -128,9 +135,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -193,17 +200,17 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "181-15-1723": {
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n"
+            "Microprocessor and Assembly Language\t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "201-15-3779": {
@@ -460,8 +467,8 @@
         "cgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3884": {
@@ -474,13 +481,6 @@
     "203-15-3871": {
         "cgpa": 0.0,
         "name": "Md. Rakibul Islam Shanto ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "203-15-3862": {
-        "cgpa": 0.0,
-        "name": "Sakir Hossain Faruque",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
