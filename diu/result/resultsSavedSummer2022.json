@@ -83,8 +83,8 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Software Engineering               \t B+ \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -342,8 +342,8 @@
         "cgpa": 0.0,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Digital Electronics Lab            \t Teaching evaluation is pending \n",
+            "Digital Electronics                \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n"
         ]
     },
