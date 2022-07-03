@@ -62,18 +62,18 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Communication Engineering          \t B- \n",
+            "Software Engineering               \t B+ \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Software Engineering               \t B+ \n"
+            "Communication Engineering          \t B- \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -122,9 +122,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Data Communication                 \t C \n",
             "Digital Electronics Lab            \t C+ \n",
-            "Data Communication                 \t C \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "201-15-3779": {
@@ -493,6 +493,20 @@
     "203-15-3867": {
         "cgpa": 0.0,
         "name": "Md Akil Hasan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3925": {
+        "cgpa": 0.0,
+        "name": "Md. Ashikur Rahman Shovo ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3894": {
+        "cgpa": 0.0,
+        "name": "Zahin Faisal",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
