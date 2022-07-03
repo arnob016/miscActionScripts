@@ -13,6 +13,15 @@
             "Math for Computer Science          \t A- \n"
         ]
     },
+    "203-15-3874": {
+        "cgpa": 3.38,
+        "name": "Md. Robiul Islam ",
+        "cTitleNgLetter": [
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n",
+            "Data Communication                 \t B+ \n"
+        ]
+    },
     "203-15-3916": {
         "cgpa": 3.25,
         "name": "Md.Likhon Mia",
@@ -38,9 +47,9 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
+            "Communication Engineering          \t B- \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Software Engineering               \t B+ \n",
-            "Communication Engineering          \t B- \n"
+            "Software Engineering               \t B+ \n"
         ]
     },
     "202-15-3841": {
@@ -407,5 +416,38 @@
         "cgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": []
+    },
+    "203-15-3919": {
+        "cgpa": 0.0,
+        "name": "Farhan Adnan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3906": {
+        "cgpa": 0.0,
+        "name": "Arnob Dey ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "143-15-4546": {
+        "cgpa": 0.0,
+        "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3872": {
+        "cgpa": 0.0,
+        "name": "Md. Zubair Islam ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3868": {
+        "cgpa": 0.0,
+        "name": "Nafi Bin Monsoor Alvi",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
     }
 }
