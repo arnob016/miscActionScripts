@@ -53,8 +53,8 @@
         "cgpa": 3.56,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t B \n",
-            "Computer Graphics                  \t A \n"
+            "Computer Graphics                  \t A \n",
+            "Computer Graphics Lab              \t B \n"
         ]
     },
     "203-15-3877": {
@@ -83,8 +83,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Digital Electronics                \t A- \n",
-            "Data Communication                 \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3916": {
@@ -119,9 +119,9 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n",
-            "Software Engineering               \t B+ \n",
-            "Mathematics I: Differential and Integral Calculus\t A- \n"
+            "Software Engineering               \t B+ \n"
         ]
     },
     "202-15-3841": {
@@ -202,8 +202,8 @@
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n"
+            "Microprocessor and Assembly Language\t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "201-15-3779": {
@@ -245,8 +245,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab\t B \n",
-            "System Analysis and Design         \t F \n"
+            "System Analysis and Design         \t F \n",
+            "Data Mining and Machine Learning Lab\t B \n"
         ]
     },
     "203-15-3904": {
@@ -715,5 +715,17 @@
         "cgpa": 0.0,
         "name": "Md. Ashraful Islam ",
         "cTitleNgLetter": []
+    },
+    "203-15-1457": {
+        "cgpa": 0.0,
+        "name": "Md. Golam Kibria",
+        "cTitleNgLetter": []
+    },
+    "201-15-3691": {
+        "cgpa": 0.0,
+        "name": "Rabib Al Rise ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
     }
 }
