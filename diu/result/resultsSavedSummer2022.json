@@ -24,8 +24,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -53,8 +53,8 @@
         "cgpa": 3.56,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
-            "Computer Graphics Lab              \t B \n"
+            "Computer Graphics Lab              \t B \n",
+            "Computer Graphics                  \t A \n"
         ]
     },
     "203-15-3877": {
@@ -82,8 +82,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t A- \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -119,8 +119,8 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Software Engineering               \t B+ \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -128,9 +128,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -193,9 +193,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B- \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-1723": {
