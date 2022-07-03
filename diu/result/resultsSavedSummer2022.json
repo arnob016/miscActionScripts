@@ -6,9 +6,24 @@
             "Math for Computer Science          \t A \n"
         ]
     },
+    "181-15-2070": {
+        "cgpa": 3.75,
+        "name": "Mazharul Alam ",
+        "cTitleNgLetter": [
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
+        ]
+    },
     "203-15-3877": {
         "cgpa": 3.5,
         "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A- \n"
+        ]
+    },
+    "203-15-3878": {
+        "cgpa": 3.5,
+        "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t A- \n"
         ]
@@ -17,8 +32,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t A- \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -143,14 +158,6 @@
         "name": "Mazharul Islam",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "181-15-2070": {
-        "cgpa": 0.0,
-        "name": "Mazharul Alam ",
-        "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3898": {
@@ -468,5 +475,26 @@
         "cgpa": 0.0,
         "name": "Sadekul Alam",
         "cTitleNgLetter": []
+    },
+    "203-15-3917": {
+        "cgpa": 0.0,
+        "name": "Tania Akter",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3859": {
+        "cgpa": 0.0,
+        "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "203-15-3867": {
+        "cgpa": 0.0,
+        "name": "Md Akil Hasan ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
     }
 }
