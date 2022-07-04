@@ -38,8 +38,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -148,8 +148,8 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Data Communication                 \t B \n",
-            "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t B+ \n"
+            "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "181-15-1852": {
@@ -165,17 +165,17 @@
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Software Engineering               \t B+ \n",
-            "Communication Engineering          \t B- \n"
+            "Communication Engineering          \t B- \n",
+            "Software Engineering               \t B+ \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -220,6 +220,13 @@
             "Math for Computer Science          \t B \n"
         ]
     },
+    "203-15-3896": {
+        "cgpa": 3.0,
+        "name": "Md. Al Emon ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B \n"
+        ]
+    },
     "203-15-3902": {
         "cgpa": 2.75,
         "name": "Jannatul Ferdous",
@@ -245,9 +252,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n"
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-1723": {
@@ -405,13 +412,6 @@
     "203-15-3887": {
         "cgpa": 0.0,
         "name": "Jahid Imran",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "203-15-3896": {
-        "cgpa": 0.0,
-        "name": "Md. Al Emon ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
