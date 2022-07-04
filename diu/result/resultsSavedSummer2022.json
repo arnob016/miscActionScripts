@@ -175,8 +175,8 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Digital Electronics                \t B+ \n",
-            "Data Communication                 \t B \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B \n"
         ]
     },
     "181-15-1852": {
@@ -191,8 +191,8 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Software Engineering               \t B+ \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -209,8 +209,8 @@
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t B \n",
             "Social and Professional Issues in Computing\t C \n",
+            "Computer Graphics Lab              \t B \n",
             "Computer Graphics                  \t A \n"
         ]
     },
@@ -288,9 +288,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
+            "Data Communication                 \t C \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t C+ \n",
-            "Data Communication                 \t C \n"
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-1723": {
@@ -482,8 +482,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
