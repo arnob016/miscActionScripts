@@ -117,8 +117,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -174,8 +174,8 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B \n"
         ]
     },
@@ -183,8 +183,8 @@
         "cgpa": 3.19,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t B \n",
-            "Object Oriented Programming Lab    \t A \n"
+            "Object Oriented Programming Lab    \t A \n",
+            "Social and Professional Issues in Computing\t B \n"
         ]
     },
     "201-15-3063": {
@@ -200,18 +200,18 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "182-15-2223": {
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
             "Computer Graphics Lab              \t B \n",
-            "Social and Professional Issues in Computing\t C \n"
+            "Social and Professional Issues in Computing\t C \n",
+            "Computer Graphics                  \t A \n"
         ]
     },
     "203-15-3857": {
@@ -259,6 +259,13 @@
     "203-15-3896": {
         "cgpa": 3.0,
         "name": "Md. Al Emon ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B \n"
+        ]
+    },
+    "203-15-3861": {
+        "cgpa": 3.0,
+        "name": "Nayeemul Hayder Nayeem ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t B \n"
         ]
@@ -482,8 +489,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
@@ -496,13 +503,6 @@
     "201-15-3534": {
         "cgpa": 0.0,
         "name": "Mahamudul Hassan Joy",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "203-15-3861": {
-        "cgpa": 0.0,
-        "name": "Nayeemul Hayder Nayeem ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
