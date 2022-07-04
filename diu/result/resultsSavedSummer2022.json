@@ -27,6 +27,13 @@
             "Math for Computer Science          \t A+ \n"
         ]
     },
+    "201-15-3691": {
+        "cgpa": 4.0,
+        "name": "Rabib Al Rise ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A+ \n"
+        ]
+    },
     "203-15-3885": {
         "cgpa": 3.75,
         "name": "Nusrat Faruqi",
@@ -38,8 +45,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -103,8 +110,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -149,29 +156,36 @@
             "Math for Computer Science          \t B+ \n"
         ]
     },
+    "201-15-3692": {
+        "cgpa": 3.25,
+        "name": "Galib Al Jadid ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
     "203-15-3910": {
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B+ \n",
             "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B \n"
+            "Data Communication                 \t B \n",
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "181-15-1852": {
         "cgpa": 3.19,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A \n",
-            "Social and Professional Issues in Computing\t B \n"
+            "Social and Professional Issues in Computing\t B \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "201-15-3063": {
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Software Engineering               \t B+ \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -179,8 +193,8 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t B- \n",
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t B+ \n"
         ]
     },
@@ -333,8 +347,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
@@ -647,13 +661,6 @@
         "name": "KAZI SAIF MAHMUD ",
         "cTitleNgLetter": []
     },
-    "201-15-3692": {
-        "cgpa": 0.0,
-        "name": "Galib Al Jadid ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
     "201-15-3209": {
         "cgpa": 0.0,
         "name": "Zannatul Mawya Priya ",
@@ -721,12 +728,5 @@
         "cgpa": 0.0,
         "name": "Md. Golam Kibria",
         "cTitleNgLetter": []
-    },
-    "201-15-3691": {
-        "cgpa": 0.0,
-        "name": "Rabib Al Rise ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
     }
 }
