@@ -38,8 +38,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -68,14 +68,6 @@
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
             "Math for Computer Science          \t A \n"
-        ]
-    },
-    "182-15-2223": {
-        "cgpa": 3.56,
-        "name": "Md. Sakib Chowdhury",
-        "cTitleNgLetter": [
-            "Computer Graphics Lab              \t B \n",
-            "Computer Graphics                  \t A \n"
         ]
     },
     "203-15-3877": {
@@ -110,9 +102,9 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
+            "Digital Electronics                \t A- \n",
             "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t A- \n"
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3916": {
@@ -161,9 +153,9 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B+ \n"
+            "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "181-15-1852": {
@@ -179,8 +171,8 @@
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Communication Engineering          \t B- \n",
-            "Software Engineering               \t B+ \n"
+            "Software Engineering               \t B+ \n",
+            "Communication Engineering          \t B- \n"
         ]
     },
     "202-15-3841": {
@@ -190,6 +182,15 @@
             "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B+ \n"
+        ]
+    },
+    "182-15-2223": {
+        "cgpa": 3.0,
+        "name": "Md. Sakib Chowdhury",
+        "cTitleNgLetter": [
+            "Social and Professional Issues in Computing\t C \n",
+            "Computer Graphics                  \t A \n",
+            "Computer Graphics Lab              \t B \n"
         ]
     },
     "203-15-3857": {
@@ -266,8 +267,8 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t C+ \n",
+            "Digital Electronics                \t B- \n",
             "Data Communication                 \t C \n"
         ]
     },
@@ -291,6 +292,13 @@
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
             "Data Communication                 \t C \n"
+        ]
+    },
+    "203-15-3922": {
+        "cgpa": 2.25,
+        "name": "Eshita Akter ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t C \n"
         ]
     },
     "193-15-2972": {
@@ -365,13 +373,6 @@
     "203-15-3927": {
         "cgpa": 0.0,
         "name": "Md. Zonaid ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "203-15-3922": {
-        "cgpa": 0.0,
-        "name": "Eshita Akter ",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
