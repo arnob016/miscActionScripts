@@ -45,8 +45,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -210,8 +210,8 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "181-15-1852": {
@@ -235,18 +235,18 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "182-15-2223": {
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
+            "Social and Professional Issues in Computing\t C \n",
             "Computer Graphics Lab              \t B \n",
-            "Social and Professional Issues in Computing\t C \n"
+            "Computer Graphics                  \t A \n"
         ]
     },
     "203-15-3857": {
@@ -330,17 +330,17 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n"
+            "Data Communication                 \t C \n",
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-1723": {
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n"
+            "Microprocessor and Assembly Language\t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "201-15-3779": {
@@ -396,8 +396,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
@@ -532,7 +532,7 @@
         "cgpa": 0.0,
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t F \n"
         ]
     },
     "203-15-3880": {
