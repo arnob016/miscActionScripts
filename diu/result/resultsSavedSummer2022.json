@@ -38,8 +38,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -97,8 +97,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -147,27 +147,35 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B+ \n",
+            "Data Communication                 \t B \n",
             "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B \n"
+            "Digital Electronics                \t B+ \n"
+        ]
+    },
+    "181-15-1852": {
+        "cgpa": 3.19,
+        "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": [
+            "Object Oriented Programming Lab    \t A \n",
+            "Social and Professional Issues in Computing\t B \n"
         ]
     },
     "201-15-3063": {
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Software Engineering               \t B+ \n",
-            "Communication Engineering          \t B- \n"
+            "Communication Engineering          \t B- \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "203-15-3857": {
@@ -246,8 +254,8 @@
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n"
+            "Microprocessor and Assembly Language\t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "201-15-3779": {
@@ -482,14 +490,6 @@
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
             "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
-    "181-15-1852": {
-        "cgpa": 0.0,
-        "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3884": {
