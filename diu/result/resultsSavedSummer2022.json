@@ -130,9 +130,9 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -209,9 +209,9 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Data Communication                 \t B \n",
             "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t B+ \n"
+            "Digital Electronics                \t B+ \n",
+            "Data Communication                 \t B \n"
         ]
     },
     "181-15-1852": {
@@ -235,8 +235,8 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
             "Data Communication                 \t B+ \n",
+            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t B+ \n"
         ]
     },
@@ -331,16 +331,16 @@
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-1723": {
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language\t C \n",
-            "Data Communication                 \t C+ \n"
+            "Data Communication                 \t C+ \n",
+            "Microprocessor and Assembly Language\t C \n"
         ]
     },
     "201-15-3779": {
@@ -388,6 +388,13 @@
     "193-15-2947": {
         "cgpa": 2.0,
         "name": "Md Enamul Huq",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t D \n"
+        ]
+    },
+    "203-15-3880": {
+        "cgpa": 2.0,
+        "name": "Abdul Fattah Mujtabir Samin",
         "cTitleNgLetter": [
             "Math for Computer Science          \t D \n"
         ]
@@ -533,13 +540,6 @@
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
             "Math for Computer Science          \t F \n"
-        ]
-    },
-    "203-15-3880": {
-        "cgpa": 0.0,
-        "name": "Abdul Fattah Mujtabir Samin",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3208": {
