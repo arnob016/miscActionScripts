@@ -45,8 +45,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language Lab\t A \n",
-            "Social and Professional Issues in Computing\t A \n"
+            "Social and Professional Issues in Computing\t A \n",
+            "Microprocessor and Assembly Language Lab\t A \n"
         ]
     },
     "203-15-3858": {
@@ -109,8 +109,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t A- \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -168,16 +168,16 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "181-15-1852": {
         "cgpa": 3.19,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t B \n",
-            "Object Oriented Programming Lab    \t A \n"
+            "Object Oriented Programming Lab    \t A \n",
+            "Social and Professional Issues in Computing\t B \n"
         ]
     },
     "201-15-3063": {
@@ -193,18 +193,18 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "182-15-2223": {
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t C \n",
             "Computer Graphics                  \t A \n",
-            "Computer Graphics Lab              \t B \n"
+            "Computer Graphics Lab              \t B \n",
+            "Social and Professional Issues in Computing\t C \n"
         ]
     },
     "203-15-3857": {
@@ -475,8 +475,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
