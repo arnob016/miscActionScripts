@@ -209,9 +209,9 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
+            "Data Communication                 \t B \n",
             "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t B+ \n",
-            "Data Communication                 \t B \n"
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "181-15-1852": {
@@ -524,8 +524,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
