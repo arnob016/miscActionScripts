@@ -20,6 +20,13 @@
             "Math for Computer Science          \t A+ \n"
         ]
     },
+    "203-15-3881": {
+        "cgpa": 4.0,
+        "name": "Mahadi Hasan Munna",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A+ \n"
+        ]
+    },
     "203-15-3885": {
         "cgpa": 3.75,
         "name": "Nusrat Faruqi",
@@ -60,8 +67,8 @@
         "cgpa": 3.56,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
-            "Computer Graphics Lab              \t B \n"
+            "Computer Graphics Lab              \t B \n",
+            "Computer Graphics                  \t A \n"
         ]
     },
     "203-15-3877": {
@@ -90,8 +97,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t A- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -122,6 +129,13 @@
             "Math for Computer Science          \t B+ \n"
         ]
     },
+    "203-15-3875": {
+        "cgpa": 3.25,
+        "name": "Md. Mostafizur Rahman ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
     "201-15-3063": {
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
@@ -135,9 +149,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -200,8 +214,8 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Digital Electronics                \t B- \n"
         ]
     },
@@ -259,8 +273,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
@@ -329,13 +343,6 @@
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
-    "203-15-3881": {
-        "cgpa": 0.0,
-        "name": "Mahadi Hasan Munna",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
     "203-15-3911": {
         "cgpa": 0.0,
         "name": "Md. Mehedi Hasan ",
@@ -371,13 +378,6 @@
             "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
-    "203-15-3875": {
-        "cgpa": 0.0,
-        "name": "Md. Mostafizur Rahman ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
-    },
     "203-15-3896": {
         "cgpa": 0.0,
         "name": "Md. Al Emon ",
@@ -408,9 +408,9 @@
         "cgpa": 0.0,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t Teaching evaluation is pending \n",
             "Data Communication                 \t Teaching evaluation is pending \n",
-            "Digital Electronics                \t Teaching evaluation is pending \n"
+            "Digital Electronics                \t Teaching evaluation is pending \n",
+            "Digital Electronics Lab            \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3912": {
@@ -474,8 +474,8 @@
         "cgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3884": {
