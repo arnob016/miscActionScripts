@@ -119,6 +119,13 @@
             "Database Management System Lab     \t A- \n"
         ]
     },
+    "203-15-3930": {
+        "cgpa": 3.5,
+        "name": "Md.Osman Goni ",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t A- \n"
+        ]
+    },
     "203-15-3874": {
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
@@ -202,8 +209,8 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B \n"
         ]
     },
@@ -219,26 +226,26 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Software Engineering               \t B+ \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Communication Engineering          \t B- \n"
+            "Communication Engineering          \t B- \n",
+            "Software Engineering               \t B+ \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "182-15-2223": {
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
             "Computer Graphics Lab              \t B \n",
+            "Computer Graphics                  \t A \n",
             "Social and Professional Issues in Computing\t C \n"
         ]
     },
@@ -323,9 +330,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "181-15-1723": {
@@ -389,8 +396,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
@@ -498,13 +505,6 @@
         "cgpa": 0.0,
         "name": "NAIEM MIA ",
         "cTitleNgLetter": []
-    },
-    "203-15-3930": {
-        "cgpa": 0.0,
-        "name": "Md.Osman Goni ",
-        "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
-        ]
     },
     "203-15-3912": {
         "cgpa": 0.0,
