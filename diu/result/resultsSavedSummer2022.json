@@ -96,8 +96,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t A- \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
@@ -148,16 +148,16 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Digital Electronics                \t B+ \n",
-            "Data Communication                 \t B \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B \n"
         ]
     },
     "201-15-3063": {
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Software Engineering               \t B+ \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
+            "Software Engineering               \t B+ \n",
             "Communication Engineering          \t B- \n"
         ]
     },
@@ -237,17 +237,17 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Data Communication                 \t C \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-1723": {
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language\t C \n",
-            "Data Communication                 \t C+ \n"
+            "Data Communication                 \t C+ \n",
+            "Microprocessor and Assembly Language\t C \n"
         ]
     },
     "201-15-3779": {
