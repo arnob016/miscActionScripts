@@ -45,8 +45,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -112,12 +112,19 @@
             "Math for Computer Science          \t A- \n"
         ]
     },
+    "181-15-955": {
+        "cgpa": 3.5,
+        "name": "Mashiur Rahman",
+        "cTitleNgLetter": [
+            "Database Management System Lab     \t A- \n"
+        ]
+    },
     "203-15-3874": {
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t A- \n",
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t A- \n"
         ]
     },
@@ -170,6 +177,27 @@
             "Math for Computer Science          \t B+ \n"
         ]
     },
+    "203-15-14491": {
+        "cgpa": 3.25,
+        "name": "Salman",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
+    "202-15-14433": {
+        "cgpa": 3.25,
+        "name": "Md. Shihab Ullah",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
+    "203-15-14572": {
+        "cgpa": 3.25,
+        "name": "Md. Golam Kibria",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t B+ \n"
+        ]
+    },
     "203-15-3910": {
         "cgpa": 3.21,
         "name": "Amena Khatun ",
@@ -183,35 +211,35 @@
         "cgpa": 3.19,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t B \n",
-            "Object Oriented Programming Lab    \t A \n"
+            "Object Oriented Programming Lab    \t A \n",
+            "Social and Professional Issues in Computing\t B \n"
         ]
     },
     "201-15-3063": {
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Software Engineering               \t B+ \n",
+            "Mathematics I: Differential and Integral Calculus\t A- \n",
             "Communication Engineering          \t B- \n",
-            "Mathematics I: Differential and Integral Calculus\t A- \n"
+            "Software Engineering               \t B+ \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
+            "Digital Electronics                \t B- \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "182-15-2223": {
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
+            "Computer Graphics                  \t A \n",
             "Computer Graphics Lab              \t B \n",
-            "Social and Professional Issues in Computing\t C \n",
-            "Computer Graphics                  \t A \n"
+            "Social and Professional Issues in Computing\t C \n"
         ]
     },
     "203-15-3857": {
@@ -295,17 +323,17 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-1723": {
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language\t C \n",
-            "Data Communication                 \t C+ \n"
+            "Data Communication                 \t C+ \n",
+            "Microprocessor and Assembly Language\t C \n"
         ]
     },
     "201-15-3779": {
@@ -361,8 +389,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab\t B \n",
-            "System Analysis and Design         \t F \n"
+            "System Analysis and Design         \t F \n",
+            "Data Mining and Machine Learning Lab\t B \n"
         ]
     },
     "203-15-3904": {
@@ -489,8 +517,8 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
@@ -727,6 +755,28 @@
     "203-15-1457": {
         "cgpa": 0.0,
         "name": "Md. Golam Kibria",
+        "cTitleNgLetter": []
+    },
+    "181-15-285": {
+        "cgpa": 0.0,
+        "name": "Md.Nahid Hasan",
+        "cTitleNgLetter": []
+    },
+    "203-15-14513": {
+        "cgpa": 0.0,
+        "name": "Md. Shakhawat Hossain",
+        "cTitleNgLetter": [
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
+        ]
+    },
+    "181-15-968": {
+        "cgpa": 0.0,
+        "name": "Rokaya Akter Taiyaba",
+        "cTitleNgLetter": []
+    },
+    "201-15-14273": {
+        "cgpa": 0.0,
+        "name": "ABDULLAH AL ASIB",
         "cTitleNgLetter": []
     }
 }
