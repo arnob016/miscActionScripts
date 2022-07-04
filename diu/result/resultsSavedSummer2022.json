@@ -130,8 +130,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t A- \n"
         ]
     },
@@ -235,9 +235,9 @@
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t B+ \n",
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n"
+            "Data Communication                 \t B+ \n"
         ]
     },
     "182-15-2223": {
@@ -330,8 +330,8 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
             "Digital Electronics Lab            \t C+ \n",
+            "Digital Electronics                \t B- \n",
             "Data Communication                 \t C \n"
         ]
     },
@@ -339,8 +339,8 @@
         "cgpa": 2.38,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n"
+            "Microprocessor and Assembly Language\t C \n",
+            "Data Communication                 \t C+ \n"
         ]
     },
     "201-15-3779": {
@@ -403,8 +403,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab\t B \n",
-            "System Analysis and Design         \t F \n"
+            "System Analysis and Design         \t F \n",
+            "Data Mining and Machine Learning Lab\t B \n"
         ]
     },
     "203-15-3904": {
