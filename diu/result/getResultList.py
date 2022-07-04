@@ -2,7 +2,7 @@ import re, os, requests, simplejson, time, json
 
 def rawDataFIds():
     with open("rawData.txt", "r") as r:
-        getIdList = re.findall(r"(\w.+)\s(\d{3}\-\d{2}\-\d{4})", r.read(), re.M)
+        getIdList = re.findall(r"(\w.+)\s(\d{3}\-\d{2}\-\d{3,5})", r.read(), re.M)
     return getIdList
 
 def sortData(data):
