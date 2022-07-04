@@ -97,8 +97,8 @@
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
             "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3916": {
@@ -140,8 +140,8 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B \n"
         ]
     },
@@ -149,18 +149,18 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
-            "Mathematics I: Differential and Integral Calculus\t A- \n",
+            "Communication Engineering          \t B- \n",
             "Software Engineering               \t B+ \n",
-            "Communication Engineering          \t B- \n"
+            "Mathematics I: Differential and Integral Calculus\t A- \n"
         ]
     },
     "202-15-3841": {
         "cgpa": 3.17,
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t B+ \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "203-15-3857": {
@@ -481,8 +481,8 @@
         "cgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
+            "Object Oriented Programming Lab    \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3884": {
