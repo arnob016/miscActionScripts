@@ -85,8 +85,8 @@
         "cgpa": 3.75,
         "name": "Mazharul Alam ",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t A \n",
-            "Microprocessor and Assembly Language Lab\t A \n"
+            "Microprocessor and Assembly Language Lab\t A \n",
+            "Social and Professional Issues in Computing\t A \n"
         ]
     },
     "203-15-3858": {
@@ -137,16 +137,16 @@
         "cgpa": 3.7,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t B+ \n"
+            "Math for Computer Science          \t B+ \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "201-15-3048": {
         "cgpa": 3.65,
         "name": "MD. ENAMUL HAQUE CHOWDHURY",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A \n",
-            "Math for Computer Science          \t A- \n"
+            "Math for Computer Science          \t A- \n",
+            "Numerical Methods                  \t A \n"
         ]
     },
     "203-15-3921": {
@@ -185,8 +185,8 @@
         "cgpa": 3.55,
         "name": "Md. Golam Kibria",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B+ \n",
-            "Numerical Methods                  \t A \n"
+            "Numerical Methods                  \t A \n",
+            "Math for Computer Science          \t B+ \n"
         ]
     },
     "203-15-3877": {
@@ -245,9 +245,9 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3922": {
@@ -327,8 +327,8 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
             "Digital Electronics                \t B+ \n",
+            "Digital Electronics Lab            \t A- \n",
             "Data Communication                 \t B \n"
         ]
     },
@@ -336,8 +336,8 @@
         "cgpa": 3.19,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
-            "Object Oriented Programming Lab    \t A \n",
-            "Social and Professional Issues in Computing\t B \n"
+            "Social and Professional Issues in Computing\t B \n",
+            "Object Oriented Programming Lab    \t A \n"
         ]
     },
     "201-15-3063": {
@@ -354,8 +354,8 @@
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n"
+            "Data Communication                 \t B+ \n",
+            "Digital Electronics Lab            \t B+ \n"
         ]
     },
     "201-15-3779": {
@@ -378,8 +378,8 @@
         "cgpa": 3.0,
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
-            "Computer Graphics                  \t A \n",
             "Social and Professional Issues in Computing\t C \n",
+            "Computer Graphics                  \t A \n",
             "Computer Graphics Lab              \t B \n"
         ]
     },
@@ -438,8 +438,8 @@
         "cgpa": 2.45,
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B- \n",
-            "Math for Computer Science          \t D \n"
+            "Math for Computer Science          \t D \n",
+            "Numerical Methods                  \t B- \n"
         ]
     },
     "203-15-3914": {
@@ -479,8 +479,8 @@
         "cgpa": 2.38,
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C \n",
-            "Numerical Methods                  \t C+ \n"
+            "Numerical Methods                  \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-1723": {
@@ -488,8 +488,8 @@
         "name": "Alauddin ",
         "cTitleNgLetter": [
             "Microprocessor and Assembly Language\t C \n",
-            "Numerical Methods                  \t C \n",
-            "Data Communication                 \t C+ \n"
+            "Data Communication                 \t C+ \n",
+            "Numerical Methods                  \t C \n"
         ]
     },
     "201-15-3208": {
@@ -562,8 +562,8 @@
         "cgpa": 0.0,
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n",
-            "Numerical Methods                  \t Teaching evaluation is pending \n"
+            "Numerical Methods                  \t Teaching evaluation is pending \n",
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3193": {
