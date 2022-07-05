@@ -445,9 +445,9 @@
         "cgpa": 2.68,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
+            "Object Oriented Programming Lab    \t A \n",
             "Social and Professional Issues in Computing\t B \n",
-            "Data Mining                        \t D \n",
-            "Object Oriented Programming Lab    \t A \n"
+            "Data Mining                        \t D \n"
         ]
     },
     "193-15-2972": {
@@ -487,8 +487,8 @@
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-2017": {
