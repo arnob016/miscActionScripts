@@ -342,9 +342,9 @@
         "cgpa": 3.21,
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
-            "Data Communication                 \t B \n",
             "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B \n"
         ]
     },
     "201-15-3063": {
@@ -495,8 +495,8 @@
         "cgpa": 2.38,
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t C+ \n",
-            "Data Communication                 \t C \n"
+            "Data Communication                 \t C \n",
+            "Numerical Methods                  \t C+ \n"
         ]
     },
     "181-15-1723": {
@@ -722,8 +722,8 @@
         "cgpa": 0.0,
         "name": "Md. Asif Haider",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n",
-            "Numerical Methods                  \t Teaching evaluation is pending \n"
+            "Numerical Methods                  \t Teaching evaluation is pending \n",
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3117": {
