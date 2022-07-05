@@ -62,8 +62,8 @@
         "cgpa": 3.88,
         "name": "Mashiur Rahman",
         "cTitleNgLetter": [
-            "Database Management System Lab     \t A- \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Database Management System Lab     \t A- \n"
         ]
     },
     "203-15-3917": {
@@ -386,8 +386,8 @@
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
             "Social and Professional Issues in Computing\t C \n",
-            "Computer Graphics Lab              \t B \n",
-            "Computer Graphics                  \t A \n"
+            "Computer Graphics                  \t A \n",
+            "Computer Graphics Lab              \t B \n"
         ]
     },
     "203-15-3857": {
@@ -486,17 +486,17 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics                \t B- \n",
+            "Digital Electronics Lab            \t C+ \n",
             "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics                \t B- \n"
         ]
     },
     "181-15-2017": {
         "cgpa": 2.38,
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C \n",
-            "Numerical Methods                  \t C+ \n"
+            "Numerical Methods                  \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-1723": {
@@ -504,8 +504,8 @@
         "name": "Alauddin ",
         "cTitleNgLetter": [
             "Data Communication                 \t C+ \n",
-            "Microprocessor and Assembly Language\t C \n",
-            "Numerical Methods                  \t C \n"
+            "Numerical Methods                  \t C \n",
+            "Microprocessor and Assembly Language\t C \n"
         ]
     },
     "201-15-3208": {
@@ -551,8 +551,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "System Analysis and Design         \t F \n",
-            "Data Mining and Machine Learning Lab\t B \n"
+            "Data Mining and Machine Learning Lab\t B \n",
+            "System Analysis and Design         \t F \n"
         ]
     },
     "203-15-3904": {
