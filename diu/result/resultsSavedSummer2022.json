@@ -186,8 +186,8 @@
         "cgpa": 3.55,
         "name": "Md. Golam Kibria",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B+ \n",
-            "Numerical Methods                  \t A \n"
+            "Numerical Methods                  \t A \n",
+            "Math for Computer Science          \t B+ \n"
         ]
     },
     "203-15-3877": {
@@ -253,9 +253,9 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t A- \n"
+            "Digital Electronics Lab            \t A- \n"
         ]
     },
     "203-15-3922": {
@@ -351,9 +351,9 @@
         "cgpa": 3.17,
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": [
+            "Software Engineering               \t B+ \n",
             "Mathematics I: Differential and Integral Calculus\t A- \n",
-            "Communication Engineering          \t B- \n",
-            "Software Engineering               \t B+ \n"
+            "Communication Engineering          \t B- \n"
         ]
     },
     "202-15-3841": {
@@ -377,8 +377,8 @@
         "cgpa": 3.05,
         "name": "Md. Mahian Islam Sadim",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B+ \n",
-            "Math for Computer Science          \t B- \n"
+            "Math for Computer Science          \t B- \n",
+            "Numerical Methods                  \t B+ \n"
         ]
     },
     "182-15-2223": {
@@ -486,9 +486,9 @@
         "cgpa": 2.42,
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
-            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n",
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n"
+            "Digital Electronics Lab            \t C+ \n"
         ]
     },
     "181-15-2017": {
@@ -503,9 +503,9 @@
         "cgpa": 2.33,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Microprocessor and Assembly Language\t C \n",
             "Data Communication                 \t C+ \n",
-            "Numerical Methods                  \t C \n"
+            "Numerical Methods                  \t C \n",
+            "Microprocessor and Assembly Language\t C \n"
         ]
     },
     "201-15-3208": {
@@ -527,8 +527,8 @@
         "cgpa": 2.0,
         "name": "SHEHAB MOLLAH",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t D \n",
-            "Math for Computer Science          \t D \n"
+            "Math for Computer Science          \t D \n",
+            "Numerical Methods                  \t D \n"
         ]
     },
     "201-15-3209": {
@@ -730,8 +730,8 @@
         "cgpa": 0.0,
         "name": "Md. Salim Reza Joy",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t Teaching evaluation is pending \n",
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t Teaching evaluation is pending \n",
+            "Numerical Methods                  \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3263": {
@@ -758,8 +758,8 @@
         "cgpa": 0.0,
         "name": "Md. Azhar Uddin Imran",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n",
-            "Numerical Methods                  \t Teaching evaluation is pending \n"
+            "Numerical Methods                  \t Teaching evaluation is pending \n",
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3313": {
