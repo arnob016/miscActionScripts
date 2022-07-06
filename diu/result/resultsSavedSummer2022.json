@@ -137,8 +137,8 @@
         "cgpa": 3.65,
         "name": "MD. ENAMUL HAQUE CHOWDHURY",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A \n",
-            "Math for Computer Science          \t A- \n"
+            "Math for Computer Science          \t A- \n",
+            "Numerical Methods                  \t A \n"
         ]
     },
     "181-15-2070": {
@@ -487,8 +487,8 @@
         "name": "Sabikur Rahman",
         "cTitleNgLetter": [
             "Digital Electronics                \t B- \n",
-            "Data Communication                 \t C \n",
-            "Digital Electronics Lab            \t C+ \n"
+            "Digital Electronics Lab            \t C+ \n",
+            "Data Communication                 \t C \n"
         ]
     },
     "181-15-2017": {
@@ -503,8 +503,8 @@
         "cgpa": 2.33,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Data Communication                 \t C+ \n",
             "Numerical Methods                  \t C \n",
+            "Data Communication                 \t C+ \n",
             "Microprocessor and Assembly Language\t C \n"
         ]
     },
@@ -551,8 +551,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab\t B \n",
-            "System Analysis and Design         \t F \n"
+            "System Analysis and Design         \t F \n",
+            "Data Mining and Machine Learning Lab\t B \n"
         ]
     },
     "203-15-3904": {
@@ -722,8 +722,8 @@
         "cgpa": 0.0,
         "name": "Md. Asif Haider",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t Teaching evaluation is pending \n",
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t Teaching evaluation is pending \n",
+            "Numerical Methods                  \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3117": {
