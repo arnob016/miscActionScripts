@@ -343,8 +343,8 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t A- \n",
-            "Digital Electronics                \t B+ \n",
-            "Data Communication                 \t B \n"
+            "Data Communication                 \t B \n",
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "201-15-3063": {
@@ -454,8 +454,8 @@
         "cgpa": 2.45,
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B- \n",
-            "Math for Computer Science          \t D \n"
+            "Math for Computer Science          \t D \n",
+            "Numerical Methods                  \t B- \n"
         ]
     },
     "203-15-3914": {
@@ -551,8 +551,8 @@
         "cgpa": 1.2,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab\t B \n",
-            "System Analysis and Design         \t F \n"
+            "System Analysis and Design         \t F \n",
+            "Data Mining and Machine Learning Lab\t B \n"
         ]
     },
     "203-15-3904": {
@@ -634,9 +634,9 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
             "Computer Graphics                  \t Teaching evaluation is pending \n",
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
