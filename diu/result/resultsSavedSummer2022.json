@@ -62,16 +62,16 @@
         "cgpa": 3.88,
         "name": "Mashiur Rahman",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Database Management System Lab     \t A- \n"
+            "Database Management System Lab     \t A- \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3917": {
         "cgpa": 3.8,
         "name": "Tania Akter",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t A- \n"
+            "Math for Computer Science          \t A- \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3885": {
@@ -121,8 +121,8 @@
         "cgpa": 3.7,
         "name": "Farabi Ahnaf Akib ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B+ \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t B+ \n"
         ]
     },
     "203-15-3903": {
@@ -154,8 +154,8 @@
         "cgpa": 3.6,
         "name": "Md. Ratul Karim",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t B \n"
+            "Math for Computer Science          \t B \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "201-15-3397": {
@@ -270,8 +270,8 @@
         "cgpa": 3.25,
         "name": "Md. Mahmudul Hasan Raihan ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B+ \n",
-            "Numerical Methods                  \t B+ \n"
+            "Numerical Methods                  \t B+ \n",
+            "Math for Computer Science          \t B+ \n"
         ]
     },
     "203-15-3873": {
@@ -430,8 +430,8 @@
         "cgpa": 2.95,
         "name": "Md. Robiul Awoal ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B+ \n",
-            "Math for Computer Science          \t C+ \n"
+            "Math for Computer Science          \t C+ \n",
+            "Numerical Methods                  \t B+ \n"
         ]
     },
     "201-15-3520": {
@@ -445,17 +445,17 @@
         "cgpa": 2.68,
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": [
+            "Object Oriented Programming Lab    \t A \n",
             "Social and Professional Issues in Computing\t B \n",
-            "Data Mining                        \t D \n",
-            "Object Oriented Programming Lab    \t A \n"
+            "Data Mining                        \t D \n"
         ]
     },
     "193-15-2972": {
         "cgpa": 2.45,
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t D \n",
-            "Numerical Methods                  \t B- \n"
+            "Numerical Methods                  \t B- \n",
+            "Math for Computer Science          \t D \n"
         ]
     },
     "203-15-3914": {
@@ -470,8 +470,8 @@
         "cgpa": 2.45,
         "name": "Md. Sakib Sarker ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t D \n",
-            "Numerical Methods                  \t Teaching evaluation is pending \n"
+            "Numerical Methods                  \t Teaching evaluation is pending \n",
+            "Math for Computer Science          \t D \n"
         ]
     },
     "193-15-2947": {
@@ -586,8 +586,8 @@
         "cgpa": 0.0,
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t Teaching evaluation is pending \n",
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t Teaching evaluation is pending \n",
+            "Numerical Methods                  \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3193": {
