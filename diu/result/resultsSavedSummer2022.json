@@ -300,8 +300,8 @@
         "cgpa": 3.5,
         "name": "Redul Hossen",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t B- \n"
+            "Math for Computer Science          \t B- \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3897": {
@@ -424,8 +424,8 @@
         "cgpa": 3.15,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A \n",
-            "Math for Computer Science          \t C \n"
+            "Math for Computer Science          \t C \n",
+            "Numerical Methods                  \t A \n"
         ]
     },
     "203-15-3857": {
