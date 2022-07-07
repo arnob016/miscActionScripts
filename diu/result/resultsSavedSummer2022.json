@@ -245,8 +245,8 @@
         "cgpa": 3.4,
         "name": "MD. SIFAT ULLAH ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t C+ \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t C+ \n"
         ]
     },
     "203-15-3874": {
@@ -343,8 +343,8 @@
         "name": "Amena Khatun ",
         "cTitleNgLetter": [
             "Data Communication                 \t B \n",
-            "Digital Electronics                \t B+ \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t B+ \n"
         ]
     },
     "201-15-3063": {
@@ -361,8 +361,8 @@
         "name": "Md. Alif Rahman Shefat",
         "cTitleNgLetter": [
             "Digital Electronics Lab            \t B+ \n",
-            "Data Communication                 \t B+ \n",
-            "Digital Electronics                \t B- \n"
+            "Digital Electronics                \t B- \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "201-15-3779": {
@@ -386,8 +386,8 @@
         "name": "Md. Sakib Chowdhury",
         "cTitleNgLetter": [
             "Computer Graphics                  \t A \n",
-            "Social and Professional Issues in Computing\t C \n",
-            "Computer Graphics Lab              \t B \n"
+            "Computer Graphics Lab              \t B \n",
+            "Social and Professional Issues in Computing\t C \n"
         ]
     },
     "203-15-3857": {
@@ -478,8 +478,8 @@
         "cgpa": 2.45,
         "name": "Md Enamul Huq",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t D \n",
-            "Numerical Methods                  \t B- \n"
+            "Numerical Methods                  \t B- \n",
+            "Math for Computer Science          \t D \n"
         ]
     },
     "201-15-3711": {
@@ -535,8 +535,8 @@
         "cgpa": 1.8,
         "name": "Zannatul Mawya Priya ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B \n",
-            "Math for Computer Science          \t F \n"
+            "Math for Computer Science          \t F \n",
+            "Numerical Methods                  \t B \n"
         ]
     },
     "201-15-3534": {
@@ -634,9 +634,9 @@
         "cgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": [
+            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n",
             "Computer Graphics                  \t Teaching evaluation is pending \n",
-            "Computer Graphics Lab              \t Teaching evaluation is pending \n",
-            "Social and Professional Issues in Computing\t Teaching evaluation is pending \n"
+            "Computer Graphics Lab              \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3897": {
