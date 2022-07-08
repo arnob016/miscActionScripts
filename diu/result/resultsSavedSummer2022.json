@@ -35,8 +35,8 @@
         "cgpa": 3.9,
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t A \n"
+            "Math for Computer Science          \t A \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "201-15-3442": {
@@ -123,8 +123,8 @@
         "cgpa": 3.8,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t A- \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t A- \n"
         ]
     },
     "203-15-3878": {
@@ -220,8 +220,8 @@
         "cgpa": 3.6,
         "name": "Md. Ratul Karim",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t B \n"
         ]
     },
     "201-15-3397": {
@@ -268,8 +268,8 @@
         "cgpa": 3.55,
         "name": "Md. Shihab Ullah",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A \n",
-            "Math for Computer Science          \t B+ \n"
+            "Math for Computer Science          \t B+ \n",
+            "Numerical Methods                  \t A \n"
         ]
     },
     "203-15-3875": {
@@ -332,9 +332,9 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Data Communication                 \t B+ \n",
             "Digital Electronics                \t A- \n",
-            "Digital Electronics Lab            \t A- \n"
+            "Digital Electronics Lab            \t A- \n",
+            "Data Communication                 \t B+ \n"
         ]
     },
     "203-15-3922": {
@@ -432,8 +432,8 @@
         "cgpa": 3.15,
         "name": "Ritwika Dey Risha",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B \n",
-            "Numerical Methods                  \t B+ \n"
+            "Numerical Methods                  \t B+ \n",
+            "Math for Computer Science          \t B \n"
         ]
     },
     "203-15-3891": {
@@ -683,8 +683,8 @@
         "cgpa": 0.0,
         "name": "Md. Mahmudul Hasan ",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t Teaching evaluation is pending \n",
-            "Numerical Methods                  \t Teaching evaluation is pending \n"
+            "Numerical Methods                  \t Teaching evaluation is pending \n",
+            "Math for Computer Science          \t Teaching evaluation is pending \n"
         ]
     },
     "191-15-2612": {
