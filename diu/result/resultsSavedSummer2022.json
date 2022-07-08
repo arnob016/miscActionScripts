@@ -123,16 +123,16 @@
         "cgpa": 3.8,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t A- \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t A- \n"
         ]
     },
     "203-15-3878": {
         "cgpa": 3.8,
         "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t A- \n"
+            "Math for Computer Science          \t A- \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3856": {
@@ -220,8 +220,8 @@
         "cgpa": 3.6,
         "name": "Md. Ratul Karim",
         "cTitleNgLetter": [
-            "Math for Computer Science          \t B \n",
-            "Numerical Methods                  \t A+ \n"
+            "Numerical Methods                  \t A+ \n",
+            "Math for Computer Science          \t B \n"
         ]
     },
     "201-15-3397": {
@@ -324,17 +324,17 @@
         "cgpa": 3.4,
         "name": "MD. SIFAT ULLAH ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t C+ \n"
+            "Math for Computer Science          \t C+ \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3874": {
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
+            "Data Communication                 \t B+ \n",
             "Digital Electronics Lab            \t A- \n",
-            "Data Communication                 \t B+ \n"
+            "Digital Electronics                \t A- \n"
         ]
     },
     "203-15-3922": {
@@ -580,8 +580,8 @@
         "cgpa": 2.3,
         "name": "Md. Omor Faruk ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t C+ \n",
-            "Math for Computer Science          \t D \n"
+            "Math for Computer Science          \t D \n",
+            "Numerical Methods                  \t C+ \n"
         ]
     },
     "203-15-3880": {
@@ -604,8 +604,8 @@
         "cgpa": 1.8,
         "name": "Zannatul Mawya Priya ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t B \n",
-            "Math for Computer Science          \t F \n"
+            "Math for Computer Science          \t F \n",
+            "Numerical Methods                  \t B \n"
         ]
     },
     "201-15-3534": {
@@ -683,8 +683,8 @@
         "cgpa": 0.0,
         "name": "Md. Mahmudul Hasan ",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t Teaching evaluation is pending \n",
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t Teaching evaluation is pending \n",
+            "Numerical Methods                  \t Teaching evaluation is pending \n"
         ]
     },
     "191-15-2612": {
@@ -799,8 +799,8 @@
         "cgpa": 0.0,
         "name": "Md. Azhar Uddin Imran",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t Teaching evaluation is pending \n",
-            "Math for Computer Science          \t Teaching evaluation is pending \n"
+            "Math for Computer Science          \t Teaching evaluation is pending \n",
+            "Numerical Methods                  \t Teaching evaluation is pending \n"
         ]
     },
     "201-15-3313": {
