@@ -123,8 +123,8 @@
         "cgpa": 3.8,
         "name": "Faiza Noshin Tithi",
         "cTitleNgLetter": [
-            "Numerical Methods                  \t A+ \n",
-            "Math for Computer Science          \t A- \n"
+            "Math for Computer Science          \t A- \n",
+            "Numerical Methods                  \t A+ \n"
         ]
     },
     "203-15-3878": {
@@ -332,8 +332,8 @@
         "cgpa": 3.38,
         "name": "Md. Robiul Islam ",
         "cTitleNgLetter": [
-            "Digital Electronics                \t A- \n",
             "Digital Electronics Lab            \t A- \n",
+            "Digital Electronics                \t A- \n",
             "Data Communication                 \t B+ \n"
         ]
     },
