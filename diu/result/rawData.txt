@@ -5,6 +5,7 @@ Fall-2021
 Presentation Group List:
 Group-1 (Sigma)
 Name Id Topic
+no name 203-34-375
 Md.Anower karim 201-15-3779 Java Class, Object, Method
 Md.Mahmudul hasan Reyad 203-15-3912 Java Inheritance
 Md.Mahmudul hasan Rihan 202-15-3852
