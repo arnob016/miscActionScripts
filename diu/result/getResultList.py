@@ -28,10 +28,11 @@ def clearLine(l=50):
     print("\r"+l*2*" ", flush=True, end="")
 
 def fetchData(url, id):
-    return requests.get(url, params={"semesterId": 222, "studentId":id, "grecaptcha": None}, verify=False)
+    # http://software.diu.edu.bd:8189/result/semesterList
+    return requests.get(url, params={"semesterId": 223, "studentId":id, "grecaptcha": None}, verify=False)
 
 if __name__ == "__main__":
-    saveFileName = "resultsSavedSummer2022.json"
+    saveFileName = "resultsSavedFall2022.json"
     url = "http://software.diu.edu.bd:8189/result"
     urlInfo = f'{url}/studentInfo'
     getIdList = rawDataFIds()
