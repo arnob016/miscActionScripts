@@ -1,16 +1,24 @@
-import re, os, requests, simplejson, time, json
+import re
+import os
+import requests
+import simplejson
+import json
 
 def rawDataFIds():
     with open("rawData.txt", "r") as r:
-        getIdList = re.findall(r"(\w.+)\s(\d{3}\-\d{2}\-\d{3,5})", r.read(), re.M)
+        getIdList = re.findall(
+            r"(\w.+)\s(\d{3}\-\d{2}\-\d{3,5})", r.read(), re.M)
     return getIdList
+
 
 def sortData(data):
     return dict(sorted(data.items(), key=lambda item: data[item[0]]['cgpa'], reverse=True))
 
+
 def cgpakeys(dic):
-    for _,v in dic.items():
+    for _, v in dic.items():
         return v['cgpa']
+
 
 def readResult():
     if os.path.exists(saveFileName):
@@ -20,38 +28,61 @@ def readResult():
     else:
         return {}
 
+
+def cleanResult(data: dict):
+    d = data.copy()
+    for k, v in d.items():
+        try:
+            _ = v['listin']
+            data[k].pop('listin', None)
+        except:
+            del data[k]
+    return data
+
+
 def saveResult(data):
     with open(saveFileName, "w") as w:
-        json.dump(sortData(data), w, indent=4)
+        json.dump(
+            sortData(
+                data
+            ),
+            w,
+            indent=4
+        )
+
 
 def clearLine(l=50):
     print("\r"+l*2*" ", flush=True, end="")
 
+
 def fetchData(url, id):
     # http://software.diu.edu.bd:8189/result/semesterList
-    return requests.get(url, params={"semesterId": 223, "studentId":id, "grecaptcha": None}, verify=False)
+    return requests.get(url, params={"semesterId": 223, "studentId": id, "grecaptcha": None}, verify=False)
+
 
 if __name__ == "__main__":
     saveFileName = "resultsSavedFall2022.json"
     url = "http://software.diu.edu.bd:8189/result"
+
     urlInfo = f'{url}/studentInfo'
-    getIdList = rawDataFIds()
+    m = rawDataFIds()
+    getIdList = list(set(m))
     realData = readResult()
-    
+
     for _ in range(5):
         print(len(getIdList), end="-")
-        
-        for i,p in enumerate(getIdList):
+
+        for i, p in enumerate(getIdList):
             try:
                 found = ""
                 getReq = fetchData(url, p[1])
-                
+
                 stdInfo = fetchData(urlInfo, p[1])
                 jsonData = getReq.json()
                 stdName = stdInfo.json()['studentName']
                 if stdName is None:
                     stdName = p[0]
-                #print(jsonData)
+                # print(jsonData)
                 cgpa = 0.0
                 cTitleNgLetter = []
                 for course in jsonData:
@@ -65,7 +96,7 @@ if __name__ == "__main__":
                         pass
                     except TypeError:
                         pass
-                found+= "\n"
+                found += "\n"
                 dataJson = {
                     "cgpa": cgpa,
                     "name": stdName,
@@ -77,14 +108,21 @@ if __name__ == "__main__":
                 tailString = f"\n{stdName} | cgpa: {cgpa} \n"
                 clearLine(len(stdName))
                 print(tailString+found)
-                
-            except simplejson.errors.JSONDecodeError: #Hard coded #json.decoder.JSONDecodeError #simplejson.errors.JSONDecodeError:
+
+            # Hard coded #json.decoder.JSONDecodeError #simplejson.errors.JSONDecodeError:
+            except simplejson.errors.JSONDecodeError:
                 if p[1] in realData:
                     getIdList.pop(i)
                     clearLine(len(p[0]))
-                    print(f"\n{realData[p[1]]['name']} cgpa: {realData[p[1]]['cgpa']} \n")
+                    print(
+                        f"\n{realData[p[1]]['name']} cgpa: {realData[p[1]]['cgpa']} \n")
                     for c in realData[p[1]]['cTitleNgLetter']:
                         print(c)
                 print("\r"+p[0]+len(p[0])*" ", flush=True, end="")
-            #os.exit()
+            try:
+                realData[p[1]]['listin'] = True
+            except:
+                pass
+            # os.exit()
+    saveResult(cleanResult(realData))
     clearLine()
