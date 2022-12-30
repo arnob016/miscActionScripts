@@ -38,7 +38,7 @@ if __name__ == "__main__":
     getIdList = rawDataFIds()
     realData = readResult()
     
-    for _ in range(3):
+    for _ in range(5):
         print(len(getIdList), end="-")
         
         for i,p in enumerate(getIdList):
