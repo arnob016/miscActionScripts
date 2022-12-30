@@ -888,6 +888,18 @@
             "Object Oriented Programming II Lab | C"
         ]
     },
+    "182-15-2223": {
+        "sgpa": 2.71,
+        "name": "Md. Sakib Chowdhury",
+        "cTitleNgLetter": [
+            "Computer Fundamentals  | A",
+            "Data Mining | D",
+            "Embedded Systems | B+",
+            "Introduction to Robotics | C",
+            "Social and Professional Issues in Computing | C+",
+            "Writing and Comprehension | C+"
+        ]
+    },
     "202-15-3841": {
         "sgpa": 2.69,
         "name": "Md. Alif Rahman Shefat",
@@ -1372,11 +1384,6 @@
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": []
     },
-    "181-15-1096": {
-        "sgpa": 0.0,
-        "name": "Sadekul Alam",
-        "cTitleNgLetter": []
-    },
     "201-15-3470": {
         "sgpa": 0.0,
         "name": "S. M. MARUF HOSSAIN ",
@@ -1400,6 +1407,11 @@
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
+        "cTitleNgLetter": []
+    },
+    "201-15-3105": {
+        "sgpa": 0.0,
+        "name": "KAZI SAIF MAHMUD ",
         "cTitleNgLetter": []
     }
 }
