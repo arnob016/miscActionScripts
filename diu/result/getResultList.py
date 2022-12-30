@@ -86,8 +86,7 @@ if __name__ == "__main__":
                 sgpa = 0.0
                 cTitleNgLetter = []
                 for course in jsonData:
-                    space = (35-len(course["courseTitle"]))*" "
-                    foundcourse = f'{course["courseTitle"]}{space}\t {course["gradeLetter"]} \n'
+                    foundcourse = f'{course["courseTitle"]} | {course["gradeLetter"]}'
                     found += foundcourse
                     cTitleNgLetter.append(foundcourse)
                     try:
