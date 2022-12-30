@@ -87,7 +87,7 @@ if __name__ == "__main__":
                 cTitleNgLetter = []
                 for course in jsonData:
                     foundcourse = f'{course["courseTitle"]} | {course["gradeLetter"]}'
-                    found += foundcourse
+                    found += f'{course["courseTitle"]}\t{course["gradeLetter"]}\n'
                     cTitleNgLetter.append(foundcourse)
                     try:
                         sgpa = float(course["cgpa"]) #typo in base api
