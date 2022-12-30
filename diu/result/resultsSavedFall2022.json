@@ -351,12 +351,12 @@
         "cTitleNgLetter": [
             "Artificial Intelligence Lab | A",
             "Artificial Intelligence | A",
-            "Computer Networks | B",
             "Computer Networks Lab | A-",
+            "Computer Networks | B",
             "Microprocessor, Embedded Systems and IoT | B",
             "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Object Oriented Programming II Lab | A+",
-            "Object Oriented Programming II | B"
+            "Object Oriented Programming II | B",
+            "Object Oriented Programming II Lab | A+"
         ]
     },
     "191-15-2612": {
@@ -706,8 +706,8 @@
         "sgpa": 3.07,
         "name": "Md. Al Emon ",
         "cTitleNgLetter": [
-            "Artificial Intelligence | A-",
             "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A-",
             "Computer Networks | B+",
             "Computer Networks Lab | B+",
             "Database Management System | C+",
@@ -1208,11 +1208,6 @@
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     },
-    "201-15-14273": {
-        "sgpa": 0.0,
-        "name": "ABDULLAH AL ASIB",
-        "cTitleNgLetter": []
-    },
     "201-15-3526": {
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
@@ -1413,5 +1408,10 @@
             "Object Oriented Programming II | Teaching evaluation is pending",
             "Object Oriented Programming II Lab | Teaching evaluation is pending"
         ]
+    },
+    "143-15-4546": {
+        "sgpa": 0.0,
+        "name": "Zamiul Islam",
+        "cTitleNgLetter": []
     }
 }
