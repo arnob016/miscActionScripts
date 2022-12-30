@@ -1,166 +1,233 @@
-Eshita Akter 	203-15-3922
-Adiba Zaman Chowdhury 	203-15-3924
-Farhan Adnan	203-15-3919
-MD.likhon mia 	203-15-3916
-Md. Shakhawat Hossain	203-15-14513
-Zannatul Mawya Priya	201-15-3209
-Farabi Ahnaf Akib	203-15-3920
-Md. Foysal Sheikh	201-15-3442
-Salim Reza Joy	201-15-3117
-Sakib Sarker	202-15-3824
-Sakir Hossain Faruque 	203-15-3862
-Saied Hasan	203-15-3903
-Md. Robiul Awoal	203-15-3913
-Rahat Almas	203-15-3914
-Mahmudul Hasan joy	201-15-3534
-Md. Tarif Allmozahud	193-15-13465
-Md Morsalin	201-15-3621
-Dehan Arif Fahim 	201-15-3087
-Md. Enamul Haque Chowdhury	201-15-3048
-MD.SIFAT ULLAH	201-15-3402
-Redul Hossen	201-15-3193
-Md.Mehedi Hasan	203-15.3911
-Amir Hamza Shuvo	201-15-3397
-Irfan Ahamed Nayem 	201-15-3275
-Shahriar Hossain Rifat	201-15-3325
-Junayed Arefin	201-15-3294
+
+Daffodil International University 
+CSE221_PC-B 
+Fall-2021 
+Presentation Group List:
+Group-1 (Sigma)
+Name Id Topic
+Md.Anower karim 201-15-3779 Java Class, Object, Method
+Md.Mahmudul hasan Reyad 203-15-3912 Java Inheritance
+Md.Mahmudul hasan Rihan 202-15-3852
+Md.Robiul Awol 203-15-3913
+Group-2 (Oopnewbie)
+Name Id Topic
+Adiba Zaman Chowdury 203-15-3924 Java Class, Object
+Md.Foysal Sheikh 201-15-3442 Java Abstract class, Interface
+Farhan Adnan 203-15-3919
+Farabi Ahnab Akib 203-15-3920
+Group-3 (Saga)
+Name Id Topic
+Eshita Akter 203-15-3922 Java Encapsulation, 
+Java UML diagram 
+Relationship
+Sfat Ullah 201-15-3402
+Md.Redul Hussain 201-15-3193
+Md.Likhon Mia 203-15-3916
+Group-4 (Omicron)
+Name Id Topic
+Hasibul Hasan 203-15-3904 Java Method, Constructors, 
+Md.Zonaid 203-15-3927 Java exception handling
+Md.Saied Hasan 203-15-3903
+Mehedi Hasan 203-15-3911
+Group-5 (Spark)
+Name Id Topic
+Rahat Almas 203-15-3914 Java Class, Object, Method,
+Java UML diagram 
+Relationship
+Ratul Karim 203-15-3921
+Amir Hamza Suvo 201-15-3397
+Omor Faruk 201-15-3208
+
+Group-6 (Asteroid)
+Name Id Topic
+Mehedi hasan lipo 203-15-3926 Java Class, Object, 
+Java Method overloading, 
+Method overriding
+Jannatul Ferdous 203-15-3902
+Tania Akter 203-15-3917
+Fatema Ha-mim 203-15-3918
+Group-7 (404)
+Name Id Topic
+Mahmudul Joy 201-15-3534 Java Class, Object
+Naiem Ahmed 201-15-3526 Java Abstract class, Interface
+Mazharul Islam 201-15-3283
+Alif Rahman 202-15-3841
+Group-8 (XL)
+Name Id Topic
+Mazharul Alamoo 181-15-2070 Java Super keyword,
+Rokeya Akter Taiyaba 181-15-968 Java Inheritance
+Sadekul Alam 181-15-1096
+Hridoy Ahmed 181-15-1852
+Group-9 (ALPHA)
+Name Id Topic
+Zannatul Fdouser 193-15-2972 Java Class, Object, 
+Java Method overloading, 
+Method overriding
+Kh Abraul Islam Tanjim 201-15-3063
+Md.Sabikur Rahman 201-15-3711
+Md.Ashikur Rahman 203-15-3925
+Md.Nahid Hasan 181-15-285
+Group-10 (Speedout)
+Name Id Topic
+Biplob Sutradhar 203-15-3923 Java Method, Constructors, 
+Mahian Islam Sadim 203-15-3898 Java exception handling
+SakibS Sarker 202-15-3824
+Arnob Dey 203-15-3906
+Md.Sujon Ahmed 181-15-2017
+
+
+Nusrat faruqi 203-15-3885
+Md.Zubair Islam 203-15-3872
+Fuad Ahmed Ananta 203-15-3856
+Jahid Imran 203-15-3887
+Md.Tanvir Siddik 203-15-3873
+MD. Shayed Hasan Shakib 203-15-3878
+Sakibul  Islam Shakib 203-15-3883
+M. Mukit Mosfiq 203-15-3884
+Saied Hasan 203-15-3903
+MD TAHAMID RAYHAN 203-15-3889
+Mst. Rabeya Bosrin  203-15-3891
+MD. LIKHON MIA 203-15-3916
+Eshita Akter 203-15-3922
+Md. Robiul Islam 203-15-3874
+Shekh Kaniz Fatema  203-15-3876
+Fatema Ha-Mim  203-15-3918
+Md. Afjal Hossain Shenam 203-15-3859
+Tuhanur Haque Talha  203-15-3888
+NAYEEMUL HAYDER NAYEEM 203-15-3861
+Tania Akter 203-15-3917
+Adiba Zaman Chowdhury 203-15-3924
+Md. Robiul Awoal 203-15-3913
+Jahidul Islam 203-15-3879
+Amena Khatun 203-15-3910
+Shekh Naziullah 203-15-3865
+Md. Anowar Hossain 203-15-3870
+Md. Rakibul Islam Shanto 203-15-3871
+Jannatul Ferdous  203-15-3902
+Sakir Hossain Faruque 203-15-3862
+Md.Rabbi hasan 191-15-2612
+Md. Mahian Islam Sadim  203-15-3898
+Mahadi Hasan Munna 203-15-3881
+Md. Zonaid 203-15-3927
+B.M. Rahat Almas 203-15-3914
+Farhan Adnan 203-15-3919
+Farabi Ahnaf Akib 203-15-3930
+Md Mehedi Hasan 203-15-3911
+Abul Kalam Lotif  203-15-3897
+Abdul Fattah Mujtabir Samin 203-15-3880
+Md. Ashikur Rahman Shovo 203-15-3925
+Samsun Naher Asme 203-15-3882
+Israt Jahan 203-15-3858
+Ritwika Dey Risha  203-15-3857
+Al-Sabbir-Bin-Saifullah Emon 203-15-3886
+Md. Mostafizur Rahman 203-15-3875
+Md Akil Hasan 203-15-3867
+Arnob Dey 203-15-3906
+Nafi Bin Monsoor Alvi 203-15-3868
+Ratul Karim 203-15-3921
+Biplob Kumar Sutradhar 203-15-3923
+MD. AL EMON  203-15-3896
+Md.Mahmudul Hasan 203-15-3912
+Zamiul Islam 143-15-4546
+MD.Osman Goni 203-15-3930
+Zahin faisal 203-15-3894
+Md.Mahfuj Sarker 203-15-3892
+Hasibul Hasan 203-15-3904
+Faiza Noshin Tithi 203-15-3877
+Md Abid 203-15-3863
+Md. Shakhawat Hossain 203-15-14513
+Asif Haider 203-15-3908
+Sultan Mahmud Shawon	162-15-1079
+Shawkat Uddin Akanda	191-15-2716
+Md Enamul Huq	193-15-2947
+Mst. Zannatul Ferdousi	193-15-2972
 SHEHAB MOLLAH	193-15-2998
-Enamul Huq	193-15-2947
-Azhar Uddin Imran	201-15-3559
-Md Golam Kibria	203-15-14572
-Shawkat Uddin Akanda 	193-15-2998
-Al Sabbir Bin Emon	203-15-3886
-M Mukit Mosfiq	203-15-3884
-Al Emon	203-15-3896
-Abul Kalam Lotif	203-15-3897
-Nafi Bin Monsoor Alvi	203-15-3868
-Md.Zubair Islam	203-15-3872
-Shihub Ullah	202-15-14433
-Md.Mamun Khan	201-15-3380
-Mahian Islam Sadim	203-15-3898
-Zannatul Ferdousi	193-15-2972
-Arnob Dey	203-15-3906
-Biplob Sutradhar	203-15-3923
-Md. Zonaid	203-15-3927
-Md. Abdullah Al Fuad	203-15-14502
-Shekh Kaniz Fatema	203-15-3876
-Tabassum Islam Mim	202-15-3848
+Tanvir Hosain	193-15-3028
+MD. ENAMUL HAQUE CHOWDHURY	201-15-3048
+Md. Salim Reza Joy	201-15-3117
+Redul Hossen	201-15-3193
+Md. Omor Faruk	201-15-3208
+Zannatul Mawya Priya	201-15-3209
+AAHAD RAIHAN SIKTO	201-15-3263
+Mazharul Islam	201-15-3283
+MD. AMIR HAMZA SHUVO	201-15-3397
+MD. SIFAT ULLAH	201-15-3402
+MD. FOYSAL SHEIKH	201-15-3442
+Mahamudul Hassan Joy	201-15-3534
+Md. Azhar Uddin Imran	201-15-3559
+KH. Abrarul Islam Tanjim	201-15-3603
+Md. Morsalin	201-15-3621
+Anowar Karim	201-15-3779
+Md. Sakib Sarker	202-15-3824
+Md. Mahmudul Hasan Raihan	202-15-3852
+Md. Shakhawat Hossain	203-15-14513
+Md. Golam Kibria	203-15-14572
+Md. Mahian Islam Sadim	203-15-3898
 Jannatul Ferdous	203-15-3902
+Saied Hasan	203-15-3903
+Arnob Dey	203-15-3906
+Md. Mehedi Hasan	203-15-3911
+Md. Mahmudul Hasan	203-15-3912
+Md. Robiul Awoal	203-15-3913
+B.M. Rahat Almas	203-15-3914
+Md.Likhon Mia	203-15-3916
 Tania Akter	203-15-3917
-Mahmudul Hassan Reyad	203-15-3912
-Fatema Ha-Mim	203-15-3918
-Nayeemul Hayder Nayeem	203-15-3861
-Mahadi Hasan Munna	203-15-3881
-Samsun Naher Asme	203-15-3882
-Tuhanur Haque Talha	203-15-3888
-Zahin Faisal	203-15-3894
-Jahidul Islam	203-15-3879
-Israt Jahan	203-15-3858
-sakibul Islam Shakib	203-15-3883
-Md Tahanid Rayhan	203-15-3889
-Ritwika Dey Risha	203-15-3857
-Mst. Rabeya Bosrin	203-15-3891
-Md. Mahmudul Hasan	202-15-3852
-Nusrat Faruqi 	203-15-3885
-Md. Alif	193-15-13558
-Akil Hasan 	203-15-3867
+Fatema Ha-mim	203-15-3918
+Farhan Adnan	203-15-3919
+Farabi Ahnaf Akib	203-15-3920
+Md. Ratul Karim	203-15-3921
+Eshita Akter	203-15-3922
+Biplob Kumar Sutradhar	203-15-3923
+Adiba Zaman Chowdhury	203-15-3924
+Md. Ashikur Rahman Shovo	203-15-3925
+Md. Zonaid	203-15-3927
+ABDULLAH AL ASIB	201-15-14273
+KAZI SAIF MAHMUD	201-15-3105
+MD. LUTFOR RAHMAN	201-15-3313
+SHAHRIAR HOSSAIN RIFAT	201-15-3325
+S. M. MARUF HOSSAIN	201-15-3470
+SRIJAN BIR	201-15-3520
 Rabib Al Rise	201-15-3691
 Galib Al Jadid	201-15-3692
-Jahid Imran	203-15-3887
+Md. Shihab Ullah	202-15-14433
+Md. Alif Rahman Shefat	202-15-3841
+Salman	203-15-14491
+FUAD AHMED ANANTA	203-15-3856
+Ritwika Dey Risha	203-15-3857
+Israt Jahan	203-15-3858
+Md. Afjal Hossain Shenam	203-15-3859
+Nayeemul Hayder Nayeem	203-15-3861
+Sakir Hossain Faruque	203-15-3862
+Shekh Naziullah	203-15-3865
+Md Akil Hasan	203-15-3867
+Nafi Bin Monsoor Alvi	203-15-3868
 Md. Anowar Hossain	203-15-3870
 Md. Rakibul Islam Shanto	203-15-3871
-Mustafizur Rahman	203-15-3875
-Shayed Hasan Shakib	203-15-3878
-S. M. Maruf Hossain	201-15-3470
-Srijan Bir	201-15-3520
-Md.Osman Goni	203-15-3930
+Md. Zubair Islam	203-15-3872
+Md.Tanvir Siddik	203-15-3873
+Md. Mostafizur Rahman	203-15-3875
+Shekh Kaniz Fatema	203-15-3876
 Faiza Noshin Tithi	203-15-3877
+Md. Shayed Hasan Shakib	203-15-3878
+Jahidul Islam	203-15-3879
 Abdul Fattah Mujtabir Samin	203-15-3880
-Fuad Ahmed Anonto	203-15-3856
-Ashikur Rahman	203-15-3925
-Anower Karim	201-15-3779
-Ratul Karim	203-15-3921
-Omor Faruk	201-15-3208
-Md. Foysal Sheikh	201-15-3442
-Salim Reza Joy	201-15-3117
-Md. Arman Hosen Patoary	201-15-3304
-Rudra Prashad Shil	201-15-3338
-Meherab Hossain	201-15-3486
-Rashik Shahriar Akash	202-15-3825
-Jannatul Ferdous Konok	202-15-3828
-Mohammad Ullah	202-15-3833
-Radiful Islam	202-15-3837
-Mehedi Hasan	202-15-3845
-Bijoy Dhar 	202-15-3830
-Nahid Arman Fahim	202-15-3831
-MD. Aminul Islam Rakib	202-15-3832
-S. M. Fardin Foyes Riad	202-15-3846
-Md Abdur Raufur Rahim	202-15-3844
-Monir Husain Shuvo	202-15-3853
-Rasedul Islam Pvael	201-15-3494
-Rafin Ahmed	202-15-3829
-Omar Faruk	202-15-3851
-Md.Faisal Habib Emon	202-15-3835
-Saikat Sarkar Joy	202-15-3836
-Md.Abdullah	202-15-3842
-Saquline Suja Saque	201-15-3188
-shakil Ahmed	201-15-3765
-Shimul Chakraborty	202-15-3840
-Ananna Saha	202-15-3821
-Md. Saif Ibne Jahid	202-15-3847
-Sabbir Hossain Rifat	201-15-3324
-Md Rakibul Islam	201-15-3369
-Arafat Islam Efaz	201-15-3471
-Ahad Hossain	201-15-3375
-Mazharul Hoque	201-15-14157
-Shihab Sharar Mullik	201-15-3761
-Rakibul Islam	201-15-3430
-Riyad Talukder	201-15-3446
-Khairul Islam	202-15-3839
-Ramjan Mia	201-15-3626
-Mustafizur Rahman	202-15-3850
-Jessika Alam	201-15-3309
-Nausin Shadia Onti	202-15-3827
-Tanmoy Barua	202-15-3822
-Md.Ridwan	202-15-3826
-Sayed Nahid	202-15-3849
-Shakib Hossen	202-15-3843
-Md. Al-Amin	202-15-3799
-Md. Raisul Islam	202-15-3797
-Gazi Adnan	202-15-3796
-Rumia Rubayat Islam	202-15-3803
- Tanvir Mahmud	202-15-3811
-Dipa Mondal Tumpa 	201-15-3214
-Rajoana Ahmed Jabin	202-15-3787
-Rojoni Akter	202-15-3794
-Tahsin jahan	202-15-3804
-Rahima Akter Riya	202-15-3819
-Afia Shimu	202-15-3785
-Sajib Saha	202-15-3791
-Amrita Dey	202-15-3792
-Mozahidul Islam	202-15-3805
-MD. Raisul Islam 	202-15-3813
-Amit Kumar Kundu	202-15-3793
-MD. Shakil Hossain	201-15-3245
-Shihab Mahmud Anik	202-15-3810
-Abdul Fattah Amid	202-15-3808
-Md. Abu Bakar Siddiq Tapu	202-15-3782
-Jewel Das	202-15-3817
-Tanin Mommad Jarin	202-15-3812
-Golam Morshed Tuhin	202-15-3790
-Arafat Jahan	202-15-3815
-Hafiz Al Fahim	202-15-3781
-Abid Hasan 	202-15-3855
-Md. Injamul Haque	202-15-3798
-Md Jabed Hosen	202-15-3834
-Saiful Islam	202-15-3809
-Md.Moinul Islam	202-15-3786
-Shakil Rana	202-15-3816
-Tasnim Jahan Tonni	202-15-3789
-Fowzia Rahman Tajnin	202-15-3807
-Tanvir Mahtab Tapu	202-15-3800
-Md Ibrahim Patwary khokan 	202-15-3802
-Md.Tarikul Islam Selim	202-15-3806
-Ashraful Islam Jahid 	202-15-3814
-Md.Kamrul	201-15-3069
-	
+Mahadi Hasan Munna	203-15-3881
+Samsun Naher Asme	203-15-3882
+Sakibul Islam Shakib	203-15-3883
+M.Mukit Mosfiq	203-15-3884
+Nusrat Faruqi	203-15-3885
+Al- Sabbir - Bin - Saifullah Emon	203-15-3886
+Jahid Imran	203-15-3887
+Tuhanur Haque Talha	203-15-3888
+Md. Tahamid Rayhan	203-15-3889
+Mst. Rabeya Bosrin	203-15-3891
+Md. Mahfuj Sarker	203-15-3892
+Zahin Faisal	203-15-3894
+Md. Al Emon	203-15-3896
+Abul Kalam Lotif	203-15-3897
+Md.Osman Goni	203-15-3930
+Alauddin	181-15-1723
+Md. Ashraful Islam	181-15-1921
+Md. Sujan Ahmed	181-15-2017
+Mashiur Rahman	181-15-955
+Md. Sakib Chowdhury	182-15-2223
