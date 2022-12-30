@@ -49,14 +49,14 @@
         "cgpa": 3.94,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
+            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
             "Computer Networks                  \t Teaching evaluation is pending \n",
-            "Artificial Intelligence            \t A+ \n",
             "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
+            "Artificial Intelligence            \t A+ \n",
             "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n",
-            "Object Oriented Programming II     \t Teaching evaluation is pending \n",
             "Computer Networks Lab              \t Teaching evaluation is pending \n",
-            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
+            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n",
+            "Object Oriented Programming II     \t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3920": {
@@ -103,6 +103,20 @@
             "Artificial Intelligence Lab        \t A+ \n"
         ]
     },
+    "203-15-3927": {
+        "cgpa": 3.88,
+        "name": "Md. Zonaid ",
+        "cTitleNgLetter": [
+            "Computer Networks                  \t A+ \n",
+            "Artificial Intelligence            \t Teaching evaluation is pending \n",
+            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
+            "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n",
+            "Object Oriented Programming II     \t A+ \n",
+            "Computer Networks Lab              \t Teaching evaluation is pending \n",
+            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
+        ]
+    },
     "203-15-3862": {
         "cgpa": 3.87,
         "name": "Sakir Hossain Faruque",
@@ -137,14 +151,14 @@
         "cgpa": 3.77,
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
-            "Computer Networks Lab              \t A \n",
             "Computer Networks                  \t B- \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t A+ \n",
             "Artificial Intelligence            \t A+ \n",
-            "Artificial Intelligence Lab        \t A+ \n",
             "Object Oriented Programming II Lab \t A \n",
             "Microprocessor, Embedded Systems and IoT\t A \n",
-            "Object Oriented Programming II     \t A \n"
+            "Microprocessor, Embedded Systems and IoT Lab\t A+ \n",
+            "Object Oriented Programming II     \t A \n",
+            "Computer Networks Lab              \t A \n",
+            "Artificial Intelligence Lab        \t A+ \n"
         ]
     },
     "203-15-3923": {
@@ -223,13 +237,13 @@
         "name": "Md. Mahian Islam Sadim",
         "cTitleNgLetter": [
             "Computer Networks                  \t B+ \n",
-            "Microprocessor, Embedded Systems and IoT\t A- \n",
-            "Artificial Intelligence            \t A- \n",
             "Object Oriented Programming II Lab \t A+ \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
             "Artificial Intelligence Lab        \t A+ \n",
+            "Artificial Intelligence            \t A- \n",
+            "Microprocessor, Embedded Systems and IoT\t A- \n",
             "Object Oriented Programming II     \t A+ \n",
-            "Computer Networks Lab              \t A- \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t A- \n"
+            "Computer Networks Lab              \t A- \n"
         ]
     },
     "203-15-3858": {
@@ -308,13 +322,13 @@
         "cgpa": 3.52,
         "name": "Md. Robiul Awoal ",
         "cTitleNgLetter": [
-            "Artificial Intelligence            \t A \n",
-            "Microprocessor, Embedded Systems and IoT\t B \n",
-            "Object Oriented Programming II     \t B \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
             "Computer Networks                  \t B \n",
-            "Computer Networks Lab              \t A- \n",
+            "Artificial Intelligence            \t A \n",
             "Object Oriented Programming II Lab \t A+ \n",
+            "Microprocessor, Embedded Systems and IoT\t B \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
+            "Object Oriented Programming II     \t B \n",
+            "Computer Networks Lab              \t A- \n",
             "Artificial Intelligence Lab        \t A \n"
         ]
     },
@@ -515,13 +529,13 @@
         "name": "Md Enamul Huq",
         "cTitleNgLetter": [
             "Computer Networks                  \t C \n",
-            "Computer Networks Lab              \t B+ \n",
-            "Object Oriented Programming II Lab \t B+ \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
-            "Artificial Intelligence Lab        \t A \n",
-            "Object Oriented Programming II     \t C+ \n",
             "Artificial Intelligence            \t B \n",
-            "Microprocessor, Embedded Systems and IoT\t B- \n"
+            "Object Oriented Programming II Lab \t B+ \n",
+            "Microprocessor, Embedded Systems and IoT\t B- \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
+            "Object Oriented Programming II     \t C+ \n",
+            "Computer Networks Lab              \t B+ \n",
+            "Artificial Intelligence Lab        \t A \n"
         ]
     },
     "203-15-14572": {
@@ -542,14 +556,14 @@
         "cgpa": 3.15,
         "name": "Md. Sakib Sarker ",
         "cTitleNgLetter": [
-            "Computer Networks                  \t F \n",
             "Artificial Intelligence            \t B \n",
             "Object Oriented Programming II Lab \t A \n",
-            "Microprocessor, Embedded Systems and IoT\t B+ \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
             "Object Oriented Programming II     \t A- \n",
             "Computer Networks Lab              \t A- \n",
-            "Artificial Intelligence Lab        \t B+ \n"
+            "Artificial Intelligence Lab        \t B+ \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t A- \n",
+            "Microprocessor, Embedded Systems and IoT\t B+ \n",
+            "Computer Networks                  \t F \n"
         ]
     },
     "201-15-3779": {
@@ -1087,20 +1101,6 @@
             "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
         ]
     },
-    "203-15-3927": {
-        "cgpa": 0.0,
-        "name": "Md. Zonaid ",
-        "cTitleNgLetter": [
-            "Computer Networks                  \t Teaching evaluation is pending \n",
-            "Artificial Intelligence            \t Teaching evaluation is pending \n",
-            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
-            "Object Oriented Programming II     \t Teaching evaluation is pending \n",
-            "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
-            "Computer Networks Lab              \t Teaching evaluation is pending \n",
-            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n"
-        ]
-    },
     "201-15-3048": {
         "cgpa": 0.0,
         "name": "MD. ENAMUL HAQUE CHOWDHURY",
@@ -1187,11 +1187,11 @@
         "name": "Md. Mahmudul Hasan ",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
+            "Artificial Intelligence            \t Teaching evaluation is pending \n",
+            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
             "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
             "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n",
             "Object Oriented Programming II     \t Teaching evaluation is pending \n",
-            "Artificial Intelligence            \t Teaching evaluation is pending \n",
-            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
             "Computer Networks Lab              \t Teaching evaluation is pending \n",
             "Artificial Intelligence Lab        \t Teaching evaluation is pending \n"
         ]
@@ -1387,14 +1387,14 @@
         "cgpa": 0.0,
         "name": "Md. Morsalin",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
-            "Object Oriented Programming II     \t Teaching evaluation is pending \n",
             "Computer Networks Lab              \t Teaching evaluation is pending \n",
-            "Computer Networks                  \t Teaching evaluation is pending \n",
-            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n",
-            "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
+            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
+            "Object Oriented Programming II     \t Teaching evaluation is pending \n",
+            "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
             "Artificial Intelligence            \t Teaching evaluation is pending \n",
-            "Object Oriented Programming II Lab \t Teaching evaluation is pending \n"
+            "Computer Networks                  \t Teaching evaluation is pending \n",
+            "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
+            "Microprocessor, Embedded Systems and IoT Lab\t Teaching evaluation is pending \n"
         ]
     },
     "203-15-3910": {
