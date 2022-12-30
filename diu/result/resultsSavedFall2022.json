@@ -236,13 +236,13 @@
         "cTitleNgLetter": [
             "Artificial Intelligence | A+",
             "Artificial Intelligence Lab | A+",
-            "Computer Networks Lab | A-",
             "Computer Networks | A-",
+            "Computer Networks Lab | A-",
             "Database Management System Lab | A+",
             "Database Management System | A",
             "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Object Oriented Programming II | A+",
-            "Object Oriented Programming II Lab | B+"
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | A+"
         ]
     },
     "203-15-3898": {
@@ -475,14 +475,14 @@
         "sgpa": 3.25,
         "name": "Farhan Adnan ",
         "cTitleNgLetter": [
-            "Artificial Intelligence | B+",
             "Artificial Intelligence Lab | B",
-            "Computer Networks Lab | A-",
+            "Artificial Intelligence | B+",
             "Computer Networks | B",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Computer Networks Lab | A-",
             "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | B+"
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Object Oriented Programming II | B+",
+            "Object Oriented Programming II Lab | B+"
         ]
     },
     "203-15-3883": {
@@ -498,6 +498,20 @@
             "Microprocessor, Embedded Systems and IoT Lab | C",
             "Object Oriented Programming II Lab | A",
             "Object Oriented Programming II | A"
+        ]
+    },
+    "201-15-3048": {
+        "sgpa": 3.25,
+        "name": "MD. ENAMUL HAQUE CHOWDHURY",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B+",
+            "Artificial Intelligence | B+",
+            "Computer Networks | B-",
+            "Computer Networks Lab | B+",
+            "Microprocessor, Embedded Systems and IoT | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Object Oriented Programming II | B",
+            "Object Oriented Programming II Lab | A-"
         ]
     },
     "203-15-3918": {
@@ -533,15 +547,15 @@
         "sgpa": 3.18,
         "name": "Md. Mostafizur Rahman ",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
             "Artificial Intelligence | A+",
+            "Artificial Intelligence Lab | A",
             "Computer Networks Lab | A-",
             "Computer Networks | B",
             "Database Management System Lab | B-",
             "Database Management System | C+",
             "Microprocessor, Embedded Systems and IoT Lab | B",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | B+"
+            "Object Oriented Programming II | B+",
+            "Object Oriented Programming II Lab | B+"
         ]
     },
     "193-15-2947": {
@@ -709,10 +723,10 @@
         "cTitleNgLetter": [
             "Artificial Intelligence Lab | A",
             "Artificial Intelligence | A",
-            "Computer Networks Lab | B+",
             "Computer Networks | B+",
-            "Database Management System | C+",
+            "Computer Networks Lab | B+",
             "Database Management System Lab | B+",
+            "Database Management System | C+",
             "Microprocessor, Embedded Systems and IoT Lab | C+",
             "Object Oriented Programming II Lab | C+",
             "Object Oriented Programming II | B+"
@@ -888,12 +902,12 @@
         "sgpa": 2.65,
         "name": "SHEHAB MOLLAH",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B",
             "Artificial Intelligence | B-",
+            "Artificial Intelligence Lab | B",
             "Computer Networks Lab | B-",
             "Computer Networks | F",
-            "Microprocessor, Embedded Systems and IoT | D",
             "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | D",
             "Object Oriented Programming II | D",
             "Object Oriented Programming II Lab | B+"
         ]
@@ -991,8 +1005,8 @@
         "sgpa": 2.47,
         "name": "SRIJAN BIR ",
         "cTitleNgLetter": [
-            "Artificial Intelligence | B+",
             "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B+",
             "Computer Networks Lab | C",
             "Computer Networks | B-",
             "Database Management System Lab | C",
@@ -1122,8 +1136,8 @@
         "cTitleNgLetter": [
             "Artificial Intelligence Lab | Teaching evaluation is pending",
             "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
             "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
             "Database Management System | Teaching evaluation is pending",
             "Database Management System Lab | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
@@ -1292,8 +1306,8 @@
             "Database Management System Lab | Teaching evaluation is pending",
             "Database Management System | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending"
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
     "203-15-3859": {
@@ -1399,5 +1413,10 @@
             "Object Oriented Programming | Teaching evaluation is pending",
             "Statistics and Probability | Teaching evaluation is pending"
         ]
+    },
+    "181-15-1852": {
+        "sgpa": 0.0,
+        "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": []
     }
 }
