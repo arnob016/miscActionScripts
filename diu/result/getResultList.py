@@ -12,12 +12,12 @@ def rawDataFIds():
 
 
 def sortData(data):
-    return dict(sorted(data.items(), key=lambda item: data[item[0]]['cgpa'], reverse=True))
+    return dict(sorted(data.items(), key=lambda item: data[item[0]]['sgpa'], reverse=True))
 
 
 def cgpakeys(dic):
     for _, v in dic.items():
-        return v['cgpa']
+        return v['sgpa']
 
 
 def readResult():
@@ -83,7 +83,7 @@ if __name__ == "__main__":
                 if stdName is None:
                     stdName = p[0]
                 # print(jsonData)
-                cgpa = 0.0
+                sgpa = 0.0
                 cTitleNgLetter = []
                 for course in jsonData:
                     space = (35-len(course["courseTitle"]))*" "
@@ -91,21 +91,21 @@ if __name__ == "__main__":
                     found += foundcourse
                     cTitleNgLetter.append(foundcourse)
                     try:
-                        cgpa = float(course["cgpa"])
+                        sgpa = float(course["cgpa"]) #typo in base api
                     except ValueError:
                         pass
                     except TypeError:
                         pass
                 found += "\n"
                 dataJson = {
-                    "cgpa": cgpa,
+                    "sgpa": sgpa,
                     "name": stdName,
                     "cTitleNgLetter": cTitleNgLetter
                 }
                 realData[p[1]] = dataJson
                 saveResult(realData)
                 getIdList.pop(i)
-                tailString = f"\n{stdName} | cgpa: {cgpa} \n"
+                tailString = f"\n{stdName} | sgpa: {sgpa} \n"
                 clearLine(len(stdName))
                 print(tailString+found)
 
@@ -115,7 +115,7 @@ if __name__ == "__main__":
                     getIdList.pop(i)
                     clearLine(len(p[0]))
                     print(
-                        f"\n{realData[p[1]]['name']} cgpa: {realData[p[1]]['cgpa']} \n")
+                        f"\n{realData[p[1]]['name']} sgpa: {realData[p[1]]['sgpa']} \n")
                     for c in realData[p[1]]['cTitleNgLetter']:
                         print(c)
                 print("\r"+p[0]+len(p[0])*" ", flush=True, end="")

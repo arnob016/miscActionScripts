@@ -1,6 +1,6 @@
 {
     "201-15-3442": {
-        "cgpa": 3.98,
+        "sgpa": 3.98,
         "name": "MD. FOYSAL SHEIKH ",
         "cTitleNgLetter": [
             "Object Oriented Programming II Lab \t A+ \n",
@@ -14,7 +14,7 @@
         ]
     },
     "203-15-3903": {
-        "cgpa": 3.94,
+        "sgpa": 3.94,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
             "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
@@ -28,7 +28,7 @@
         ]
     },
     "203-15-3920": {
-        "cgpa": 3.92,
+        "sgpa": 3.92,
         "name": "Farabi Ahnaf Akib ",
         "cTitleNgLetter": [
             "Artificial Intelligence            \t A+ \n",
@@ -42,7 +42,7 @@
         ]
     },
     "203-15-3927": {
-        "cgpa": 3.88,
+        "sgpa": 3.88,
         "name": "Md. Zonaid ",
         "cTitleNgLetter": [
             "Computer Networks                  \t A+ \n",
@@ -56,7 +56,7 @@
         ]
     },
     "203-15-3916": {
-        "cgpa": 3.77,
+        "sgpa": 3.77,
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
             "Computer Networks                  \t B- \n",
@@ -70,7 +70,7 @@
         ]
     },
     "203-15-3923": {
-        "cgpa": 3.73,
+        "sgpa": 3.73,
         "name": "Biplob Kumar Sutradhar",
         "cTitleNgLetter": [
             "Computer Networks                  \t B- \n",
@@ -84,7 +84,7 @@
         ]
     },
     "203-15-3924": {
-        "cgpa": 3.71,
+        "sgpa": 3.71,
         "name": "Adiba Zaman Chowdhury",
         "cTitleNgLetter": [
             "Object Oriented Programming II Lab \t A+ \n",
@@ -98,7 +98,7 @@
         ]
     },
     "203-15-3906": {
-        "cgpa": 3.71,
+        "sgpa": 3.71,
         "name": "Arnob Dey ",
         "cTitleNgLetter": [
             "Computer Networks                  \t B \n",
@@ -112,7 +112,7 @@
         ]
     },
     "181-15-955": {
-        "cgpa": 3.7,
+        "sgpa": 3.7,
         "name": "Mashiur Rahman",
         "cTitleNgLetter": [
             "Computer Networks                  \t A+ \n",
@@ -126,7 +126,7 @@
         ]
     },
     "203-15-3898": {
-        "cgpa": 3.69,
+        "sgpa": 3.69,
         "name": "Md. Mahian Islam Sadim",
         "cTitleNgLetter": [
             "Computer Networks                  \t B+ \n",
@@ -140,7 +140,7 @@
         ]
     },
     "203-15-3922": {
-        "cgpa": 3.65,
+        "sgpa": 3.65,
         "name": "Eshita Akter ",
         "cTitleNgLetter": [
             "Computer Networks                  \t A- \n",
@@ -154,7 +154,7 @@
         ]
     },
     "201-15-3402": {
-        "cgpa": 3.63,
+        "sgpa": 3.63,
         "name": "MD. SIFAT ULLAH ",
         "cTitleNgLetter": [
             "Microprocessor, Embedded Systems and IoT\t A \n",
@@ -168,7 +168,7 @@
         ]
     },
     "203-15-3917": {
-        "cgpa": 3.56,
+        "sgpa": 3.56,
         "name": "Tania Akter",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -182,7 +182,7 @@
         ]
     },
     "201-15-3397": {
-        "cgpa": 3.54,
+        "sgpa": 3.54,
         "name": "MD. AMIR HAMZA SHUVO ",
         "cTitleNgLetter": [
             "Computer Networks                  \t B- \n",
@@ -196,7 +196,7 @@
         ]
     },
     "203-15-3913": {
-        "cgpa": 3.52,
+        "sgpa": 3.52,
         "name": "Md. Robiul Awoal ",
         "cTitleNgLetter": [
             "Computer Networks                  \t B \n",
@@ -210,7 +210,7 @@
         ]
     },
     "203-15-3902": {
-        "cgpa": 3.48,
+        "sgpa": 3.48,
         "name": "Jannatul Ferdous",
         "cTitleNgLetter": [
             "Artificial Intelligence            \t B+ \n",
@@ -224,7 +224,7 @@
         ]
     },
     "191-15-2716": {
-        "cgpa": 3.46,
+        "sgpa": 3.46,
         "name": "Shawkat Uddin Akanda",
         "cTitleNgLetter": [
             "Computer Networks                  \t A+ \n",
@@ -238,7 +238,7 @@
         ]
     },
     "202-15-3852": {
-        "cgpa": 3.33,
+        "sgpa": 3.33,
         "name": "Md. Mahmudul Hasan Raihan ",
         "cTitleNgLetter": [
             "Microprocessor, Embedded Systems and IoT\t B+ \n",
@@ -252,7 +252,7 @@
         ]
     },
     "201-15-3087": {
-        "cgpa": 3.29,
+        "sgpa": 3.29,
         "name": "Dehan Arif Fahim ",
         "cTitleNgLetter": [
             "Computer Networks                  \t B \n",
@@ -266,7 +266,7 @@
         ]
     },
     "203-15-3919": {
-        "cgpa": 3.25,
+        "sgpa": 3.25,
         "name": "Farhan Adnan ",
         "cTitleNgLetter": [
             "Artificial Intelligence Lab        \t Teaching evaluation is pending \n",
@@ -280,7 +280,7 @@
         ]
     },
     "203-15-3918": {
-        "cgpa": 3.23,
+        "sgpa": 3.23,
         "name": "Fatema Ha-mim",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -294,7 +294,7 @@
         ]
     },
     "193-15-2947": {
-        "cgpa": 3.17,
+        "sgpa": 3.17,
         "name": "Md Enamul Huq",
         "cTitleNgLetter": [
             "Computer Networks                  \t C \n",
@@ -308,7 +308,7 @@
         ]
     },
     "203-15-14572": {
-        "cgpa": 3.15,
+        "sgpa": 3.15,
         "name": "Md. Golam Kibria",
         "cTitleNgLetter": [
             "Computer Networks                  \t C+ \n",
@@ -322,7 +322,7 @@
         ]
     },
     "202-15-3824": {
-        "cgpa": 3.15,
+        "sgpa": 3.15,
         "name": "Md. Sakib Sarker ",
         "cTitleNgLetter": [
             "Computer Networks                  \t F \n",
@@ -336,7 +336,7 @@
         ]
     },
     "201-15-3779": {
-        "cgpa": 3.13,
+        "sgpa": 3.13,
         "name": "Anowar Karim",
         "cTitleNgLetter": [
             "Microprocessor, Embedded Systems and IoT\t C \n",
@@ -350,7 +350,7 @@
         ]
     },
     "201-15-3700": {
-        "cgpa": 3.1,
+        "sgpa": 3.1,
         "name": "Sheikh Forid Ahmed Shanto",
         "cTitleNgLetter": [
             "Artificial Intelligence            \t A- \n",
@@ -364,7 +364,7 @@
         ]
     },
     "201-15-3208": {
-        "cgpa": 3.0,
+        "sgpa": 3.0,
         "name": "Md. Omor Faruk ",
         "cTitleNgLetter": [
             "Artificial Intelligence            \t C+ \n",
@@ -378,7 +378,7 @@
         ]
     },
     "193-15-2972": {
-        "cgpa": 2.81,
+        "sgpa": 2.81,
         "name": "Mst. Zannatul Ferdousi  ",
         "cTitleNgLetter": [
             "Computer Networks                  \t D \n",
@@ -392,7 +392,7 @@
         ]
     },
     "193-15-2998": {
-        "cgpa": 2.65,
+        "sgpa": 2.65,
         "name": "SHEHAB MOLLAH",
         "cTitleNgLetter": [
             "Computer Networks                  \t F \n",
@@ -406,7 +406,7 @@
         ]
     },
     "181-15-2017": {
-        "cgpa": 2.47,
+        "sgpa": 2.47,
         "name": "Md. Sujan Ahmed ",
         "cTitleNgLetter": [
             "Computer Networks                  \t B \n",
@@ -420,7 +420,7 @@
         ]
     },
     "201-15-13821": {
-        "cgpa": 2.01,
+        "sgpa": 2.01,
         "name": "Aliul Azim Sohan",
         "cTitleNgLetter": [
             "Software Project IV                \t B \n",
@@ -438,7 +438,7 @@
         ]
     },
     "203-15-14513": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Shakhawat Hossain",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -452,7 +452,7 @@
         ]
     },
     "201-15-3117": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Salim Reza Joy",
         "cTitleNgLetter": [
             "Object Oriented Programming II Lab \t Teaching evaluation is pending \n",
@@ -466,7 +466,7 @@
         ]
     },
     "203-15-3914": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "B.M. Rahat Almas",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -480,7 +480,7 @@
         ]
     },
     "203-15-3912": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Mahmudul Hasan ",
         "cTitleNgLetter": [
             "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
@@ -494,7 +494,7 @@
         ]
     },
     "203-15-3911": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Mehedi Hasan ",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -508,7 +508,7 @@
         ]
     },
     "201-15-3559": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Azhar Uddin Imran",
         "cTitleNgLetter": [
             "Microprocessor, Embedded Systems and IoT\t Teaching evaluation is pending \n",
@@ -522,7 +522,7 @@
         ]
     },
     "201-15-3209": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Zannatul Mawya Priya ",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -536,7 +536,7 @@
         ]
     },
     "201-15-3534": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Mahamudul Hassan Joy",
         "cTitleNgLetter": [
             "Object Oriented Programming II     \t Teaching evaluation is pending \n",
@@ -550,7 +550,7 @@
         ]
     },
     "201-15-3621": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Md. Morsalin",
         "cTitleNgLetter": [
             "Computer Networks Lab              \t Teaching evaluation is pending \n",
@@ -564,7 +564,7 @@
         ]
     },
     "201-15-3193": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Redul Hossen",
         "cTitleNgLetter": [
             "Computer Networks                  \t Teaching evaluation is pending \n",
@@ -578,7 +578,7 @@
         ]
     },
     "162-15-1079": {
-        "cgpa": 0.0,
+        "sgpa": 0.0,
         "name": "Sultan Mahmud Shawon",
         "cTitleNgLetter": []
     }
