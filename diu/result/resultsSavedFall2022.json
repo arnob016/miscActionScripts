@@ -202,6 +202,20 @@
             "Object Oriented Programming II Lab | A+"
         ]
     },
+    "203-15-3906": {
+        "sgpa": 3.71,
+        "name": "Arnob Dey ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence | A+",
+            "Artificial Intelligence Lab | A+",
+            "Computer Networks Lab | A-",
+            "Computer Networks | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A",
+            "Microprocessor, Embedded Systems and IoT | A-",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A-"
+        ]
+    },
     "181-15-955": {
         "sgpa": 3.7,
         "name": "Mashiur Rahman",
@@ -442,6 +456,21 @@
             "Object Oriented Programming II Lab | A"
         ]
     },
+    "203-15-3868": {
+        "sgpa": 3.28,
+        "name": "Nafi Bin Monsoor Alvi",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A-",
+            "Artificial Intelligence | A-",
+            "Computer Networks | B",
+            "Computer Networks Lab | A-",
+            "Database Management System | B",
+            "Database Management System Lab | A-",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Object Oriented Programming II Lab | B-",
+            "Object Oriented Programming II | B+"
+        ]
+    },
     "203-15-3919": {
         "sgpa": 3.25,
         "name": "Farhan Adnan ",
@@ -512,6 +541,21 @@
             "Microprocessor, Embedded Systems and IoT Lab | B-",
             "Object Oriented Programming II Lab | B-",
             "Object Oriented Programming II | B+"
+        ]
+    },
+    "203-15-3875": {
+        "sgpa": 3.18,
+        "name": "Md. Mostafizur Rahman ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | A+",
+            "Computer Networks | B",
+            "Computer Networks Lab | A-",
+            "Database Management System | C+",
+            "Database Management System Lab | B-",
+            "Microprocessor, Embedded Systems and IoT Lab | B",
+            "Object Oriented Programming II | B+",
+            "Object Oriented Programming II Lab | B+"
         ]
     },
     "193-15-2947": {
@@ -1250,20 +1294,6 @@
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
-    },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Algorithm | Teaching evaluation is pending",
-            "Algorithm Lab | Teaching evaluation is pending",
-            "Data Communication | Teaching evaluation is pending",
-            "Digital Electronics | Teaching evaluation is pending",
-            "Digital Electronics Lab | Teaching evaluation is pending",
-            "Object Oriented Programming | Teaching evaluation is pending",
-            "Object Oriented Programming Lab | Teaching evaluation is pending",
-            "Statistics and Probability | Teaching evaluation is pending"
-        ]
     },
     "181-15-1096": {
         "sgpa": 0.0,
