@@ -32,10 +32,10 @@
         "sgpa": 3.94,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
-            "Artificial Intelligence | A+",
             "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
+            "Artificial Intelligence | A+",
             "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
@@ -69,6 +69,21 @@
             "Microprocessor, Embedded Systems and IoT Lab | A",
             "Object Oriented Programming II Lab | A+",
             "Object Oriented Programming II | A+"
+        ]
+    },
+    "201-15-3691": {
+        "sgpa": 3.9,
+        "name": "Rabib Al Rise ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A",
+            "Computer Networks | A+",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
     "203-15-3927": {
@@ -1343,21 +1358,6 @@
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     },
-    "201-15-3691": {
-        "sgpa": 0.0,
-        "name": "Rabib Al Rise ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
-        ]
-    },
     "203-15-3904": {
         "sgpa": 0.0,
         "name": "Hasibul Hasan ",
@@ -1416,6 +1416,11 @@
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3865": {
+        "sgpa": 0.0,
+        "name": "Shekh Naziullah ",
         "cTitleNgLetter": []
     }
 }
