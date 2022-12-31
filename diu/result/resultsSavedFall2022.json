@@ -35,7 +35,7 @@
             "Artificial Intelligence Lab | Teaching evaluation is pending",
             "Artificial Intelligence | A+",
             "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
+            "Computer Networks | A",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
@@ -287,20 +287,6 @@
             "Microprocessor, Embedded Systems and IoT Lab | A-",
             "Object Oriented Programming II Lab | B",
             "Object Oriented Programming II | A"
-        ]
-    },
-    "203-15-3922": {
-        "sgpa": 3.65,
-        "name": "Eshita Akter ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A+",
-            "Computer Networks | A-",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | A",
-            "Object Oriented Programming II | B+"
         ]
     },
     "201-15-3402": {
@@ -716,6 +702,20 @@
             "Microprocessor, Embedded Systems and IoT Lab | A",
             "Object Oriented Programming II Lab | C+",
             "Object Oriented Programming II | A"
+        ]
+    },
+    "201-15-3559": {
+        "sgpa": 3.1,
+        "name": "Md. Azhar Uddin Imran",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | C+",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
     "203-15-3896": {
@@ -1258,11 +1258,6 @@
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
-    },
-    "203-15-3863": {
-        "sgpa": 0.0,
-        "name": "Md. Mokaddus Hossain Abid ",
-        "cTitleNgLetter": []
     },
     "203-15-3910": {
         "sgpa": 0.0,
