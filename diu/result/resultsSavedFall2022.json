@@ -355,24 +355,6 @@
             "Software Project V | B+"
         ]
     },
-    "203-15-3922": {
-        "sgpa": 3.65,
-        "name": "Eshita Akter ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A+",
-            "Computer Networks | A-",
-            "Database Management System Lab | A",
-            "Database Management System | A-",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | A",
-            "Object Oriented Programming II | B+",
-            "Software Project IV | A",
-            "Software Project V | A"
-        ]
-    },
     "203-15-3898": {
         "sgpa": 3.61,
         "name": "Md. Mahian Islam Sadim",
@@ -767,24 +749,6 @@
             "Object Oriented Programming II | A",
             "Software Project IV | A",
             "Software Project V | A+"
-        ]
-    },
-    "201-15-3692": {
-        "sgpa": 3.21,
-        "name": "Galib Al Jadid ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B+",
-            "Artificial Intelligence | B",
-            "Computer Networks Lab | A-",
-            "Computer Networks | A-",
-            "Database Management System Lab | B",
-            "Database Management System | B+",
-            "Microprocessor, Embedded Systems and IoT Lab | B",
-            "Microprocessor, Embedded Systems and IoT | B+",
-            "Object Oriented Programming II Lab | B",
-            "Object Oriented Programming II | B+",
-            "Software Project IV | A",
-            "Software Project V | B"
         ]
     },
     "203-15-3872": {
@@ -1297,22 +1261,6 @@
             "Object Oriented Programming II | B",
             "Software Project IV | C+",
             "Software Project V | A-"
-        ]
-    },
-    "181-15-1723": {
-        "sgpa": 2.55,
-        "name": "Alauddin ",
-        "cTitleNgLetter": [
-            "Art of Living | A-",
-            "Computer Architecture and Organization | F",
-            "Computer Networks Lab | A+",
-            "Computer Networks | B-",
-            "Database Management System Lab | B-",
-            "Database Management System | D",
-            "Economics | C+",
-            "Operating Systems Lab | A-",
-            "Operating Systems | B",
-            "System Analysis & Design | B+"
         ]
     },
     "181-15-2017": {
