@@ -442,21 +442,6 @@
             "Object Oriented Programming II | C+"
         ]
     },
-    "203-15-3877": {
-        "sgpa": 3.32,
-        "name": "Faiza Noshin Tithi",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | B+",
-            "Computer Networks | A",
-            "Database Management System Lab | B",
-            "Database Management System | B+",
-            "Microprocessor, Embedded Systems and IoT Lab | B+",
-            "Object Oriented Programming II Lab | B",
-            "Object Oriented Programming II | A+"
-        ]
-    },
     "203-15-3921": {
         "sgpa": 3.31,
         "name": "Md. Ratul Karim",
@@ -856,21 +841,6 @@
             "Microprocessor, Embedded Systems and IoT | C+",
             "Object Oriented Programming II Lab | B",
             "Object Oriented Programming II | D"
-        ]
-    },
-    "203-15-3880": {
-        "sgpa": 2.8,
-        "name": "Abdul Fattah Mujtabir Samin",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | B-",
-            "Computer Networks Lab | C+",
-            "Computer Networks | B-",
-            "Database Management System Lab | B",
-            "Database Management System | D",
-            "Microprocessor, Embedded Systems and IoT Lab | C+",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | C+"
         ]
     },
     "202-15-14433": {
@@ -1401,6 +1371,11 @@
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
+        "cTitleNgLetter": []
+    },
+    "201-15-3105": {
+        "sgpa": 0.0,
+        "name": "KAZI SAIF MAHMUD ",
         "cTitleNgLetter": []
     }
 }
