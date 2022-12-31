@@ -1,4 +1,22 @@
 {
+    "203-15-14513": {
+        "sgpa": 3.97,
+        "name": "Md. Shakhawat Hossain",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project IV | A",
+            "Software Project V | A+"
+        ]
+    },
     "201-15-3442": {
         "sgpa": 3.94,
         "name": "MD. FOYSAL SHEIKH ",
@@ -605,24 +623,6 @@
             "Object Oriented Programming II | A+",
             "Software Project IV | A+",
             "Software Project V | B"
-        ]
-    },
-    "203-15-3868": {
-        "sgpa": 3.32,
-        "name": "Nafi Bin Monsoor Alvi",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A-",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | A-",
-            "Computer Networks | B",
-            "Database Management System Lab | A-",
-            "Database Management System | B",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | B-",
-            "Object Oriented Programming II | B+",
-            "Software Project IV | A",
-            "Software Project V | A"
         ]
     },
     "203-15-3857": {
@@ -1363,20 +1363,6 @@
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     },
-    "193-15-3028": {
-        "sgpa": 1.43,
-        "name": "Tanvir Hosain",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | C+",
-            "Compiler Design | F",
-            "Operating Systems Lab. | I",
-            "Operating Systems. | F",
-            "Pervasive Computing and Mobile App Development Lab | B",
-            "Pervasive Computing | B",
-            "Research and Innovation | I",
-            "Software Engineering | D"
-        ]
-    },
     "203-15-3914": {
         "sgpa": 0.0,
         "name": "B.M. Rahat Almas",
@@ -1655,24 +1641,6 @@
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     },
-    "203-15-14513": {
-        "sgpa": 0.0,
-        "name": "Md. Shakhawat Hossain",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending",
-            "Software Project IV | Teaching evaluation is pending",
-            "Software Project V | Teaching evaluation is pending"
-        ]
-    },
     "203-15-3904": {
         "sgpa": 0.0,
         "name": "Hasibul Hasan ",
@@ -1698,6 +1666,11 @@
     "203-15-3859": {
         "sgpa": 0.0,
         "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": []
+    },
+    "181-15-1921": {
+        "sgpa": 0.0,
+        "name": "Md. Ashraful Islam ",
         "cTitleNgLetter": []
     }
 }
