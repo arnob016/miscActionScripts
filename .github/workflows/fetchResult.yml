@@ -26,6 +26,7 @@ jobs:
         for _ in range(3):
           try:
             check()
+            break
           except KeyError:
             continue
         END
