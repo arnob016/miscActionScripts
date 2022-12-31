@@ -442,6 +442,21 @@
             "Object Oriented Programming II | C+"
         ]
     },
+    "203-15-3877": {
+        "sgpa": 3.32,
+        "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | B+",
+            "Computer Networks | A",
+            "Database Management System Lab | B",
+            "Database Management System | B+",
+            "Microprocessor, Embedded Systems and IoT Lab | B+",
+            "Object Oriented Programming II Lab | B",
+            "Object Oriented Programming II | A+"
+        ]
+    },
     "203-15-3921": {
         "sgpa": 3.31,
         "name": "Md. Ratul Karim",
@@ -843,6 +858,21 @@
             "Object Oriented Programming II | D"
         ]
     },
+    "203-15-3880": {
+        "sgpa": 2.8,
+        "name": "Abdul Fattah Mujtabir Samin",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | B-",
+            "Computer Networks Lab | C+",
+            "Computer Networks | B-",
+            "Database Management System Lab | B",
+            "Database Management System | D",
+            "Microprocessor, Embedded Systems and IoT Lab | C+",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | C+"
+        ]
+    },
     "202-15-14433": {
         "sgpa": 2.75,
         "name": "Md. Shihab Ullah",
@@ -916,15 +946,15 @@
         "sgpa": 2.55,
         "name": "Alauddin ",
         "cTitleNgLetter": [
-            "Art of Living | Teaching evaluation is pending",
-            "Computer Architecture and Organization | Teaching evaluation is pending",
+            "Art of Living | A-",
+            "Computer Architecture and Organization | F",
             "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
+            "Computer Networks | B-",
             "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Economics | Teaching evaluation is pending",
+            "Database Management System | D",
+            "Economics | C+",
             "Operating Systems Lab | Teaching evaluation is pending",
-            "Operating Systems | Teaching evaluation is pending",
+            "Operating Systems | B",
             "System Analysis & Design | B+"
         ]
     },
@@ -1153,25 +1183,6 @@
         "sgpa": 0.0,
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": []
-    },
-    "181-15-2070": {
-        "sgpa": 0.0,
-        "name": "Mazharul Alam ",
-        "cTitleNgLetter": []
-    },
-    "201-15-3117": {
-        "sgpa": 0.0,
-        "name": "Md. Salim Reza Joy",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
-        ]
     },
     "201-15-3621": {
         "sgpa": 0.0,
