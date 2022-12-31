@@ -35,24 +35,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3871": {
-        "sgpa": 3.94,
-        "name": "Md. Rakibul Islam Shanto ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A+",
-            "Computer Networks | A+",
-            "Database Management System Lab | A+",
-            "Database Management System | A+",
-            "Microprocessor, Embedded Systems and IoT Lab | A+",
-            "Microprocessor, Embedded Systems and IoT | A+",
-            "Object Oriented Programming II Lab | A+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | A",
-            "Software Project V | B+"
-        ]
-    },
     "201-15-3691": {
         "sgpa": 3.92,
         "name": "Rabib Al Rise ",
@@ -1347,6 +1329,23 @@
             "Software Project V | F"
         ]
     },
+    "201-15-3711": {
+        "sgpa": 1.74,
+        "name": "Sabikur Rahman",
+        "cTitleNgLetter": [
+            "Algorithm Lab | B-",
+            "Algorithm | F",
+            "Math for Computer Science | D",
+            "Microprocessor, Embedded Systems and IoT Lab | C",
+            "Microprocessor, Embedded Systems and IoT | F",
+            "Numerical Methods | C",
+            "Object Oriented Programming II Lab | B-",
+            "Object Oriented Programming II | C+",
+            "Software Project III | B",
+            "Software Project IV | B",
+            "Statistics and Probability | F"
+        ]
+    },
     "203-15-3910": {
         "sgpa": 1.73,
         "name": "Amena Khatun ",
@@ -1595,11 +1594,6 @@
     "181-15-285": {
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
-        "cTitleNgLetter": []
-    },
-    "203-15-3863": {
-        "sgpa": 0.0,
-        "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": []
     },
     "201-15-3263": {
