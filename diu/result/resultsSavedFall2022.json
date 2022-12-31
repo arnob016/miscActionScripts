@@ -499,24 +499,6 @@
             "Software Project V | A"
         ]
     },
-    "191-15-2716": {
-        "sgpa": 3.49,
-        "name": "Shawkat Uddin Akanda",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B",
-            "Artificial Intelligence | B+",
-            "Computer Networks Lab | B",
-            "Computer Networks | A+",
-            "Database Management System Lab | B+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A",
-            "Microprocessor, Embedded Systems and IoT | A",
-            "Object Oriented Programming II Lab | A",
-            "Object Oriented Programming II | A-",
-            "Software Project IV | A+",
-            "Software Project V | B+"
-        ]
-    },
     "203-15-14491": {
         "sgpa": 3.46,
         "name": "Salman",
@@ -623,6 +605,24 @@
             "Object Oriented Programming II | A+",
             "Software Project IV | A+",
             "Software Project V | B"
+        ]
+    },
+    "203-15-3868": {
+        "sgpa": 3.32,
+        "name": "Nafi Bin Monsoor Alvi",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A-",
+            "Artificial Intelligence | A-",
+            "Computer Networks Lab | A-",
+            "Computer Networks | B",
+            "Database Management System Lab | A-",
+            "Database Management System | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B",
+            "Object Oriented Programming II Lab | B-",
+            "Object Oriented Programming II | B+",
+            "Software Project IV | A",
+            "Software Project V | A"
         ]
     },
     "203-15-3857": {
@@ -1361,6 +1361,20 @@
             "Software Project III | A+",
             "Software Project IV | A+",
             "Statistics and Probability | Teaching evaluation is pending"
+        ]
+    },
+    "193-15-3028": {
+        "sgpa": 1.43,
+        "name": "Tanvir Hosain",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | C+",
+            "Compiler Design | F",
+            "Operating Systems Lab. | I",
+            "Operating Systems. | F",
+            "Pervasive Computing and Mobile App Development Lab | B",
+            "Pervasive Computing | B",
+            "Research and Innovation | I",
+            "Software Engineering | D"
         ]
     },
     "203-15-3914": {
