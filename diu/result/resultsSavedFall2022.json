@@ -1318,11 +1318,6 @@
         "name": "Sadekul Alam",
         "cTitleNgLetter": []
     },
-    "201-15-3105": {
-        "sgpa": 0.0,
-        "name": "KAZI SAIF MAHMUD ",
-        "cTitleNgLetter": []
-    },
     "162-15-1079": {
         "sgpa": 0.0,
         "name": "Sultan Mahmud Shawon",
@@ -1412,5 +1407,15 @@
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
+    },
+    "181-15-285": {
+        "sgpa": 0.0,
+        "name": "Md.Nahid Hasan",
+        "cTitleNgLetter": []
+    },
+    "181-15-2070": {
+        "sgpa": 0.0,
+        "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
     }
 }
