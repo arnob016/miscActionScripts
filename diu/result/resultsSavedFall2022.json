@@ -231,20 +231,6 @@
             "Object Oriented Programming II | A-"
         ]
     },
-    "181-15-955": {
-        "sgpa": 3.7,
-        "name": "Mashiur Rahman",
-        "cTitleNgLetter": [
-            "Computer Architecture and Organization | B",
-            "Computer Networks Lab | A+",
-            "Computer Networks | A+",
-            "Economics | A-",
-            "Engineering Mathematics | A",
-            "Operating Systems Lab | A+",
-            "Operating Systems | A",
-            "System Analysis & Design | A+"
-        ]
-    },
     "203-15-3882": {
         "sgpa": 3.7,
         "name": "Samsun Naher Asme ",
@@ -1416,6 +1402,11 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3105": {
+        "sgpa": 0.0,
+        "name": "KAZI SAIF MAHMUD ",
         "cTitleNgLetter": []
     }
 }
