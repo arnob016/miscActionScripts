@@ -3,16 +3,16 @@
         "sgpa": 3.97,
         "name": "Md. Shakhawat Hossain",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A",
+            "Database Management System Lab | A+",
+            "Database Management System | A+",
+            "Microprocessor, Embedded Systems and IoT Lab | A+",
+            "Microprocessor, Embedded Systems and IoT | A+",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A+",
             "Software Project IV | A",
             "Software Project V | A+"
         ]
@@ -353,6 +353,24 @@
             "Object Oriented Programming II | A+",
             "Software Project IV | A",
             "Software Project V | B+"
+        ]
+    },
+    "203-15-3922": {
+        "sgpa": 3.65,
+        "name": "Eshita Akter ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A-",
+            "Database Management System Lab | A",
+            "Database Management System | A-",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B",
+            "Object Oriented Programming II Lab | A",
+            "Object Oriented Programming II | B+",
+            "Software Project IV | A",
+            "Software Project V | A"
         ]
     },
     "203-15-3898": {
@@ -749,6 +767,24 @@
             "Object Oriented Programming II | A",
             "Software Project IV | A",
             "Software Project V | A+"
+        ]
+    },
+    "201-15-3692": {
+        "sgpa": 3.21,
+        "name": "Galib Al Jadid ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B+",
+            "Artificial Intelligence | B",
+            "Computer Networks Lab | A-",
+            "Computer Networks | A-",
+            "Database Management System Lab | B",
+            "Database Management System | B+",
+            "Microprocessor, Embedded Systems and IoT Lab | B",
+            "Microprocessor, Embedded Systems and IoT | B+",
+            "Object Oriented Programming II Lab | B",
+            "Object Oriented Programming II | B+",
+            "Software Project IV | A",
+            "Software Project V | B"
         ]
     },
     "203-15-3872": {
@@ -1263,6 +1299,22 @@
             "Software Project V | A-"
         ]
     },
+    "181-15-1723": {
+        "sgpa": 2.55,
+        "name": "Alauddin ",
+        "cTitleNgLetter": [
+            "Art of Living | A-",
+            "Computer Architecture and Organization | F",
+            "Computer Networks Lab | A+",
+            "Computer Networks | B-",
+            "Database Management System Lab | B-",
+            "Database Management System | D",
+            "Economics | C+",
+            "Operating Systems Lab | A-",
+            "Operating Systems | B",
+            "System Analysis & Design | B+"
+        ]
+    },
     "181-15-2017": {
         "sgpa": 2.47,
         "name": "Md. Sujan Ahmed ",
@@ -1575,11 +1627,6 @@
     "203-15-3863": {
         "sgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
-        "cTitleNgLetter": []
-    },
-    "201-15-14273": {
-        "sgpa": 0.0,
-        "name": "ABDULLAH AL ASIB",
         "cTitleNgLetter": []
     },
     "201-15-3263": {
