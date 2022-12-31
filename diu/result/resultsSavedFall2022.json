@@ -559,21 +559,6 @@
             "Object Oriented Programming II | B+"
         ]
     },
-    "203-15-3875": {
-        "sgpa": 3.18,
-        "name": "Md. Mostafizur Rahman ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A-",
-            "Computer Networks | B",
-            "Database Management System Lab | B-",
-            "Database Management System | C+",
-            "Microprocessor, Embedded Systems and IoT Lab | B",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | B+"
-        ]
-    },
     "203-15-3872": {
         "sgpa": 3.17,
         "name": "Md. Zubair Islam ",
@@ -949,12 +934,12 @@
         "cTitleNgLetter": [
             "Art of Living | A-",
             "Computer Architecture and Organization | F",
-            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks Lab | A+",
             "Computer Networks | B-",
-            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System Lab | B-",
             "Database Management System | D",
             "Economics | C+",
-            "Operating Systems Lab | Teaching evaluation is pending",
+            "Operating Systems Lab | A-",
             "Operating Systems | B",
             "System Analysis & Design | B+"
         ]
