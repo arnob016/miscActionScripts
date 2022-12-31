@@ -1245,22 +1245,6 @@
             "Software Project V | A-"
         ]
     },
-    "181-15-1723": {
-        "sgpa": 2.55,
-        "name": "Alauddin ",
-        "cTitleNgLetter": [
-            "Art of Living | A-",
-            "Computer Architecture and Organization | F",
-            "Computer Networks Lab | A+",
-            "Computer Networks | B-",
-            "Database Management System Lab | B-",
-            "Database Management System | D",
-            "Economics | C+",
-            "Operating Systems Lab | A-",
-            "Operating Systems | B",
-            "System Analysis & Design | B+"
-        ]
-    },
     "181-15-2017": {
         "sgpa": 2.47,
         "name": "Md. Sujan Ahmed ",
@@ -1681,6 +1665,22 @@
             "Object Oriented Programming II | Teaching evaluation is pending",
             "Software Project III | Teaching evaluation is pending",
             "Software Project IV | Teaching evaluation is pending",
+            "Statistics and Probability | Teaching evaluation is pending"
+        ]
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": [
+            "Algorithm Lab | Teaching evaluation is pending",
+            "Algorithm | Teaching evaluation is pending",
+            "Data Communication | Teaching evaluation is pending",
+            "Digital Electronics Lab | Teaching evaluation is pending",
+            "Digital Electronics | Teaching evaluation is pending",
+            "Object Oriented Programming Lab | Teaching evaluation is pending",
+            "Object Oriented Programming | Teaching evaluation is pending",
+            "Software Project II | Teaching evaluation is pending",
+            "Software Project III | Teaching evaluation is pending",
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     }
