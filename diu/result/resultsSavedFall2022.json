@@ -337,24 +337,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3882": {
-        "sgpa": 3.68,
-        "name": "Samsun Naher Asme ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A-",
-            "Computer Networks | A-",
-            "Database Management System Lab | A+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | A",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | A",
-            "Software Project V | B+"
-        ]
-    },
     "203-15-3922": {
         "sgpa": 3.65,
         "name": "Eshita Akter ",
@@ -1347,23 +1329,6 @@
             "Software Project V | F"
         ]
     },
-    "201-15-3711": {
-        "sgpa": 1.74,
-        "name": "Sabikur Rahman",
-        "cTitleNgLetter": [
-            "Algorithm Lab | B-",
-            "Algorithm | F",
-            "Math for Computer Science | D",
-            "Microprocessor, Embedded Systems and IoT Lab | C",
-            "Microprocessor, Embedded Systems and IoT | F",
-            "Numerical Methods | C",
-            "Object Oriented Programming II Lab | B-",
-            "Object Oriented Programming II | C+",
-            "Software Project III | B",
-            "Software Project IV | B",
-            "Statistics and Probability | F"
-        ]
-    },
     "203-15-3910": {
         "sgpa": 1.73,
         "name": "Amena Khatun ",
@@ -1699,5 +1664,10 @@
             "Software Project IV | Teaching evaluation is pending",
             "Software Project V | Teaching evaluation is pending"
         ]
+    },
+    "201-15-14273": {
+        "sgpa": 0.0,
+        "name": "ABDULLAH AL ASIB",
+        "cTitleNgLetter": []
     }
 }
