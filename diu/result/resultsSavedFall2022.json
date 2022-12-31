@@ -35,6 +35,24 @@
             "Software Project V | A+"
         ]
     },
+    "203-15-3871": {
+        "sgpa": 3.94,
+        "name": "Md. Rakibul Islam Shanto ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A+",
+            "Database Management System Lab | A+",
+            "Database Management System | A+",
+            "Microprocessor, Embedded Systems and IoT Lab | A+",
+            "Microprocessor, Embedded Systems and IoT | A+",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A+",
+            "Software Project IV | A",
+            "Software Project V | B+"
+        ]
+    },
     "201-15-3691": {
         "sgpa": 3.92,
         "name": "Rabib Al Rise ",
@@ -1649,24 +1667,6 @@
         "name": "Shekh Naziullah ",
         "cTitleNgLetter": []
     },
-    "201-15-3621": {
-        "sgpa": 0.0,
-        "name": "Md. Morsalin",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending",
-            "Software Project IV | Teaching evaluation is pending",
-            "Software Project V | Teaching evaluation is pending"
-        ]
-    },
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
@@ -1680,6 +1680,11 @@
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3863": {
+        "sgpa": 0.0,
+        "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": []
     }
 }
