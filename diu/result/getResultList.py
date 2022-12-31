@@ -99,7 +99,7 @@ if __name__ == "__main__":
                 dataJson = {
                     "sgpa": sgpa,
                     "name": stdName,
-                    "cTitleNgLetter": sorted(cTitleNgLetter, key=lambda x: x[0].lower())
+                    "cTitleNgLetter": sorted(cTitleNgLetter, key=lambda x: x.lower())
                 }
                 realData[p[1]] = dataJson
                 saveResult(realData)
