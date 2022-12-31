@@ -217,6 +217,20 @@
             "Object Oriented Programming II | A"
         ]
     },
+    "203-15-3906": {
+        "sgpa": 3.71,
+        "name": "Arnob Dey ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A-",
+            "Computer Networks | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A",
+            "Microprocessor, Embedded Systems and IoT | A-",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A-"
+        ]
+    },
     "181-15-955": {
         "sgpa": 3.7,
         "name": "Mashiur Rahman",
@@ -1164,11 +1178,6 @@
             "Software Project III | Teaching evaluation is pending",
             "Statistics and Probability | Teaching evaluation is pending"
         ]
-    },
-    "203-15-3859": {
-        "sgpa": 0.0,
-        "name": "Md. Afjal Hossain Shenam",
-        "cTitleNgLetter": []
     },
     "201-15-3621": {
         "sgpa": 0.0,
