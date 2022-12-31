@@ -589,24 +589,6 @@
             "Software Project V | B"
         ]
     },
-    "203-15-3868": {
-        "sgpa": 3.32,
-        "name": "Nafi Bin Monsoor Alvi",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A-",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | A-",
-            "Computer Networks | B",
-            "Database Management System Lab | A-",
-            "Database Management System | B",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | B-",
-            "Object Oriented Programming II | B+",
-            "Software Project IV | A",
-            "Software Project V | A"
-        ]
-    },
     "203-15-3857": {
         "sgpa": 3.31,
         "name": "Ritwika Dey Risha",
@@ -1099,24 +1081,6 @@
             "Software Project IV | A-"
         ]
     },
-    "203-15-3880": {
-        "sgpa": 2.86,
-        "name": "Abdul Fattah Mujtabir Samin",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | B-",
-            "Computer Networks Lab | C+",
-            "Computer Networks | B-",
-            "Database Management System Lab | B",
-            "Database Management System | D",
-            "Microprocessor, Embedded Systems and IoT Lab | C+",
-            "Microprocessor, Embedded Systems and IoT | D",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | C+",
-            "Software Project IV | A+",
-            "Software Project V | A-"
-        ]
-    },
     "193-15-2972": {
         "sgpa": 2.85,
         "name": "Mst. Zannatul Ferdousi  ",
@@ -1179,6 +1143,18 @@
             "Object Oriented Programming II | B",
             "Software Project IV | A",
             "Software Project V | A-"
+        ]
+    },
+    "182-15-2223": {
+        "sgpa": 2.71,
+        "name": "Md. Sakib Chowdhury",
+        "cTitleNgLetter": [
+            "Computer Fundamentals  | A",
+            "Data Mining | D",
+            "Embedded Systems | B+",
+            "Introduction to Robotics | C",
+            "Social and Professional Issues in Computing | C+",
+            "Writing and Comprehension | C+"
         ]
     },
     "193-15-2998": {
