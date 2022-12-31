@@ -251,22 +251,18 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3879": {
-        "sgpa": 3.75,
-        "name": "Jahidul Islam ",
+    "181-15-955": {
+        "sgpa": 3.7,
+        "name": "Mashiur Rahman",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A",
-            "Computer Networks | A",
-            "Database Management System Lab | A+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A+",
-            "Microprocessor, Embedded Systems and IoT | A+",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | C+",
-            "Software Project V | A"
+            "Computer Architecture and Organization | B",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A+",
+            "Economics | A-",
+            "Engineering Mathematics | A",
+            "Operating Systems Lab | A+",
+            "Operating Systems | A",
+            "System Analysis & Design | A+"
         ]
     },
     "203-15-3858": {
@@ -1167,18 +1163,6 @@
             "Software Project V | A-"
         ]
     },
-    "182-15-2223": {
-        "sgpa": 2.71,
-        "name": "Md. Sakib Chowdhury",
-        "cTitleNgLetter": [
-            "Computer Fundamentals  | A",
-            "Data Mining | D",
-            "Embedded Systems | B+",
-            "Introduction to Robotics | C",
-            "Social and Professional Issues in Computing | C+",
-            "Writing and Comprehension | C+"
-        ]
-    },
     "193-15-2998": {
         "sgpa": 2.67,
         "name": "SHEHAB MOLLAH",
@@ -1679,6 +1663,16 @@
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
+        "cTitleNgLetter": []
+    },
+    "181-15-1921": {
+        "sgpa": 0.0,
+        "name": "Md. Ashraful Islam ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3526": {
+        "sgpa": 0.0,
+        "name": "NAIEM MIA ",
         "cTitleNgLetter": []
     }
 }
