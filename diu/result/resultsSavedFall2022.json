@@ -1347,23 +1347,6 @@
             "Software Project V | F"
         ]
     },
-    "201-15-3711": {
-        "sgpa": 1.74,
-        "name": "Sabikur Rahman",
-        "cTitleNgLetter": [
-            "Algorithm Lab | B-",
-            "Algorithm | F",
-            "Math for Computer Science | D",
-            "Microprocessor, Embedded Systems and IoT Lab | C",
-            "Microprocessor, Embedded Systems and IoT | F",
-            "Numerical Methods | C",
-            "Object Oriented Programming II Lab | B-",
-            "Object Oriented Programming II | C+",
-            "Software Project III | B",
-            "Software Project IV | B",
-            "Statistics and Probability | F"
-        ]
-    },
     "203-15-3910": {
         "sgpa": 1.73,
         "name": "Amena Khatun ",
@@ -1693,6 +1676,16 @@
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
+        "cTitleNgLetter": []
+    },
+    "181-15-968": {
+        "sgpa": 0.0,
+        "name": "Rokaya Akter Taiyaba",
+        "cTitleNgLetter": []
+    },
+    "201-15-3283": {
+        "sgpa": 0.0,
+        "name": "Mazharul Islam",
         "cTitleNgLetter": []
     }
 }
