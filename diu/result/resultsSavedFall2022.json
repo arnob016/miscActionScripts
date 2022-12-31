@@ -251,6 +251,24 @@
             "Software Project V | A"
         ]
     },
+    "203-15-3906": {
+        "sgpa": 3.75,
+        "name": "Arnob Dey ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A-",
+            "Computer Networks | B",
+            "Database Management System Lab | A+",
+            "Database Management System | A",
+            "Microprocessor, Embedded Systems and IoT Lab | A",
+            "Microprocessor, Embedded Systems and IoT | A-",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A-",
+            "Software Project IV | A-",
+            "Software Project V | A+"
+        ]
+    },
     "181-15-955": {
         "sgpa": 3.7,
         "name": "Mashiur Rahman",
@@ -751,24 +769,6 @@
             "Software Project V | B+"
         ]
     },
-    "203-15-14572": {
-        "sgpa": 3.18,
-        "name": "Md. Golam Kibria",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | B",
-            "Computer Networks | C+",
-            "Database Management System Lab | B+",
-            "Database Management System | B-",
-            "Microprocessor, Embedded Systems and IoT Lab | B+",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | A-",
-            "Object Oriented Programming II | B+",
-            "Software Project IV | A+",
-            "Software Project V | A-"
-        ]
-    },
     "203-15-3918": {
         "sgpa": 3.15,
         "name": "Fatema Ha-mim",
@@ -1173,6 +1173,22 @@
             "Object Oriented Programming II | D",
             "Software Project IV | A-",
             "Software Project V | B-"
+        ]
+    },
+    "201-15-3313": {
+        "sgpa": 2.67,
+        "name": "MD. LUTFOR RAHMAN ",
+        "cTitleNgLetter": [
+            "Algorithm Lab | B",
+            "Algorithm | C",
+            "Math for Computer Science | C+",
+            "Microprocessor, Embedded Systems and IoT Lab | C+",
+            "Microprocessor, Embedded Systems and IoT | C+",
+            "Numerical Methods | C",
+            "Object Oriented Programming II Lab | A",
+            "Object Oriented Programming II | A-",
+            "Software Project IV | B+",
+            "Statistics and Probability | C"
         ]
     },
     "203-15-3930": {
@@ -1652,5 +1668,23 @@
         "sgpa": 0.0,
         "name": "Sadekul Alam",
         "cTitleNgLetter": []
+    },
+    "201-15-3470": {
+        "sgpa": 0.0,
+        "name": "S. M. MARUF HOSSAIN ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project IV | Teaching evaluation is pending",
+            "Software Project V | Teaching evaluation is pending"
+        ]
     }
 }
