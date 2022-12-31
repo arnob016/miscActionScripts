@@ -626,7 +626,7 @@
             "Computer Networks Lab | Teaching evaluation is pending",
             "Computer Networks | C+",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | B-",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
@@ -821,21 +821,6 @@
             "Object Oriented Programming II | B"
         ]
     },
-    "203-15-3873": {
-        "sgpa": 2.95,
-        "name": "Md.Tanvir Siddik",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | B+",
-            "Computer Networks Lab | B+",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | C",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
-        ]
-    },
     "203-15-3925": {
         "sgpa": 2.9,
         "name": "Md. Ashikur Rahman Shovo ",
@@ -955,22 +940,6 @@
             "Microprocessor, Embedded Systems and IoT Lab | D",
             "Object Oriented Programming II Lab | C+",
             "Object Oriented Programming II | B"
-        ]
-    },
-    "181-15-1723": {
-        "sgpa": 2.55,
-        "name": "Alauddin ",
-        "cTitleNgLetter": [
-            "Art of Living | Teaching evaluation is pending",
-            "Computer Architecture and Organization | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Economics | Teaching evaluation is pending",
-            "Operating Systems Lab | Teaching evaluation is pending",
-            "Operating Systems | Teaching evaluation is pending",
-            "System Analysis & Design | B+"
         ]
     },
     "203-15-3930": {
@@ -1416,6 +1385,11 @@
     "203-15-3865": {
         "sgpa": 0.0,
         "name": "Shekh Naziullah ",
+        "cTitleNgLetter": []
+    },
+    "181-15-1096": {
+        "sgpa": 0.0,
+        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     }
 }
