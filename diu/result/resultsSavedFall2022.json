@@ -530,6 +530,20 @@
             "Object Oriented Programming II | B"
         ]
     },
+    "203-15-3919": {
+        "sgpa": 3.25,
+        "name": "Farhan Adnan ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B+",
+            "Computer Networks Lab | A-",
+            "Computer Networks | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | B+"
+        ]
+    },
     "203-15-3918": {
         "sgpa": 3.23,
         "name": "Fatema Ha-mim",
@@ -1289,11 +1303,6 @@
             "Statistics and Probability | Teaching evaluation is pending"
         ]
     },
-    "181-15-285": {
-        "sgpa": 0.0,
-        "name": "Md.Nahid Hasan",
-        "cTitleNgLetter": []
-    },
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
@@ -1312,11 +1321,6 @@
     "201-15-3105": {
         "sgpa": 0.0,
         "name": "KAZI SAIF MAHMUD ",
-        "cTitleNgLetter": []
-    },
-    "181-15-2070": {
-        "sgpa": 0.0,
-        "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     },
     "162-15-1079": {
@@ -1394,5 +1398,19 @@
         "sgpa": 0.0,
         "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": []
+    },
+    "201-15-3117": {
+        "sgpa": 0.0,
+        "name": "Md. Salim Reza Joy",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending"
+        ]
     }
 }
