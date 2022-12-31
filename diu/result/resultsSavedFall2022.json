@@ -405,7 +405,7 @@
             "Microprocessor, Embedded Systems and IoT | A",
             "Object Oriented Programming II Lab | A-",
             "Object Oriented Programming II | A+",
-            "Software Project IV | Teaching evaluation is pending",
+            "Software Project IV | A",
             "Software Project V | A"
         ]
     },
@@ -787,20 +787,6 @@
             "Software Project V | A-"
         ]
     },
-    "201-15-3209": {
-        "sgpa": 3.17,
-        "name": "Zannatul Mawya Priya ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | C+",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | B-",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
-        ]
-    },
     "203-15-3918": {
         "sgpa": 3.15,
         "name": "Fatema Ha-mim",
@@ -943,6 +929,24 @@
             "Object Oriented Programming II | B+",
             "Software Project IV | B+",
             "Software Project V | B+"
+        ]
+    },
+    "201-15-3209": {
+        "sgpa": 3.06,
+        "name": "Zannatul Mawya Priya ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | A-",
+            "Computer Networks Lab | B+",
+            "Computer Networks | C+",
+            "Database Management System Lab | C+",
+            "Database Management System | C+",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B-",
+            "Object Oriented Programming II Lab | B",
+            "Object Oriented Programming II | C",
+            "Software Project IV | B+",
+            "Software Project V | A"
         ]
     },
     "203-15-3891": {
@@ -1095,6 +1099,24 @@
             "Software Project V | A-"
         ]
     },
+    "193-15-2972": {
+        "sgpa": 2.85,
+        "name": "Mst. Zannatul Ferdousi  ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B-",
+            "Computer Networks Lab | B",
+            "Computer Networks | D",
+            "Database Management System Lab | B-",
+            "Database Management System | C+",
+            "Microprocessor, Embedded Systems and IoT Lab | B+",
+            "Microprocessor, Embedded Systems and IoT | C+",
+            "Object Oriented Programming II Lab | B",
+            "Object Oriented Programming II | D",
+            "Software Project IV | B+",
+            "Software Project V | A"
+        ]
+    },
     "203-15-3925": {
         "sgpa": 2.83,
         "name": "Md. Ashikur Rahman Shovo ",
@@ -1121,20 +1143,6 @@
             "Artificial Intelligence | C+",
             "Computer and Network Security | B+",
             "Peripherals and Interfacing | B-"
-        ]
-    },
-    "193-15-2972": {
-        "sgpa": 2.81,
-        "name": "Mst. Zannatul Ferdousi  ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B",
-            "Artificial Intelligence | B-",
-            "Computer Networks Lab | B",
-            "Computer Networks | D",
-            "Microprocessor, Embedded Systems and IoT Lab | B+",
-            "Microprocessor, Embedded Systems and IoT | C+",
-            "Object Oriented Programming II Lab | B",
-            "Object Oriented Programming II | D"
         ]
     },
     "203-15-3884": {
@@ -1201,6 +1209,24 @@
             "Statistics and Probability | C"
         ]
     },
+    "203-15-3930": {
+        "sgpa": 2.61,
+        "name": "Md.Osman Goni ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | A-",
+            "Computer Networks Lab | B",
+            "Computer Networks | B",
+            "Database Management System Lab | B-",
+            "Database Management System | D",
+            "Microprocessor, Embedded Systems and IoT Lab | C+",
+            "Microprocessor, Embedded Systems and IoT | B+",
+            "Object Oriented Programming II Lab | I",
+            "Object Oriented Programming II | B+",
+            "Software Project IV | C",
+            "Software Project V | A"
+        ]
+    },
     "201-15-3520": {
         "sgpa": 2.57,
         "name": "SRIJAN BIR ",
@@ -1233,21 +1259,6 @@
             "Operating Systems Lab | A-",
             "Operating Systems | B",
             "System Analysis & Design | B+"
-        ]
-    },
-    "203-15-3930": {
-        "sgpa": 2.52,
-        "name": "Md.Osman Goni ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | B",
-            "Computer Networks | B",
-            "Database Management System Lab | B-",
-            "Database Management System | D",
-            "Microprocessor, Embedded Systems and IoT Lab | C+",
-            "Object Oriented Programming II Lab | I",
-            "Object Oriented Programming II | B+"
         ]
     },
     "181-15-2017": {
@@ -1356,10 +1367,14 @@
             "Artificial Intelligence | Teaching evaluation is pending",
             "Computer Networks Lab | Teaching evaluation is pending",
             "Computer Networks | Teaching evaluation is pending",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project IV | Teaching evaluation is pending",
+            "Software Project V | Teaching evaluation is pending"
         ]
     },
     "201-15-3534": {
@@ -1391,8 +1406,11 @@
             "Database Management System Lab | Teaching evaluation is pending",
             "Database Management System | Teaching evaluation is pending",
             "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project IV | Teaching evaluation is pending",
+            "Software Project V | Teaching evaluation is pending"
         ]
     },
     "201-15-3193": {
@@ -1495,11 +1513,6 @@
         "name": "NAIEM MIA ",
         "cTitleNgLetter": []
     },
-    "181-15-968": {
-        "sgpa": 0.0,
-        "name": "Rokaya Akter Taiyaba",
-        "cTitleNgLetter": []
-    },
     "181-15-1921": {
         "sgpa": 0.0,
         "name": "Md. Ashraful Islam ",
@@ -1552,22 +1565,6 @@
         "sgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": []
-    },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Algorithm Lab | Teaching evaluation is pending",
-            "Algorithm | Teaching evaluation is pending",
-            "Data Communication | Teaching evaluation is pending",
-            "Digital Electronics Lab | Teaching evaluation is pending",
-            "Digital Electronics | Teaching evaluation is pending",
-            "Object Oriented Programming Lab | Teaching evaluation is pending",
-            "Object Oriented Programming | Teaching evaluation is pending",
-            "Software Project II | Teaching evaluation is pending",
-            "Software Project III | Teaching evaluation is pending",
-            "Statistics and Probability | Teaching evaluation is pending"
-        ]
     },
     "203-15-3908": {
         "sgpa": 0.0,
@@ -1664,5 +1661,27 @@
         "sgpa": 0.0,
         "name": "Zamiul Islam",
         "cTitleNgLetter": []
+    },
+    "203-15-3859": {
+        "sgpa": 0.0,
+        "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3874": {
+        "sgpa": 0.0,
+        "name": "Md. Robiul Islam ",
+        "cTitleNgLetter": [
+            "Algorithm Lab | Teaching evaluation is pending",
+            "Algorithm | Teaching evaluation is pending",
+            "Math for Computer Science | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Numerical Methods | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project III | Teaching evaluation is pending",
+            "Software Project IV | Teaching evaluation is pending",
+            "Statistics and Probability | Teaching evaluation is pending"
+        ]
     }
 }
