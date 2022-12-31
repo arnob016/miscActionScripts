@@ -1184,21 +1184,6 @@
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Algorithm Lab | Teaching evaluation is pending",
-            "Algorithm | Teaching evaluation is pending",
-            "Data Communication | Teaching evaluation is pending",
-            "Digital Electronics Lab | Teaching evaluation is pending",
-            "Digital Electronics | Teaching evaluation is pending",
-            "Object Oriented Programming Lab | Teaching evaluation is pending",
-            "Object Oriented Programming | Teaching evaluation is pending",
-            "Software Project II | Teaching evaluation is pending",
-            "Statistics and Probability | Teaching evaluation is pending"
-        ]
-    },
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
@@ -1314,20 +1299,6 @@
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
-    "203-15-14513": {
-        "sgpa": 0.0,
-        "name": "Md. Shakhawat Hossain",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | Teaching evaluation is pending",
-            "Computer Networks Lab | Teaching evaluation is pending",
-            "Computer Networks | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
-        ]
-    },
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
@@ -1403,5 +1374,10 @@
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
             "Object Oriented Programming II | Teaching evaluation is pending"
         ]
+    },
+    "203-15-3863": {
+        "sgpa": 0.0,
+        "name": "Md. Mokaddus Hossain Abid ",
+        "cTitleNgLetter": []
     }
 }
