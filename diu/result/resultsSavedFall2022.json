@@ -183,18 +183,18 @@
         "sgpa": 3.81,
         "name": "Saied Hasan",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence Lab | A+",
             "Artificial Intelligence | A+",
             "Computer Networks Lab | A+",
             "Computer Networks | A",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Database Management System Lab | B+",
+            "Database Management System | A",
+            "Microprocessor, Embedded Systems and IoT Lab | A+",
             "Microprocessor, Embedded Systems and IoT | A+",
             "Object Oriented Programming II Lab | A+",
-            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Object Oriented Programming II | A-",
             "Software Project IV | A-",
-            "Software Project V | Teaching evaluation is pending"
+            "Software Project V | A"
         ]
     },
     "203-15-3924": {
@@ -1181,18 +1181,6 @@
             "Software Project V | A-"
         ]
     },
-    "182-15-2223": {
-        "sgpa": 2.71,
-        "name": "Md. Sakib Chowdhury",
-        "cTitleNgLetter": [
-            "Computer Fundamentals  | A",
-            "Data Mining | D",
-            "Embedded Systems | B+",
-            "Introduction to Robotics | C",
-            "Social and Professional Issues in Computing | C+",
-            "Writing and Comprehension | C+"
-        ]
-    },
     "193-15-2998": {
         "sgpa": 2.67,
         "name": "SHEHAB MOLLAH",
@@ -1693,6 +1681,16 @@
     "201-15-3526": {
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
+        "cTitleNgLetter": []
+    },
+    "181-15-285": {
+        "sgpa": 0.0,
+        "name": "Md.Nahid Hasan",
+        "cTitleNgLetter": []
+    },
+    "203-15-3865": {
+        "sgpa": 0.0,
+        "name": "Shekh Naziullah ",
         "cTitleNgLetter": []
     }
 }
