@@ -107,24 +107,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3881": {
-        "sgpa": 3.86,
-        "name": "Mahadi Hasan Munna",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A-",
-            "Computer Networks | A+",
-            "Database Management System Lab | A+",
-            "Database Management System | A+",
-            "Microprocessor, Embedded Systems and IoT Lab | A",
-            "Microprocessor, Embedded Systems and IoT | A+",
-            "Object Oriented Programming II Lab | A+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | A-",
-            "Software Project V | A-"
-        ]
-    },
     "203-15-3887": {
         "sgpa": 3.85,
         "name": "Jahid Imran",
@@ -515,24 +497,6 @@
             "Object Oriented Programming II | A-",
             "Software Project IV | A+",
             "Software Project V | B+"
-        ]
-    },
-    "203-15-14491": {
-        "sgpa": 3.46,
-        "name": "Salman",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A-",
-            "Computer Networks Lab | A+",
-            "Computer Networks | B+",
-            "Database Management System Lab | B",
-            "Database Management System | B-",
-            "Microprocessor, Embedded Systems and IoT Lab | A",
-            "Microprocessor, Embedded Systems and IoT | A-",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | B",
-            "Software Project IV | A",
-            "Software Project V | A"
         ]
     },
     "201-15-3325": {
@@ -1019,6 +983,24 @@
             "Object Oriented Programming II | B+",
             "Software Project IV | B",
             "Software Project V | B-"
+        ]
+    },
+    "201-15-3209": {
+        "sgpa": 3.06,
+        "name": "Zannatul Mawya Priya ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | A-",
+            "Computer Networks Lab | B+",
+            "Computer Networks | C+",
+            "Database Management System Lab | C+",
+            "Database Management System | C+",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B-",
+            "Object Oriented Programming II Lab | B",
+            "Object Oriented Programming II | C",
+            "Software Project IV | B+",
+            "Software Project V | A"
         ]
     },
     "203-15-3856": {
