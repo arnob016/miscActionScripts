@@ -75,15 +75,15 @@
         "sgpa": 3.9,
         "name": "Rabib Al Rise ",
         "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence Lab | A+",
             "Artificial Intelligence | A+",
             "Computer Networks Lab | A",
             "Computer Networks | A+",
-            "Database Management System Lab | Teaching evaluation is pending",
-            "Database Management System | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
+            "Database Management System Lab | A+",
+            "Database Management System | A+",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A+"
         ]
     },
     "203-15-3927": {
@@ -1285,11 +1285,6 @@
     "201-15-3105": {
         "sgpa": 0.0,
         "name": "KAZI SAIF MAHMUD ",
-        "cTitleNgLetter": []
-    },
-    "181-15-1096": {
-        "sgpa": 0.0,
-        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     },
     "201-15-3526": {
