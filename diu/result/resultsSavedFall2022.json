@@ -895,6 +895,24 @@
             "Software Project V | Teaching evaluation is pending"
         ]
     },
+    "193-15-2947": {
+        "sgpa": 3.13,
+        "name": "Md Enamul Huq",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A",
+            "Artificial Intelligence | B",
+            "Computer Networks Lab | B+",
+            "Computer Networks | C",
+            "Database Management System Lab | B-",
+            "Database Management System | B",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | B-",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | C+",
+            "Software Project IV | A-",
+            "Software Project V | B+"
+        ]
+    },
     "201-15-3779": {
         "sgpa": 3.1,
         "name": "Anowar Karim",
@@ -1596,11 +1614,6 @@
         "name": "Mazharul Islam",
         "cTitleNgLetter": []
     },
-    "181-15-1921": {
-        "sgpa": 0.0,
-        "name": "Md. Ashraful Islam ",
-        "cTitleNgLetter": []
-    },
     "201-15-3526": {
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
@@ -1681,5 +1694,10 @@
             "Software Project IV | Teaching evaluation is pending",
             "Statistics and Probability | Teaching evaluation is pending"
         ]
+    },
+    "203-15-3859": {
+        "sgpa": 0.0,
+        "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": []
     }
 }
