@@ -374,6 +374,14 @@
             "Object Oriented Programming II | B"
         ]
     },
+    "191-15-2612": {
+        "sgpa": 3.5,
+        "name": "Md Rabbi Hasan",
+        "cTitleNgLetter": [
+            "Introduction to Bio-Informatics | A",
+            "Principles Of Robotics | B+"
+        ]
+    },
     "203-15-3902": {
         "sgpa": 3.48,
         "name": "Jannatul Ferdous",
@@ -1393,6 +1401,26 @@
             "Object Oriented Programming | Teaching evaluation is pending",
             "Software Project II | Teaching evaluation is pending",
             "Software Project III | Teaching evaluation is pending"
+        ]
+    },
+    "162-15-1079": {
+        "sgpa": 0.0,
+        "name": "Sultan Mahmud Shawon",
+        "cTitleNgLetter": []
+    },
+    "203-15-3867": {
+        "sgpa": 0.0,
+        "name": "Md Akil Hasan ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     }
 }
