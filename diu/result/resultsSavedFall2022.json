@@ -251,6 +251,20 @@
             "Software Project V | A+"
         ]
     },
+    "181-15-955": {
+        "sgpa": 3.7,
+        "name": "Mashiur Rahman",
+        "cTitleNgLetter": [
+            "Computer Architecture and Organization | B",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A+",
+            "Economics | A-",
+            "Engineering Mathematics | A",
+            "Operating Systems Lab | A+",
+            "Operating Systems | A",
+            "System Analysis & Design | A+"
+        ]
+    },
     "203-15-3858": {
         "sgpa": 3.69,
         "name": "Israt Jahan ",
@@ -1195,6 +1209,24 @@
             "Statistics and Probability | C"
         ]
     },
+    "193-15-2998": {
+        "sgpa": 2.67,
+        "name": "SHEHAB MOLLAH",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B-",
+            "Computer Networks Lab | B-",
+            "Computer Networks | F",
+            "Database Management System Lab | B-",
+            "Database Management System | C",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | D",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | D",
+            "Software Project IV | A-",
+            "Software Project V | B-"
+        ]
+    },
     "203-15-3930": {
         "sgpa": 2.61,
         "name": "Md.Osman Goni ",
@@ -1476,11 +1508,6 @@
         "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": []
     },
-    "203-15-3904": {
-        "sgpa": 0.0,
-        "name": "Hasibul Hasan ",
-        "cTitleNgLetter": []
-    },
     "162-15-1079": {
         "sgpa": 0.0,
         "name": "Sultan Mahmud Shawon",
@@ -1635,6 +1662,24 @@
             "Software Project II | Teaching evaluation is pending",
             "Software Project III | Teaching evaluation is pending",
             "Statistics and Probability | Teaching evaluation is pending"
+        ]
+    },
+    "203-15-14513": {
+        "sgpa": 0.0,
+        "name": "Md. Shakhawat Hossain",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | Teaching evaluation is pending",
+            "Artificial Intelligence | Teaching evaluation is pending",
+            "Computer Networks Lab | Teaching evaluation is pending",
+            "Computer Networks | Teaching evaluation is pending",
+            "Database Management System Lab | Teaching evaluation is pending",
+            "Database Management System | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | Teaching evaluation is pending",
+            "Object Oriented Programming II Lab | Teaching evaluation is pending",
+            "Object Oriented Programming II | Teaching evaluation is pending",
+            "Software Project IV | Teaching evaluation is pending",
+            "Software Project V | Teaching evaluation is pending"
         ]
     }
 }
