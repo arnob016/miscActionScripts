@@ -319,24 +319,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3882": {
-        "sgpa": 3.68,
-        "name": "Samsun Naher Asme ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A-",
-            "Computer Networks | A-",
-            "Database Management System Lab | A+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | A",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | A",
-            "Software Project V | B+"
-        ]
-    },
     "203-15-3916": {
         "sgpa": 3.68,
         "name": "Md.Likhon Mia",
@@ -517,6 +499,24 @@
             "Software Project V | B+"
         ]
     },
+    "203-15-14491": {
+        "sgpa": 3.46,
+        "name": "Salman",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A-",
+            "Computer Networks Lab | A+",
+            "Computer Networks | B+",
+            "Database Management System Lab | B",
+            "Database Management System | B-",
+            "Microprocessor, Embedded Systems and IoT Lab | A",
+            "Microprocessor, Embedded Systems and IoT | A-",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | B",
+            "Software Project IV | A",
+            "Software Project V | A"
+        ]
+    },
     "201-15-3325": {
         "sgpa": 3.43,
         "name": "SHAHRIAR HOSSAIN RIFAT ",
@@ -695,24 +695,6 @@
             "Object Oriented Programming II | B+",
             "Software Project IV | A+",
             "Software Project V | A-"
-        ]
-    },
-    "201-15-3048": {
-        "sgpa": 3.25,
-        "name": "MD. ENAMUL HAQUE CHOWDHURY",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B+",
-            "Artificial Intelligence | B+",
-            "Computer Networks Lab | B+",
-            "Computer Networks | B-",
-            "Database Management System Lab | A-",
-            "Database Management System | B",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B",
-            "Object Oriented Programming II Lab | A-",
-            "Object Oriented Programming II | B",
-            "Software Project IV | B+",
-            "Software Project V | B+"
         ]
     },
     "203-15-3921": {
@@ -1046,6 +1028,24 @@
             "Object Oriented Programming II | B",
             "Software Project IV | B+",
             "Software Project V | A"
+        ]
+    },
+    "201-15-3559": {
+        "sgpa": 2.97,
+        "name": "Md. Azhar Uddin Imran",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A-",
+            "Artificial Intelligence | B",
+            "Computer Networks Lab | B+",
+            "Computer Networks | C+",
+            "Database Management System Lab | C",
+            "Database Management System | B-",
+            "Microprocessor, Embedded Systems and IoT Lab | B+",
+            "Microprocessor, Embedded Systems and IoT | C",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | B",
+            "Software Project IV | B+",
+            "Software Project V | B"
         ]
     },
     "203-15-3873": {
@@ -1604,11 +1604,6 @@
     "181-15-285": {
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
-        "cTitleNgLetter": []
-    },
-    "203-15-3865": {
-        "sgpa": 0.0,
-        "name": "Shekh Naziullah ",
         "cTitleNgLetter": []
     },
     "203-15-3863": {
