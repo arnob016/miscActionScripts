@@ -246,6 +246,20 @@
             "Object Oriented Programming II | A+"
         ]
     },
+    "181-15-955": {
+        "sgpa": 3.7,
+        "name": "Mashiur Rahman",
+        "cTitleNgLetter": [
+            "Computer Architecture and Organization | B",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A+",
+            "Economics | A-",
+            "Engineering Mathematics | A",
+            "Operating Systems Lab | A+",
+            "Operating Systems | A",
+            "System Analysis & Design | A+"
+        ]
+    },
     "203-15-3898": {
         "sgpa": 3.69,
         "name": "Md. Mahian Islam Sadim",
@@ -301,20 +315,6 @@
             "Microprocessor, Embedded Systems and IoT | A",
             "Object Oriented Programming II Lab | Teaching evaluation is pending",
             "Object Oriented Programming II | A-"
-        ]
-    },
-    "203-15-3917": {
-        "sgpa": 3.56,
-        "name": "Tania Akter",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | Teaching evaluation is pending",
-            "Artificial Intelligence | A",
-            "Computer Networks Lab | A-",
-            "Computer Networks | Teaching evaluation is pending",
-            "Microprocessor, Embedded Systems and IoT Lab | A+",
-            "Microprocessor, Embedded Systems and IoT | A+",
-            "Object Oriented Programming II Lab | Teaching evaluation is pending",
-            "Object Oriented Programming II | Teaching evaluation is pending"
         ]
     },
     "203-15-3876": {
@@ -602,20 +602,6 @@
             "Microprocessor, Embedded Systems and IoT Lab | B-",
             "Object Oriented Programming II Lab | B",
             "Object Oriented Programming II | B+"
-        ]
-    },
-    "193-15-2947": {
-        "sgpa": 3.17,
-        "name": "Md Enamul Huq",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A",
-            "Artificial Intelligence | B",
-            "Computer Networks Lab | B+",
-            "Computer Networks | C",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | B-",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | C+"
         ]
     },
     "201-15-3209": {
