@@ -517,6 +517,24 @@
             "Software Project V | A"
         ]
     },
+    "191-15-2716": {
+        "sgpa": 3.49,
+        "name": "Shawkat Uddin Akanda",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B+",
+            "Computer Networks Lab | B",
+            "Computer Networks | A+",
+            "Database Management System Lab | B+",
+            "Database Management System | A",
+            "Microprocessor, Embedded Systems and IoT Lab | A",
+            "Microprocessor, Embedded Systems and IoT | A",
+            "Object Oriented Programming II Lab | A",
+            "Object Oriented Programming II | A-",
+            "Software Project IV | A+",
+            "Software Project V | B+"
+        ]
+    },
     "203-15-14491": {
         "sgpa": 3.46,
         "name": "Salman",
@@ -1574,11 +1592,6 @@
         "name": "Md. Ashraful Islam ",
         "cTitleNgLetter": []
     },
-    "203-15-3865": {
-        "sgpa": 0.0,
-        "name": "Shekh Naziullah ",
-        "cTitleNgLetter": []
-    },
     "181-15-968": {
         "sgpa": 0.0,
         "name": "Rokaya Akter Taiyaba",
@@ -1653,6 +1666,24 @@
     "201-15-3105": {
         "sgpa": 0.0,
         "name": "KAZI SAIF MAHMUD ",
+        "cTitleNgLetter": []
+    },
+    "203-15-3926": {
+        "sgpa": 0.0,
+        "name": "Mehedi Hasan Lipo",
+        "cTitleNgLetter": [
+            "Algorithm Lab | Teaching evaluation is pending",
+            "Algorithm | Teaching evaluation is pending",
+            "Data Communication | Teaching evaluation is pending",
+            "Digital Electronics Lab | Teaching evaluation is pending",
+            "Digital Electronics | Teaching evaluation is pending",
+            "Software Project III | Teaching evaluation is pending",
+            "Statistics and Probability | Teaching evaluation is pending"
+        ]
+    },
+    "203-15-3859": {
+        "sgpa": 0.0,
+        "name": "Md. Afjal Hossain Shenam",
         "cTitleNgLetter": []
     }
 }
