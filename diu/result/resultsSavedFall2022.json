@@ -337,24 +337,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3882": {
-        "sgpa": 3.68,
-        "name": "Samsun Naher Asme ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A-",
-            "Computer Networks | A-",
-            "Database Management System Lab | A+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A-",
-            "Microprocessor, Embedded Systems and IoT | A",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | A",
-            "Software Project V | B+"
-        ]
-    },
     "203-15-3922": {
         "sgpa": 3.65,
         "name": "Eshita Akter ",
@@ -1205,16 +1187,6 @@
             "Object Oriented Programming II | B",
             "Software Project IV | B+",
             "Software Project V | C+"
-        ]
-    },
-    "201-15-3063": {
-        "sgpa": 2.83,
-        "name": "Jugol Kishor Das",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B-",
-            "Artificial Intelligence | C+",
-            "Computer and Network Security | B+",
-            "Peripherals and Interfacing | B-"
         ]
     },
     "203-15-3884": {
