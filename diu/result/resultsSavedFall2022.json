@@ -517,24 +517,6 @@
             "Software Project V | A"
         ]
     },
-    "191-15-2716": {
-        "sgpa": 3.49,
-        "name": "Shawkat Uddin Akanda",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | B",
-            "Artificial Intelligence | B+",
-            "Computer Networks Lab | B",
-            "Computer Networks | A+",
-            "Database Management System Lab | B+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A",
-            "Microprocessor, Embedded Systems and IoT | A",
-            "Object Oriented Programming II Lab | A",
-            "Object Oriented Programming II | A-",
-            "Software Project IV | A+",
-            "Software Project V | B+"
-        ]
-    },
     "203-15-14491": {
         "sgpa": 3.46,
         "name": "Salman",
@@ -1679,6 +1661,11 @@
     "203-15-3863": {
         "sgpa": 0.0,
         "name": "Md. Mokaddus Hossain Abid ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3105": {
+        "sgpa": 0.0,
+        "name": "KAZI SAIF MAHMUD ",
         "cTitleNgLetter": []
     }
 }
