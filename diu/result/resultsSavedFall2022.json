@@ -269,24 +269,6 @@
             "Software Project V | A+"
         ]
     },
-    "203-15-3879": {
-        "sgpa": 3.75,
-        "name": "Jahidul Islam ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Computer Networks Lab | A",
-            "Computer Networks | A",
-            "Database Management System Lab | A+",
-            "Database Management System | A",
-            "Microprocessor, Embedded Systems and IoT Lab | A+",
-            "Microprocessor, Embedded Systems and IoT | A+",
-            "Object Oriented Programming II Lab | B+",
-            "Object Oriented Programming II | A+",
-            "Software Project IV | C+",
-            "Software Project V | A"
-        ]
-    },
     "203-15-3870": {
         "sgpa": 3.72,
         "name": "Md. Anowar Hossain ",
@@ -1534,11 +1516,6 @@
             "Software Project III | Teaching evaluation is pending"
         ]
     },
-    "143-15-4546": {
-        "sgpa": 0.0,
-        "name": "Zamiul Islam",
-        "cTitleNgLetter": []
-    },
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
@@ -1684,6 +1661,11 @@
     "203-15-3859": {
         "sgpa": 0.0,
         "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3865": {
+        "sgpa": 0.0,
+        "name": "Shekh Naziullah ",
         "cTitleNgLetter": []
     }
 }
