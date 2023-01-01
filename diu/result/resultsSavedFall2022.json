@@ -1,4 +1,22 @@
 {
+    "203-15-14513": {
+        "sgpa": 3.97,
+        "name": "Md. Shakhawat Hossain",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Computer Networks Lab | A+",
+            "Computer Networks | A",
+            "Database Management System Lab | A+",
+            "Database Management System | A+",
+            "Microprocessor, Embedded Systems and IoT Lab | A+",
+            "Microprocessor, Embedded Systems and IoT | A+",
+            "Object Oriented Programming II Lab | A+",
+            "Object Oriented Programming II | A+",
+            "Software Project IV | A",
+            "Software Project V | A+"
+        ]
+    },
     "201-15-3442": {
         "sgpa": 3.94,
         "name": "MD. FOYSAL SHEIKH ",
@@ -1066,6 +1084,24 @@
             "Principles Of Robotics | B+"
         ]
     },
+    "201-15-3559": {
+        "sgpa": 2.97,
+        "name": "Md. Azhar Uddin Imran",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A-",
+            "Artificial Intelligence | B",
+            "Computer Networks Lab | B+",
+            "Computer Networks | C+",
+            "Database Management System Lab | C",
+            "Database Management System | B-",
+            "Microprocessor, Embedded Systems and IoT Lab | B+",
+            "Microprocessor, Embedded Systems and IoT | C",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | B",
+            "Software Project IV | B+",
+            "Software Project V | B"
+        ]
+    },
     "203-15-3873": {
         "sgpa": 2.94,
         "name": "Md.Tanvir Siddik",
@@ -1225,6 +1261,24 @@
             "Object Oriented Programming II | A-",
             "Software Project IV | B+",
             "Statistics and Probability | C"
+        ]
+    },
+    "193-15-2998": {
+        "sgpa": 2.67,
+        "name": "SHEHAB MOLLAH",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | B",
+            "Artificial Intelligence | B-",
+            "Computer Networks Lab | B-",
+            "Computer Networks | F",
+            "Database Management System Lab | B-",
+            "Database Management System | C",
+            "Microprocessor, Embedded Systems and IoT Lab | A-",
+            "Microprocessor, Embedded Systems and IoT | D",
+            "Object Oriented Programming II Lab | B+",
+            "Object Oriented Programming II | D",
+            "Software Project IV | A-",
+            "Software Project V | B-"
         ]
     },
     "203-15-3930": {
