@@ -57,7 +57,7 @@ def clearLine(l=50):
 
 def fetchData(url, id):
     # http://software.diu.edu.bd:8189/result/semesterList
-    return requests.get(url, params={"semesterId": 223, "studentId": id, "grecaptcha": None}, verify=False)
+    return requests.get(url, params={"semesterId": 231, "studentId": id, "grecaptcha": None}, verify=False)
 
 
 if __name__ == "__main__":
