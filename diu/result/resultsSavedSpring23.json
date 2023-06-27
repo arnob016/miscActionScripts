@@ -15,6 +15,19 @@
             "System Analysis and Design | A+"
         ]
     },
+    "181-15-955": {
+        "sgpa": 3.92,
+        "name": "Mashiur Rahman",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | A+",
+            "Artificial Intelligence | A+",
+            "Compiler Design Lab | A+",
+            "Compiler Design | A+",
+            "Software Engineering | A",
+            "Web Engineering Lab | A-",
+            "Web Engineering | A+"
+        ]
+    },
     "203-15-3879": {
         "sgpa": 3.9,
         "name": "Jahidul Islam ",
@@ -268,22 +281,6 @@
             "Pervasive Computing and Mobile App Development Lab | A-",
             "Pervasive Computing | B+",
             "Research and Innovation | A",
-            "System Analysis and Design | A"
-        ]
-    },
-    "191-15-2716": {
-        "sgpa": 3.53,
-        "name": "Shawkat Uddin Akanda",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A",
-            "Compiler Design | B+",
-            "Data Mining and Machine Learning Lab | B+",
-            "Data Mining and Machine Learning | B+",
-            "Operating Systems Lab. | A",
-            "Operating Systems. | A-",
-            "Pervasive Computing and Mobile App Development Lab | A-",
-            "Pervasive Computing | A",
-            "Research and Innovation | A-",
             "System Analysis and Design | A"
         ]
     },
@@ -927,22 +924,6 @@
             "System Analysis and Design | B+"
         ]
     },
-    "193-15-2947": {
-        "sgpa": 2.81,
-        "name": "Md Enamul Huq",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | B",
-            "Compiler Design | C",
-            "Data Mining and Machine Learning Lab | B+",
-            "Data Mining and Machine Learning | C",
-            "Operating Systems Lab. | A-",
-            "Operating Systems. | B-",
-            "Pervasive Computing and Mobile App Development Lab | C",
-            "Pervasive Computing | B-",
-            "Research and Innovation | B",
-            "System Analysis and Design | B"
-        ]
-    },
     "193-15-2972": {
         "sgpa": 2.78,
         "name": "Mst. Zannatul Ferdousi  ",
@@ -1470,6 +1451,16 @@
     "203-15-3874": {
         "sgpa": 0.0,
         "name": "Md. Robiul Islam ",
+        "cTitleNgLetter": []
+    },
+    "181-15-1852": {
+        "sgpa": 0.0,
+        "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3603": {
+        "sgpa": 0.0,
+        "name": "KH. Abrarul Islam Tanjim",
         "cTitleNgLetter": []
     }
 }
