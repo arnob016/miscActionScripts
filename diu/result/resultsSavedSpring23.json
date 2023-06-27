@@ -108,6 +108,22 @@
             "System Analysis and Design | A+"
         ]
     },
+    "201-15-3117": {
+        "sgpa": 3.76,
+        "name": "Md. Salim Reza Joy",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | Teaching evaluation is pending",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | A",
+            "Operating Systems Lab. | Teaching evaluation is pending",
+            "Operating Systems. | Teaching evaluation is pending",
+            "Pervasive Computing and Mobile App Development Lab | Teaching evaluation is pending",
+            "Pervasive Computing | Teaching evaluation is pending",
+            "Research and Innovation | A",
+            "System Analysis and Design | Teaching evaluation is pending"
+        ]
+    },
     "203-15-14491": {
         "sgpa": 3.74,
         "name": "Salman",
@@ -234,6 +250,22 @@
             "Pervasive Computing | A-",
             "Research and Innovation | B+",
             "System Analysis and Design | A-"
+        ]
+    },
+    "203-15-3871": {
+        "sgpa": 3.63,
+        "name": "Md. Rakibul Islam Shanto ",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A+",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | A-",
+            "Operating Systems Lab. | A",
+            "Operating Systems. | A+",
+            "Pervasive Computing and Mobile App Development Lab | A-",
+            "Pervasive Computing | A-",
+            "Research and Innovation | A-",
+            "System Analysis and Design | A"
         ]
     },
     "201-15-3397": {
@@ -808,7 +840,7 @@
             "Operating Systems. | B-",
             "Pervasive Computing and Mobile App Development Lab | B-",
             "Pervasive Computing | D",
-            "Research and Innovation | Teaching evaluation is pending",
+            "Research and Innovation | A-",
             "System Analysis and Design | B+"
         ]
     },
@@ -1035,6 +1067,22 @@
             "System Analysis and Design | B+"
         ]
     },
+    "203-15-3888": {
+        "sgpa": 2.56,
+        "name": "Tuhanur Haque Talha",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A-",
+            "Compiler Design | C",
+            "Data Mining and Machine Learning Lab | B-",
+            "Data Mining and Machine Learning | C+",
+            "Operating Systems Lab. | B+",
+            "Operating Systems. | C+",
+            "Pervasive Computing and Mobile App Development Lab | F",
+            "Pervasive Computing | C+",
+            "Research and Innovation | A-",
+            "System Analysis and Design | B"
+        ]
+    },
     "181-15-1723": {
         "sgpa": 2.53,
         "name": "Alauddin ",
@@ -1185,6 +1233,21 @@
             "Engineering Mathematics | C+"
         ]
     },
+    "201-15-3621": {
+        "sgpa": 1.58,
+        "name": "Md. Morsalin",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B",
+            "Compiler Design | F",
+            "Data Mining and Machine Learning Lab | B",
+            "Data Mining and Machine Learning | F",
+            "Microprocessor, Embedded Systems and IoT | F",
+            "Operating Systems Lab. | C",
+            "Operating Systems. | F",
+            "Research and Innovation | D",
+            "System Analysis and Design | C"
+        ]
+    },
     "203-15-3859": {
         "sgpa": 1.5,
         "name": "Md. Afjal Hossain Shenam",
@@ -1246,17 +1309,6 @@
             "System Analysis and Design | Teaching evaluation is pending"
         ]
     },
-    "201-15-3711": {
-        "sgpa": 0.5,
-        "name": "Sabikur Rahman",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | F",
-            "Artificial Intelligence | F",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Database Management System | D"
-        ]
-    },
     "203-15-3892": {
         "sgpa": 0.15,
         "name": "Md. Mahfuj Sarker ",
@@ -1281,11 +1333,6 @@
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": []
-    },
-    "203-15-14513": {
-        "sgpa": 0.0,
-        "name": "Md. Shakhawat Hossain",
         "cTitleNgLetter": []
     },
     "181-15-1096": {
@@ -1326,11 +1373,6 @@
     "182-15-2223": {
         "sgpa": 0.0,
         "name": "Md. Sakib Chowdhury",
-        "cTitleNgLetter": []
-    },
-    "181-15-968": {
-        "sgpa": 0.0,
-        "name": "Rokaya Akter Taiyaba",
         "cTitleNgLetter": []
     },
     "203-15-3884": {
@@ -1395,6 +1437,41 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": []
+    },
+    "203-15-3926": {
+        "sgpa": 0.0,
+        "name": "Mehedi Hasan Lipo",
+        "cTitleNgLetter": [
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Database Management System Lab | F",
+            "Database Management System | F",
+            "Math for Computer Science | I",
+            "Microprocessor, Embedded Systems and IoT Lab | Teaching evaluation is pending",
+            "Microprocessor, Embedded Systems and IoT | F",
+            "Numerical Methods | Teaching evaluation is pending",
+            "Software Project III | I"
+        ]
+    },
+    "203-15-3904": {
+        "sgpa": 0.0,
+        "name": "Hasibul Hasan ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3325": {
+        "sgpa": 0.0,
+        "name": "SHAHRIAR HOSSAIN RIFAT ",
+        "cTitleNgLetter": []
+    },
+    "143-15-4546": {
+        "sgpa": 0.0,
+        "name": "Zamiul Islam",
         "cTitleNgLetter": []
     }
 }
