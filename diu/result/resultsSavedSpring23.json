@@ -108,22 +108,6 @@
             "System Analysis and Design | A+"
         ]
     },
-    "201-15-3117": {
-        "sgpa": 3.76,
-        "name": "Md. Salim Reza Joy",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A+",
-            "Compiler Design | A-",
-            "Data Mining and Machine Learning Lab | B+",
-            "Data Mining and Machine Learning | A",
-            "Operating Systems Lab. | A",
-            "Operating Systems. | A-",
-            "Pervasive Computing and Mobile App Development Lab | A+",
-            "Pervasive Computing | A+",
-            "Research and Innovation | A",
-            "System Analysis and Design | A+"
-        ]
-    },
     "203-15-14491": {
         "sgpa": 3.74,
         "name": "Salman",
@@ -1191,6 +1175,22 @@
             "System Analysis and Design | B"
         ]
     },
+    "203-15-3880": {
+        "sgpa": 2.06,
+        "name": "Abdul Fattah Mujtabir Samin",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B+",
+            "Compiler Design | F",
+            "Data Mining and Machine Learning Lab | C",
+            "Data Mining and Machine Learning | F",
+            "Operating Systems Lab. | A-",
+            "Operating Systems. | D",
+            "Pervasive Computing and Mobile App Development Lab | D",
+            "Pervasive Computing | C",
+            "Research and Innovation | A+",
+            "System Analysis and Design | C"
+        ]
+    },
     "201-15-3208": {
         "sgpa": 2.01,
         "name": "Md. Omor Faruk ",
@@ -1432,11 +1432,6 @@
     "203-15-3904": {
         "sgpa": 0.0,
         "name": "Hasibul Hasan ",
-        "cTitleNgLetter": []
-    },
-    "143-15-4546": {
-        "sgpa": 0.0,
-        "name": "Zamiul Islam",
         "cTitleNgLetter": []
     },
     "181-15-968": {
