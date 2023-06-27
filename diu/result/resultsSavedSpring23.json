@@ -300,6 +300,22 @@
             "System Analysis and Design | A"
         ]
     },
+    "203-15-3922": {
+        "sgpa": 3.51,
+        "name": "Eshita Akter ",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A-",
+            "Compiler Design | B+",
+            "Data Mining and Machine Learning Lab | A+",
+            "Data Mining and Machine Learning | A-",
+            "Operating Systems Lab. | A+",
+            "Operating Systems. | A",
+            "Pervasive Computing and Mobile App Development Lab | C+",
+            "Pervasive Computing | B",
+            "Research and Innovation | A",
+            "System Analysis and Design | A"
+        ]
+    },
     "203-15-3916": {
         "sgpa": 3.5,
         "name": "Md.Likhon Mia",
@@ -1175,22 +1191,6 @@
             "System Analysis and Design | B"
         ]
     },
-    "203-15-3880": {
-        "sgpa": 2.06,
-        "name": "Abdul Fattah Mujtabir Samin",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | B+",
-            "Compiler Design | F",
-            "Data Mining and Machine Learning Lab | C",
-            "Data Mining and Machine Learning | F",
-            "Operating Systems Lab. | A-",
-            "Operating Systems. | D",
-            "Pervasive Computing and Mobile App Development Lab | D",
-            "Pervasive Computing | C",
-            "Research and Innovation | A+",
-            "System Analysis and Design | C"
-        ]
-    },
     "201-15-3208": {
         "sgpa": 2.01,
         "name": "Md. Omor Faruk ",
@@ -1467,6 +1467,16 @@
     "201-15-3263": {
         "sgpa": 0.0,
         "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3603": {
+        "sgpa": 0.0,
+        "name": "KH. Abrarul Islam Tanjim",
+        "cTitleNgLetter": []
+    },
+    "201-15-3325": {
+        "sgpa": 0.0,
+        "name": "SHAHRIAR HOSSAIN RIFAT ",
         "cTitleNgLetter": []
     }
 }
