@@ -108,6 +108,22 @@
             "System Analysis and Design | A+"
         ]
     },
+    "201-15-3117": {
+        "sgpa": 3.76,
+        "name": "Md. Salim Reza Joy",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A+",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | A",
+            "Operating Systems Lab. | A",
+            "Operating Systems. | A-",
+            "Pervasive Computing and Mobile App Development Lab | A+",
+            "Pervasive Computing | A+",
+            "Research and Innovation | A",
+            "System Analysis and Design | A+"
+        ]
+    },
     "203-15-14491": {
         "sgpa": 3.74,
         "name": "Salman",
@@ -234,6 +250,22 @@
             "Pervasive Computing | A-",
             "Research and Innovation | B+",
             "System Analysis and Design | A-"
+        ]
+    },
+    "203-15-3871": {
+        "sgpa": 3.63,
+        "name": "Md. Rakibul Islam Shanto ",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A+",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | A-",
+            "Operating Systems Lab. | A",
+            "Operating Systems. | A+",
+            "Pervasive Computing and Mobile App Development Lab | A-",
+            "Pervasive Computing | A-",
+            "Research and Innovation | A-",
+            "System Analysis and Design | A"
         ]
     },
     "201-15-3397": {
@@ -940,22 +972,6 @@
             "System Analysis and Design | B"
         ]
     },
-    "201-15-3209": {
-        "sgpa": 2.76,
-        "name": "Zannatul Mawya Priya ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | B+",
-            "Compiler Design | C+",
-            "Data Mining and Machine Learning Lab | B",
-            "Data Mining and Machine Learning | C",
-            "Operating Systems Lab. | B+",
-            "Operating Systems. | C+",
-            "Pervasive Computing and Mobile App Development Lab | D",
-            "Pervasive Computing | B-",
-            "Research and Innovation | B",
-            "System Analysis and Design | B"
-        ]
-    },
     "201-15-3779": {
         "sgpa": 2.7,
         "name": "Anowar Karim",
@@ -1375,11 +1391,6 @@
             "Statistics and Probability | I"
         ]
     },
-    "203-15-3874": {
-        "sgpa": 0.0,
-        "name": "Md. Robiul Islam ",
-        "cTitleNgLetter": []
-    },
     "203-15-3883": {
         "sgpa": 0.0,
         "name": "Sakibul Islam Shakib ",
@@ -1456,6 +1467,11 @@
     "203-15-14513": {
         "sgpa": 0.0,
         "name": "Md. Shakhawat Hossain",
+        "cTitleNgLetter": []
+    },
+    "181-15-1096": {
+        "sgpa": 0.0,
+        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     }
 }
