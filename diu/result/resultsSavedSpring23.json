@@ -764,6 +764,22 @@
             "System Analysis and Design | B-"
         ]
     },
+    "202-15-14433": {
+        "sgpa": 3.0,
+        "name": "Md. Shihab Ullah",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B",
+            "Compiler Design | B",
+            "Data Mining and Machine Learning Lab | A-",
+            "Data Mining and Machine Learning | C+",
+            "Operating Systems Lab. | B",
+            "Operating Systems. | B",
+            "Pervasive Computing and Mobile App Development Lab | D",
+            "Pervasive Computing | B+",
+            "Research and Innovation | B+",
+            "System Analysis and Design | A-"
+        ]
+    },
     "203-15-3930": {
         "sgpa": 2.99,
         "name": "Md.Osman Goni ",
@@ -1211,7 +1227,7 @@
         "sgpa": 1.8,
         "name": "Sultan Mahmud Shawon",
         "cTitleNgLetter": [
-            "Algorithm Lab | Teaching evaluation is pending",
+            "Algorithm Lab | B+",
             "Algorithm | D",
             "Data Communication | F",
             "Engineering Mathematics | C+"
