@@ -108,6 +108,22 @@
             "System Analysis and Design | A+"
         ]
     },
+    "201-15-3117": {
+        "sgpa": 3.76,
+        "name": "Md. Salim Reza Joy",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A+",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | A",
+            "Operating Systems Lab. | A",
+            "Operating Systems. | A-",
+            "Pervasive Computing and Mobile App Development Lab | A+",
+            "Pervasive Computing | A+",
+            "Research and Innovation | A",
+            "System Analysis and Design | A+"
+        ]
+    },
     "203-15-14491": {
         "sgpa": 3.74,
         "name": "Salman",
@@ -585,22 +601,6 @@
             "Pervasive Computing and Mobile App Development Lab | C+",
             "Pervasive Computing | B+",
             "Research and Innovation | A+",
-            "System Analysis and Design | A-"
-        ]
-    },
-    "203-15-3865": {
-        "sgpa": 3.19,
-        "name": "Shekh Naziullah ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | B+",
-            "Compiler Design | B",
-            "Data Mining and Machine Learning Lab | A+",
-            "Data Mining and Machine Learning | B",
-            "Operating Systems Lab. | B+",
-            "Operating Systems. | B",
-            "Pervasive Computing and Mobile App Development Lab | D",
-            "Pervasive Computing | B+",
-            "Research and Innovation | A",
             "System Analysis and Design | A-"
         ]
     },
@@ -1335,21 +1335,6 @@
         "name": "Md. Mokaddus Hossain Abid ",
         "cTitleNgLetter": []
     },
-    "193-15-3028": {
-        "sgpa": 0.0,
-        "name": "Tanvir Hosain",
-        "cTitleNgLetter": [
-            "Computer Architecture and Organization | I",
-            "Computer Graphics Lab | I",
-            "Computer Graphics | I",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Information Security | I",
-            "Object Oriented Programming II Lab | I",
-            "Web Engineering Lab | I",
-            "Web Engineering | I"
-        ]
-    },
     "181-15-285": {
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
@@ -1369,22 +1354,6 @@
         "sgpa": 0.0,
         "name": "Md. Asif Haider",
         "cTitleNgLetter": []
-    },
-    "201-15-3105": {
-        "sgpa": 0.0,
-        "name": "KAZI SAIF MAHMUD ",
-        "cTitleNgLetter": [
-            "Algorithm Lab | I",
-            "Algorithm | I",
-            "Basic Electronics Lab | I",
-            "Digital Electronics Lab | I",
-            "Digital Electronics | I",
-            "Discrete Mathematics | F",
-            "Object Oriented Programming Lab | I",
-            "Object Oriented Programming | I",
-            "Software Project I | I",
-            "Statistics and Probability | I"
-        ]
     },
     "203-15-3883": {
         "sgpa": 0.0,
@@ -1472,6 +1441,11 @@
     "201-15-3325": {
         "sgpa": 0.0,
         "name": "SHAHRIAR HOSSAIN RIFAT ",
+        "cTitleNgLetter": []
+    },
+    "143-15-4546": {
+        "sgpa": 0.0,
+        "name": "Zamiul Islam",
         "cTitleNgLetter": []
     }
 }
