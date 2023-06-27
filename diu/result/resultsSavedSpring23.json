@@ -28,22 +28,6 @@
             "Web Engineering | A+"
         ]
     },
-    "203-15-3879": {
-        "sgpa": 3.9,
-        "name": "Jahidul Islam ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A+",
-            "Compiler Design | B+",
-            "Data Mining and Machine Learning Lab | A+",
-            "Data Mining and Machine Learning | A+",
-            "Operating Systems Lab. | A+",
-            "Operating Systems. | A+",
-            "Pervasive Computing and Mobile App Development Lab | A+",
-            "Pervasive Computing | A+",
-            "Research and Innovation | A",
-            "System Analysis and Design | A+"
-        ]
-    },
     "203-15-3881": {
         "sgpa": 3.86,
         "name": "Mahadi Hasan Munna",
@@ -604,6 +588,22 @@
             "System Analysis and Design | A-"
         ]
     },
+    "203-15-3865": {
+        "sgpa": 3.19,
+        "name": "Shekh Naziullah ",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B+",
+            "Compiler Design | B",
+            "Data Mining and Machine Learning Lab | A+",
+            "Data Mining and Machine Learning | B",
+            "Operating Systems Lab. | B+",
+            "Operating Systems. | B",
+            "Pervasive Computing and Mobile App Development Lab | D",
+            "Pervasive Computing | B+",
+            "Research and Innovation | A",
+            "System Analysis and Design | A-"
+        ]
+    },
     "203-15-3872": {
         "sgpa": 3.15,
         "name": "Md. Zubair Islam ",
@@ -890,22 +890,6 @@
             "Pervasive Computing | D",
             "Research and Innovation | B",
             "System Analysis and Design | C+"
-        ]
-    },
-    "203-15-3875": {
-        "sgpa": 2.82,
-        "name": "Md. Mostafizur Rahman ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A",
-            "Compiler Design | F",
-            "Data Mining and Machine Learning Lab | A-",
-            "Data Mining and Machine Learning | B-",
-            "Operating Systems Lab. | B+",
-            "Operating Systems. | C",
-            "Pervasive Computing and Mobile App Development Lab | B-",
-            "Pervasive Computing | B",
-            "Research and Innovation | B",
-            "System Analysis and Design | A-"
         ]
     },
     "203-15-3919": {
@@ -1447,5 +1431,36 @@
         "sgpa": 0.0,
         "name": "Zamiul Islam",
         "cTitleNgLetter": []
+    },
+    "193-15-3028": {
+        "sgpa": 0.0,
+        "name": "Tanvir Hosain",
+        "cTitleNgLetter": [
+            "Computer Architecture and Organization | I",
+            "Computer Graphics Lab | I",
+            "Computer Graphics | I",
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Information Security | I",
+            "Object Oriented Programming II Lab | I",
+            "Web Engineering Lab | I",
+            "Web Engineering | I"
+        ]
+    },
+    "201-15-3105": {
+        "sgpa": 0.0,
+        "name": "KAZI SAIF MAHMUD ",
+        "cTitleNgLetter": [
+            "Algorithm Lab | I",
+            "Algorithm | I",
+            "Basic Electronics Lab | I",
+            "Digital Electronics Lab | I",
+            "Digital Electronics | I",
+            "Discrete Mathematics | F",
+            "Object Oriented Programming Lab | I",
+            "Object Oriented Programming | I",
+            "Software Project I | I",
+            "Statistics and Probability | I"
+        ]
     }
 }
