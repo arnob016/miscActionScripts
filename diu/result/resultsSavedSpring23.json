@@ -15,19 +15,6 @@
             "System Analysis and Design | A+"
         ]
     },
-    "181-15-955": {
-        "sgpa": 3.92,
-        "name": "Mashiur Rahman",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | A+",
-            "Artificial Intelligence | A+",
-            "Compiler Design Lab | A+",
-            "Compiler Design | A+",
-            "Software Engineering | A",
-            "Web Engineering Lab | A-",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-3879": {
         "sgpa": 3.9,
         "name": "Jahidul Islam ",
@@ -972,6 +959,22 @@
             "System Analysis and Design | B"
         ]
     },
+    "201-15-3209": {
+        "sgpa": 2.76,
+        "name": "Zannatul Mawya Priya ",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B+",
+            "Compiler Design | C+",
+            "Data Mining and Machine Learning Lab | B",
+            "Data Mining and Machine Learning | C",
+            "Operating Systems Lab. | B+",
+            "Operating Systems. | C+",
+            "Pervasive Computing and Mobile App Development Lab | D",
+            "Pervasive Computing | B-",
+            "Research and Innovation | B",
+            "System Analysis and Design | B"
+        ]
+    },
     "201-15-3779": {
         "sgpa": 2.7,
         "name": "Anowar Karim",
@@ -1325,11 +1328,6 @@
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     },
-    "181-15-1852": {
-        "sgpa": 0.0,
-        "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": []
-    },
     "201-15-3063": {
         "sgpa": 0.0,
         "name": "Jugol Kishor Das",
@@ -1406,11 +1404,6 @@
         "name": "B.M. Rahat Almas",
         "cTitleNgLetter": []
     },
-    "201-15-3603": {
-        "sgpa": 0.0,
-        "name": "KH. Abrarul Islam Tanjim",
-        "cTitleNgLetter": []
-    },
     "181-15-1921": {
         "sgpa": 0.0,
         "name": "Md. Ashraful Islam ",
@@ -1472,6 +1465,11 @@
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3874": {
+        "sgpa": 0.0,
+        "name": "Md. Robiul Islam ",
         "cTitleNgLetter": []
     }
 }
