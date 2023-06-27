@@ -108,22 +108,6 @@
             "System Analysis and Design | A+"
         ]
     },
-    "201-15-3117": {
-        "sgpa": 3.76,
-        "name": "Md. Salim Reza Joy",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | Teaching evaluation is pending",
-            "Compiler Design | A-",
-            "Data Mining and Machine Learning Lab | B+",
-            "Data Mining and Machine Learning | A",
-            "Operating Systems Lab. | Teaching evaluation is pending",
-            "Operating Systems. | Teaching evaluation is pending",
-            "Pervasive Computing and Mobile App Development Lab | Teaching evaluation is pending",
-            "Pervasive Computing | Teaching evaluation is pending",
-            "Research and Innovation | A",
-            "System Analysis and Design | Teaching evaluation is pending"
-        ]
-    },
     "203-15-14491": {
         "sgpa": 3.74,
         "name": "Salman",
@@ -250,22 +234,6 @@
             "Pervasive Computing | A-",
             "Research and Innovation | B+",
             "System Analysis and Design | A-"
-        ]
-    },
-    "203-15-3871": {
-        "sgpa": 3.63,
-        "name": "Md. Rakibul Islam Shanto ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A+",
-            "Compiler Design | A-",
-            "Data Mining and Machine Learning Lab | B+",
-            "Data Mining and Machine Learning | A-",
-            "Operating Systems Lab. | A",
-            "Operating Systems. | A+",
-            "Pervasive Computing and Mobile App Development Lab | A-",
-            "Pervasive Computing | A-",
-            "Research and Innovation | A-",
-            "System Analysis and Design | A"
         ]
     },
     "201-15-3397": {
@@ -724,7 +692,7 @@
             "Compiler Design | C+",
             "Data Mining and Machine Learning Lab | B",
             "Data Mining and Machine Learning | D",
-            "Operating Systems Lab. | Teaching evaluation is pending",
+            "Operating Systems Lab. | A",
             "Operating Systems. | B-",
             "Pervasive Computing and Mobile App Development Lab | B+",
             "Pervasive Computing | B",
@@ -918,7 +886,7 @@
             "Data Mining and Machine Learning | B-",
             "Operating Systems Lab. | B+",
             "Operating Systems. | C",
-            "Pervasive Computing and Mobile App Development Lab | Teaching evaluation is pending",
+            "Pervasive Computing and Mobile App Development Lab | B-",
             "Pervasive Computing | B",
             "Research and Innovation | B",
             "System Analysis and Design | A-"
@@ -1309,6 +1277,17 @@
             "System Analysis and Design | Teaching evaluation is pending"
         ]
     },
+    "201-15-3711": {
+        "sgpa": 0.5,
+        "name": "Sabikur Rahman",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | F",
+            "Artificial Intelligence | F",
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Database Management System | D"
+        ]
+    },
     "203-15-3892": {
         "sgpa": 0.15,
         "name": "Md. Mahfuj Sarker ",
@@ -1333,11 +1312,6 @@
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": []
-    },
-    "181-15-1096": {
-        "sgpa": 0.0,
-        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     },
     "201-15-3063": {
@@ -1472,6 +1446,16 @@
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "181-15-968": {
+        "sgpa": 0.0,
+        "name": "Rokaya Akter Taiyaba",
+        "cTitleNgLetter": []
+    },
+    "203-15-14513": {
+        "sgpa": 0.0,
+        "name": "Md. Shakhawat Hossain",
         "cTitleNgLetter": []
     }
 }
