@@ -76,6 +76,22 @@
             "System Analysis and Design | A"
         ]
     },
+    "203-15-3903": {
+        "sgpa": 3.82,
+        "name": "Saied Hasan",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A+",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | A-",
+            "Data Mining and Machine Learning | A+",
+            "Operating Systems Lab. | A+",
+            "Operating Systems. | A+",
+            "Pervasive Computing and Mobile App Development Lab | A+",
+            "Pervasive Computing | B+",
+            "Research and Innovation | A-",
+            "System Analysis and Design | A+"
+        ]
+    },
     "201-15-3442": {
         "sgpa": 3.81,
         "name": "MD. FOYSAL SHEIKH ",
@@ -713,22 +729,6 @@
             "Pervasive Computing and Mobile App Development Lab | B+",
             "Pervasive Computing | B",
             "Research and Innovation | B",
-            "System Analysis and Design | A-"
-        ]
-    },
-    "202-15-14433": {
-        "sgpa": 3.0,
-        "name": "Md. Shihab Ullah",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | B",
-            "Compiler Design | B",
-            "Data Mining and Machine Learning Lab | A-",
-            "Data Mining and Machine Learning | C+",
-            "Operating Systems Lab. | B",
-            "Operating Systems. | B",
-            "Pervasive Computing and Mobile App Development Lab | D",
-            "Pervasive Computing | B+",
-            "Research and Innovation | B+",
             "System Analysis and Design | A-"
         ]
     },
