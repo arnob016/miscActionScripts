@@ -76,22 +76,6 @@
             "System Analysis and Design | A"
         ]
     },
-    "203-15-3903": {
-        "sgpa": 3.82,
-        "name": "Saied Hasan",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A+",
-            "Compiler Design | A-",
-            "Data Mining and Machine Learning Lab | A-",
-            "Data Mining and Machine Learning | A+",
-            "Operating Systems Lab. | A+",
-            "Operating Systems. | A+",
-            "Pervasive Computing and Mobile App Development Lab | A+",
-            "Pervasive Computing | B+",
-            "Research and Innovation | A-",
-            "System Analysis and Design | A+"
-        ]
-    },
     "201-15-3442": {
         "sgpa": 3.81,
         "name": "MD. FOYSAL SHEIKH ",
@@ -700,6 +684,22 @@
             "System Analysis and Design | B+"
         ]
     },
+    "203-15-3868": {
+        "sgpa": 3.1,
+        "name": "Nafi Bin Monsoor Alvi",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A-",
+            "Compiler Design | C+",
+            "Data Mining and Machine Learning Lab | A",
+            "Data Mining and Machine Learning | C",
+            "Operating Systems Lab. | A-",
+            "Operating Systems. | A-",
+            "Pervasive Computing and Mobile App Development Lab | C",
+            "Pervasive Computing | B",
+            "Research and Innovation | B+",
+            "System Analysis and Design | A-"
+        ]
+    },
     "201-15-3559": {
         "sgpa": 3.04,
         "name": "Md. Azhar Uddin Imran",
@@ -1128,6 +1128,21 @@
             "System Analysis and Design | C+"
         ]
     },
+    "201-15-3313": {
+        "sgpa": 2.4,
+        "name": "MD. LUTFOR RAHMAN ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | C+",
+            "Artificial Intelligence | B-",
+            "Computer Networks Lab | C",
+            "Computer Networks | C",
+            "Database Management System Lab | D",
+            "Database Management System | C",
+            "Economics | B-",
+            "Operating Systems Lab. | C",
+            "Operating Systems. | B"
+        ]
+    },
     "203-15-3873": {
         "sgpa": 2.35,
         "name": "Md.Tanvir Siddik",
@@ -1457,6 +1472,11 @@
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
+        "cTitleNgLetter": []
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
         "cTitleNgLetter": []
     }
 }
