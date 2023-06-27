@@ -284,6 +284,22 @@
             "System Analysis and Design | A"
         ]
     },
+    "191-15-2716": {
+        "sgpa": 3.53,
+        "name": "Shawkat Uddin Akanda",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | A",
+            "Compiler Design | B+",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | B+",
+            "Operating Systems Lab. | A",
+            "Operating Systems. | A-",
+            "Pervasive Computing and Mobile App Development Lab | A-",
+            "Pervasive Computing | A",
+            "Research and Innovation | A-",
+            "System Analysis and Design | A"
+        ]
+    },
     "203-15-3922": {
         "sgpa": 3.51,
         "name": "Eshita Akter ",
@@ -490,22 +506,6 @@
             "Pervasive Computing | C",
             "Research and Innovation | A",
             "System Analysis and Design | A-"
-        ]
-    },
-    "201-15-3692": {
-        "sgpa": 3.31,
-        "name": "Galib Al Jadid ",
-        "cTitleNgLetter": [
-            "Compiler Design Lab | A",
-            "Compiler Design | C+",
-            "Data Mining and Machine Learning Lab | A",
-            "Data Mining and Machine Learning | C+",
-            "Operating Systems Lab. | A",
-            "Operating Systems. | B+",
-            "Pervasive Computing and Mobile App Development Lab | A-",
-            "Pervasive Computing | A-",
-            "Research and Innovation | A-",
-            "System Analysis and Design | B+"
         ]
     },
     "202-15-3824": {
@@ -922,6 +922,22 @@
             "Pervasive Computing | B",
             "Research and Innovation | A",
             "System Analysis and Design | B+"
+        ]
+    },
+    "193-15-2947": {
+        "sgpa": 2.81,
+        "name": "Md Enamul Huq",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B",
+            "Compiler Design | C",
+            "Data Mining and Machine Learning Lab | B+",
+            "Data Mining and Machine Learning | C",
+            "Operating Systems Lab. | A-",
+            "Operating Systems. | B-",
+            "Pervasive Computing and Mobile App Development Lab | C",
+            "Pervasive Computing | B-",
+            "Research and Innovation | B",
+            "System Analysis and Design | B"
         ]
     },
     "193-15-2972": {
@@ -1456,11 +1472,6 @@
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": []
-    },
-    "201-15-3603": {
-        "sgpa": 0.0,
-        "name": "KH. Abrarul Islam Tanjim",
         "cTitleNgLetter": []
     }
 }
